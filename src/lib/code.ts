@@ -13,6 +13,13 @@ export const kotlinSetupBlock = async () => {
 
 dependencies {
     implementation("dev.wendigodrip:thebrokenscript:${await getLatestVersion()}")
+
+    // These are needed so you can use TBS APIs properly.
+    // Even if you aren't using Kotlin, you need to have KFF as a dependency unless you want compiler errors.
+    implementation("software.bernie.geckolib:geckolib-neoforge-1.21.1:4.7.3")
+    implementation("me.fzzyhmstrs:fzzy_config:0.6.9+1.21+neoforge")
+    implementation("thedarkcolour:kotlinforforge-neoforge:5.7.0")
+    implementation("com.tterrag.registrate:Registrate:MC1.21-1.3.0+67")
 }`;
 };
 
@@ -29,5 +36,12 @@ export const groovySetupBlock = async () => {
 
 dependencies {
     implementation("dev.wendigodrip:thebrokenscript:${await getLatestVersion()}")
+
+    // These are needed so you can use TBS APIs properly.
+    // Even if you aren't using Kotlin, you need to have KFF as a dependency unless you want compiler errors.
+    implementation("software.bernie.geckolib:geckolib-neoforge-1.21.1:4.7.3")
+    implementation("me.fzzyhmstrs:fzzy_config:0.6.9+1.21+neoforge")
+    implementation("thedarkcolour:kotlinforforge-neoforge:5.7.0")
+    implementation("com.tterrag.registrate:Registrate:MC1.21-1.3.0+67")
 }`;
 };

@@ -11,22 +11,24 @@ import { Steps, Tabs, TabItem, Aside } from "@/starlight/components";
 The events API lets you easily create your own events by inheriting from the
 [BaseEvent](/javadoc/dev/wendigodrip/thebrokenscript/api/event/BaseEvent.html) class.
 
+Events can only run server-side, so you don't have to worry about them accidentally triggering client-side.
+
 <Tabs>
     <TabItem label="Kotlin">
         ```kt title="MyEvent.kt"
         package com.example.mymod.events
 
         import dev.wendigodrip.thebrokenscript.api.event.BaseEvent
-        import net.minecraft.world.entity.Entity
-        import net.minecraft.world.level.Level
+        import net.minecraft.server.level.ServerLevel
+        import net.minecraft.server.level.ServerPlayer
         import net.minecraft.world.phys.Vec3
 
         //              BaseEvent(weight: Int)
         class MyEvent : BaseEvent(1) {
             // level: The level the event was executed in.
-            // entity: The entity the event was executed on.
+            // player: The player the event was executed on.
             // pos: The position of the entity, where the event was executed.
-            override fun execute(level: Level, entity: Entity, pos: Vec3) {
+            override fun execute(level: ServerLevel, player: ServerPlayer, pos: Vec3) {
                 // Your code here...
             }
         }
@@ -38,8 +40,8 @@ The events API lets you easily create your own events by inheriting from the
         package com.example.mymod.events;
 
         import dev.wendigodrip.thebrokenscript.api.event.BaseEvent;
-        import net.minecraft.world.entity.Entity;
-        import net.minecraft.world.level.Level;
+        import net.minecraft.server.level.ServerLevel;
+        import net.minecraft.server.level.ServerPlayer;
         import net.minecraft.world.phys.Vec3;
 
         public class MyEvent extends BaseEvent {
@@ -48,10 +50,10 @@ The events API lets you easily create your own events by inheriting from the
             }
 
             // level: The level the event was executed in.
-            // entity: The entity the event was executed on.
+            // player: The player the event was executed on.
             // pos: The position of the entity, where the event was executed.
             @Override
-            public void execute(Level level, Entity entity, Vec3 pos) {
+            public void execute(ServerLevel level, ServerPlayer player, Vec3 pos) {
                 // Your code here...
             }
         }
@@ -89,20 +91,20 @@ Don't forget to register the event:
 
         import net.neoforged.fml.common.Mod
         import thedarkcolour.kotlinforforge.neoforge.forge.MOD_BUS
-        import dev.wendigodrip.thebrokenscript.api.registry.RegistryWrapper
+        import dev.wendigodrip.thebrokenscript.api.registry.ExtendedRegistrate
         import com.example.mymod.events.MyEvent
 
         @Mod(MyMod.MOD_ID)
         object MyMod {
             const val MOD_ID: String = "my_mod"
-            val REGISTRAR = RegistryWrapper(MOD_ID)
+            val REGISTRAR = ExtendedRegistrate.create(MOD_ID)
 
             init {
                 // Your code here...
 
                 //              [   ID   ]  [Constructor]
-                REGISTRAR.event("my_event", ::MyEvent)
-                REGISTRAR.setup(MOD_BUS) // <- Make sure you register everything before calling setup()!
+                REGISTRAR.event("my_event", ::MyEvent).register()
+                                                    // ^^^^^^^ Make sure you call .register(), or it won't register!
             }
         }
         ```
@@ -115,37 +117,26 @@ Don't forget to register the event:
         import net.neoforged.fml.ModContainer;
         import net.neoforged.fml.common.Mod;
         import net.neoforged.bus.api.IEventBus;
-        import dev.wendigodrip.thebrokenscript.api.registry.RegistryWrapper;
+        import dev.wendigodrip.thebrokenscript.api.registry.ExtendedRegistrate;
         import com.example.mymod.events.MyEvent;
 
         @Mod(MyMod.MOD_ID)
         public class MyMod {
             public static final String MOD_ID = "my_mod";
-            public static final RegistryWrapper REGISTRAR = new RegistryWrapper(MOD_ID);
+            public static final ExtendedRegistrate<?> REGISTRAR = ExtendedRegistrate.Companion.create(MOD_ID);
 
             public MyMod(IEventBus bus, ModContainer mod) {
                 // Your code here...
 
                 //              [   ID   ]  [Constructor]
-                REGISTRAR.event("my_event", MyEvent::new);
-                REGISTRAR.setup(bus); // <- Make sure you register everything before calling setup()!
+                REGISTRAR.event("my_event", MyEvent::new).register();
+                                                        // ^^^^^^^ Make sure you call .register(), or it won't register!
             }
         }
         ```
     </TabItem>
 
 </Tabs>
-
-<Aside type="tip" title="Technical Details">
-    Events are registered using the class's constructor. The reason for this is
-    because internally, our registry system uses the
-    [`DeferredRegister`](https://docs.neoforged.net/docs/concepts/registries#deferredregister)
-    from NeoForge to perform registration, which allows things to be registered
-    at the correct time without us having to hook into the correct events
-    manually. The classes you register should only ever be instantiated once
-    after registry sync (which happens when you initially join a world or
-    server), and therefore can hold temporary state inside them.
-</Aside>
 
 After registering, you can test your event using the `/tbs dev event force [id]` command,
 but make sure to enable cheats in the config first!
