@@ -59,8 +59,8 @@ export const onePointX: VersionItem[] = [
 ];
 
 export const spectrum11: VersionItem[] = [
-    version("s11/spectrum_11.jar", "v0.1", true),
-    version("s11/spectrum_11-0.2(WINDOWS11ONLY).jar", "v0.2", true),
+    version("s11/spectrum_11.jar", "spectrum_11 v0.1", true),
+    version("s11/spectrum_11-0.2(WINDOWS11ONLY).jar", "spectrum_11 v0.2", true),
 ];
 
 export const communityPatch: VersionItem[] = [
