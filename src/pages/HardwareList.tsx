@@ -442,3 +442,4 @@ export function HardwareList({ kind }: { kind: 'cpu' | 'gpu' }) {
     </div>
   );
 }
+export default HardwareList;
