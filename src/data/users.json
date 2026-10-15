@@ -1,0 +1,146 @@
+[
+ {
+  "id": "build-1",
+  "title": "1440p Sweet Spot",
+  "author": "frame_chaser",
+  "cpuSlug": "amd-ryzen-5-7600",
+  "gpuSlug": "nvidia-geforce-rtx-4070-super",
+  "parts": [
+   "ASUS TUF B650-Plus WiFi",
+   "Corsair Vengeance 32GB DDR5-6000",
+   "WD SN850X 2TB",
+   "Corsair RM850x",
+   "Fractal North"
+  ],
+  "total": 1640,
+  "purpose": "gaming",
+  "likes": 842,
+  "description": "Balanced 1440p/165 machine with clean thermals and zero bloat."
+ },
+ {
+  "id": "build-2",
+  "title": "Budget LAN Party",
+  "author": "lanlord",
+  "cpuSlug": "amd-ryzen-5-5600",
+  "gpuSlug": "amd-radeon-rx-6600",
+  "parts": [
+   "MSI B550 Tomahawk",
+   "Kingston Fury 16GB DDR4-3200",
+   "Kingston NV2 1TB",
+   "MSI A650BN",
+   "Montech AIR 1000"
+  ],
+  "total": 780,
+  "purpose": "budget",
+  "likes": 651,
+  "description": "CS2/Valorant at 300+ FPS for under €800. Upgrade path to 5800X3D kept open."
+ },
+ {
+  "id": "build-3",
+  "title": "Creator Beast",
+  "author": "pixel_forge",
+  "cpuSlug": "amd-ryzen-9-7950x",
+  "gpuSlug": "nvidia-geforce-rtx-4090",
+  "parts": [
+   "ASUS ProArt X670E",
+   "G.Skill 96GB DDR5-6000",
+   "Samsung 990 Pro 4TB",
+   "Seasonic TX-1000",
+   "Torrent"
+  ],
+  "total": 4100,
+  "purpose": "workstation",
+  "likes": 512,
+  "description": "8K timeline editing + local SDXL. Air-cooled, whisper quiet at idle."
+ },
+ {
+  "id": "build-4",
+  "title": "ITX Mini Monster",
+  "author": "small_form",
+  "cpuSlug": "amd-ryzen-7-7800x3d",
+  "gpuSlug": "nvidia-geforce-rtx-4070",
+  "parts": [
+   "Gigabyte B650I Aorus Ultra",
+   "Crucial Pro 32GB DDR5-6000",
+   "SN770 1TB",
+   "Corsair SF750",
+   "Meshlicious + A4-H2O mods"
+  ],
+  "total": 1980,
+  "purpose": "sff",
+  "likes": 433,
+  "description": "9.8 litres, full X3D gaming. Cable diagram in comments."
+ },
+ {
+  "id": "build-5",
+  "title": "Stream Team Rig",
+  "author": "midnight_mt",
+  "cpuSlug": "intel-core-i7-14700k",
+  "gpuSlug": "nvidia-geforce-rtx-4070-ti-super",
+  "parts": [
+   "MSI MPG Z790 Edge WiFi",
+   "TeamGroup 32GB DDR5-6400",
+   "FireCuda 540 2TB",
+   "NZXT C850",
+   "H7 Flow"
+  ],
+  "total": 2260,
+  "purpose": "streaming",
+  "likes": 289,
+  "description": "NVENC dual-encoder setup, OBS at 1080p60 gameplay + facecam + alerts."
+ },
+ {
+  "id": "build-6",
+  "title": "Grandma-Proof Office",
+  "author": "quiet_desk",
+  "cpuSlug": "intel-core-i3-12100f",
+  "gpuSlug": "nvidia-geforce-gtx-1650",
+  "parts": [
+   "ASRock B660M-HDV",
+   "Crucial 16GB DDR4-3200",
+   "MX500 1TB",
+   "CX550M",
+   "Define Compact"
+  ],
+  "total": 520,
+  "purpose": "budget",
+  "likes": 198,
+  "description": "Ten-year uptime target. No RGB, no drama, no dust (positive pressure filters)."
+ },
+ {
+  "id": "build-7",
+  "title": "Threadripper Render Node",
+  "author": "farm_ops",
+  "cpuSlug": "amd-threadripper-7970x",
+  "gpuSlug": "nvidia-geforce-rtx-4080-super",
+  "parts": [
+   "ASRock TRX50 WS",
+   "Kingston 128GB DDR5-5200 ECC",
+   "990 Pro 2TB x2",
+   "HX1200i",
+   "Enthoo Pro 2"
+  ],
+  "total": 6800,
+  "purpose": "workstation",
+  "likes": 176,
+  "description": "Two-node farm for Octane. Remote-managed, redundant power."
+ },
+ {
+  "id": "build-8",
+  "title": "APU Tiny Home Theater",
+  "author": "htpc_dan",
+  "cpuSlug": "amd-ryzen-5-8600g",
+  "gpuSlug": "amd-radeon-760m",
+  "parts": [
+   "ASRock B650M-HDV/M.2",
+   "Flare X5 32GB DDR5-6000",
+   "P3 Plus 2TB",
+   "Rosewill 450 SFX",
+   "InWin A1"
+  ],
+  "total": 640,
+  "purpose": "sff",
+  "likes": 143,
+  "description": "Plays everything at 720p-1080p low from the couch. Silent 14dB."
+ }
+]

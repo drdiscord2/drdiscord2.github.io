@@ -1,0 +1,37 @@
+[
+ {
+  "id": "a-marek",
+  "name": "Marek Vlk",
+  "role": "Editor-in-chief",
+  "bio": "15 years covering silicon. Formerly at a Czech hardware magazine; overclocker since the Tualatin days.",
+  "initials": "MV"
+ },
+ {
+  "id": "a-lena",
+  "name": "Lena Okafor",
+  "role": "Senior Benchmarks Editor",
+  "bio": "Runs our test lab. Owns 40+ CPUs and a very confused power meter.",
+  "initials": "LO"
+ },
+ {
+  "id": "a-jiri",
+  "name": "Jiří Doubek",
+  "role": "PC Builder Specialist",
+  "bio": "Builds 20+ systems a month. SFF evangelist, cable-management perfectionist.",
+  "initials": "JD"
+ },
+ {
+  "id": "a-sam",
+  "name": "Sam Whitfield",
+  "role": "GPU Analyst",
+  "bio": "Focuses on graphics architectures, upscaling tech and driver quality.",
+  "initials": "SW"
+ },
+ {
+  "id": "a-priya",
+  "name": "Priya Raman",
+  "role": "Data Engineer",
+  "bio": "Maintains the database, benchmark normalization and price tracking pipelines.",
+  "initials": "PR"
+ }
+]

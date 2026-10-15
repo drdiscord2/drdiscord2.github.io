@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/infomachine.github.io/favicon.svg" />
+    <link rel="apple-touch-icon" href="/infomachine.github.io/icons/icon-192.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0b0f14" />
+    <meta
+      name="description"
+      content="Infomachine — massive PC hardware database with 300+ CPUs & GPUs, side-by-side comparisons, benchmarks, a step-by-step PC builder, calculators and guides."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Infomachine" />
+    <meta property="og:title" content="Infomachine — PC Hardware Database & Benchmarks" />
+    <meta
+      property="og:description"
+      content="Compare CPUs and GPUs, build a compatible PC, browse benchmarks, specs, price history and hardware news — all offline-capable."
+    />
+    <meta property="og:url" content="https://infomachine.github.io/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <title>Infomachine — PC Hardware Database, Benchmarks & PC Builder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Infomachine",
+        "url": "https://infomachine.github.io/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://infomachine.github.io/#/search?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    <script>
+      // Apply saved theme before paint to avoid flash
+      try {
+        var t = localStorage.getItem('im-theme');
+        if (t === 'light') document.documentElement.classList.remove('dark');
+        if (localStorage.getItem('im-contrast') === 'high') document.documentElement.classList.add('high-contrast');
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

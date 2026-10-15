@@ -1,0 +1,433 @@
+[
+ {
+  "id": "art-how-to-choose-cpu-2026",
+  "slug": "how-to-choose-cpu-2026",
+  "title": "How to Choose a CPU in 2026: The Complete Guide",
+  "excerpt": "Cores, clocks, caches and sockets — a practical decision framework for gaming, productivity or both.",
+  "body": [
+   "Choosing a processor is mostly about matching workload to architecture. Gamers should prioritise single-core speed and low-latency cache (3D V-Cache parts dominate here), while streamers, editors and developers benefit from more cores and threads.",
+   "Start with your budget tier. Under $150, the Ryzen 5 5500 and Core i3-12100F still handle esports titles brilliantly. In the $180–$280 sweet spot, Ryzen 5 7600 and i5-12400F/14400F offer the best all-round value. Above $300 you enter enthusiast territory where you must decide between gaming champions (7800X3D) and productivity workhorses (9900X/14700K).",
+   "Check the platform before the chip. AM5 guarantees upgrade paths through 2027+, LGA 1700 is a dead end but boards are cheap, and DDR5 prices have fallen to the point where they no longer justify buying into older memory standards on a new build.",
+   "Finally, never buy more CPU than your GPU can feed. At 4K, even a midrange Ryzen 5 drives flagship GPUs close to full utilization; spend the savings on graphics instead."
+  ],
+  "category": "Guides",
+  "tags": [
+   "cpu",
+   "buying-guide",
+   "amd",
+   "intel"
+  ],
+  "author": "Marek Vlk",
+  "date": "2026-08-14",
+  "readMinutes": 9,
+  "cover": "cyan"
+ },
+ {
+  "id": "art-how-to-choose-gpu-2026",
+  "slug": "how-to-choose-gpu-2026",
+  "title": "How to Choose a GPU: Resolution, VRAM and Upscaling Explained",
+  "excerpt": "What actually matters when picking a graphics card — and what marketing numbers you can safely ignore.",
+  "body": [
+   "The only question that truly matters: which resolution and refresh rate do you want? For 1080p/144 Hz, cards around RTX 4060 / RX 7600 are ideal. For 1440p/165 Hz aim at RTX 4070 Super / RX 7800 XT. For native 4K there is only one honest answer today — RTX 4080 Super and above.",
+   "VRAM is the wildcard. Modern titles at high settings happily consume 10–16 GB; an 8 GB card will stutter in next-gen open worlds regardless of raw compute. We recommend 12 GB minimum for a card you plan to keep past 2027.",
+   "Upscaling changed the market. DLSS, FSR and XeSS let a midrange card approach last-gen flagship image quality at a fraction of the cost — but upscaling cannot fix geometry or CPU bottlenecks, so pair wisely.",
+   "Watch power and size too: 3-slot coolers block mATX boards, and a 450 W GPU demands a 1000 W PSU. Our PC Builder checks all of this automatically."
+  ],
+  "category": "Guides",
+  "tags": [
+   "gpu",
+   "buying-guide",
+   "nvidia",
+   "amd",
+   "intel"
+  ],
+  "author": "Sam Whitfield",
+  "date": "2026-08-02",
+  "readMinutes": 8,
+  "cover": "orange"
+ },
+ {
+  "id": "art-how-to-build-a-pc-step-by-step",
+  "slug": "how-to-build-a-pc-step-by-step",
+  "title": "How to Build a PC: Step-by-Step for First-Timers",
+  "excerpt": "From unboxing to first boot — the exact order we use in the lab, with the mistakes beginners make most.",
+  "body": [
+   "Work top-down: install the CPU into the socket (align the gold triangle), then RAM (click firmly until latches snap), then the M.2 SSD, then the cooler — before the board ever enters the case. This makes error diagnosis trivial.",
+   "Thermal paste: a rice-grain blob in the centre is enough for every consumer chip. Spread is a myth; pressure spreads it. Mount air coolers perpendicular to RAM slots for serviceability.",
+   "In the case: standoffs first (never let the PCB touch metal), I/O shield snapped in, then board screws finger-tight then a quarter turn each in a star pattern. Front-panel connectors trip everyone up — consult the manual page, not YouTube.",
+   "PSU cables: 24-pin ATX, 8-pin EPS (CPU), PCIe power for the GPU — use separate cables for 300 W+ cards, never a single pigtail daisy-chain. Then GPU, storage, and finally cable management for airflow.",
+   "First boot: plug display into the GPU (not the motherboard!), power on, hit DEL for BIOS, enable XMP/EXPO, set fan curves, save. Install Windows from USB made with Media Creation Tool. Done."
+  ],
+  "category": "Tutorials",
+  "tags": [
+   "pc-build",
+   "tutorial",
+   "beginner"
+  ],
+  "author": "Jiří Doubek",
+  "date": "2026-07-21",
+  "readMinutes": 12,
+  "cover": "violet"
+ },
+ {
+  "id": "art-overclocking-guide-modern",
+  "slug": "overclocking-guide-modern",
+  "title": "Overclocking in 2026: PBO, Curve Optimizer & Intel Default Settings",
+  "excerpt": "Modern overclocking is mostly negative voltage offsets and power limits. Here is the safe recipe.",
+  "body": [
+   "Zen 4/5: enable PBO (Motherboard limit off), set DC/AC loadline to ~1x/0.01x measured Ohms, then apply a negative Curve Optimizer offset starting at −10 all-core. Test with y-cruncher and OCCT AVX2 for an hour each. Most chips reach −20 to −30; find the per-core \"silicon lottery\" ceiling.",
+   "Intel 13th–14th gen: stability comes first. Apply Intel Default Settings (253 W PL1/PL2), undervolt via SP offset or per-core AC/DC calibration. On K chips, all-core ratios of 5.5–5.7 GHz at ~1.25 V are typical on good silicon.",
+   "Memory: EXPO/XMP profiles are validated presets. Manual tuning pays dividends on Ryzen — 6000 CL30 is the sweet spot due to the UCLK=MCLK 1:1 fabric limit. Loosen tRFC first (it gives the biggest real-world gain), then chase voltages.",
+   "Always verify with real benchmarks, not just stress tests: a clock that passes Prime95 but fails a game is still unstable. Document every setting — our Overclocking Calculator tool helps track frequency/voltage deltas."
+  ],
+  "category": "Guides",
+  "tags": [
+   "overclocking",
+   "performance",
+   "tuning"
+  ],
+  "author": "Marek Vlk",
+  "date": "2026-06-30",
+  "readMinutes": 10,
+  "cover": "red"
+ },
+ {
+  "id": "art-thermal-paste-application",
+  "slug": "thermal-paste-application",
+  "title": "Thermal Paste Application: Pea Method vs Spreader vs Liquid Metal",
+  "excerpt": "We tested five application methods across 30 coolers. The differences are smaller than you think — except liquid metal.",
+  "body": [
+   "For stock and tower coolers, the pea-in-centre method wins consistently: even coverage under mounting pressure, no voids, easiest cleanup. Corner dots help slightly on huge dies like AD102.",
+   "Spreading by hand adds air pockets and wastes paste. It only matters for direct-die custom loops where mounting pressure is low.",
+   "Liquid metal drops temps 5–15 °C on laptop chips (direct die) but conducts electricity — catastrophic on AM4/AM5 where the SMD capacitors surround the IHS. Use gallium pads if you must, and never on aluminium cold plates (it eats it).",
+   "Re-paste cadence: every 2–3 years for standard paste, annually for liquid metal. If delta-T over ambient crept up 8 °C, your paste is cooked."
+  ],
+  "category": "Tutorials",
+  "tags": [
+   "cooling",
+   "thermal-paste",
+   "maintenance"
+  ],
+  "author": "Lena Okafor",
+  "date": "2026-05-18",
+  "readMinutes": 7,
+  "cover": "teal"
+ },
+ {
+  "id": "art-troubleshooting-common-issues",
+  "slug": "troubleshooting-common-issues",
+  "title": "PC Won’t Boot? Troubleshooting the 12 Most Common Issues",
+  "excerpt": "Debug LEDs, beep codes, no-post, random restarts, blue screens — a decision tree that fixes 90 % of cases.",
+  "body": [
+   "No power at all: check the PSU switch, wall outlet, and the 24-pin reseat. Short the PS_ON pin to ground with a paperclip to test the PSU standalone.",
+   "Fans spin, no display: watch motherboard debug LEDs (CPU → DRAM → VGA → BOOT). Solid DRAM light means reseat sticks one at a time in slot A2; bent socket pins cause phantom DRAM errors on AM5 constantly.",
+   "Random restarts under load: 70 % PSU (failing caps or insufficient wattage), 20 % unstable XMP/OC (test with JEDEC defaults), 10 % thermal shutdown (check throttling in HWiNFO).",
+   "Blue screens: note the stop code. WHEA_UNCORRECTABLE_ERROR = hardware/voltage; IRQL_NOT_LESS_OR_EQUAL = driver; MEMORY_MANAGEMENT = RAM or page file. Verify with memtest86 overnight and DDU-clean driver reinstalls.",
+   "Boot loop after GPU upgrade: clear CMOS, disable Fast Startup, and update BIOS — many older boards need a microcode update for newer CPUs before they POST reliably."
+  ],
+  "category": "Guides",
+  "tags": [
+   "troubleshooting",
+   "repair",
+   "faq"
+  ],
+  "author": "Jiří Doubek",
+  "date": "2026-04-25",
+  "readMinutes": 11,
+  "cover": "amber"
+ },
+ {
+  "id": "art-ddr5-vs-ddr4-2026",
+  "slug": "ddr5-vs-ddr4-2026",
+  "title": "DDR5 vs DDR4 in 2026: Is It Finally Worth It?",
+  "excerpt": "Prices converged, latencies dropped, and capacity-per-stick doubled. The debate is over — here’s the data.",
+  "body": [
+   "At launch DDR5 was slower in games due to latency. Today 6000 CL30 kits beat 3600 CL16 DDR4 by 4–12 % in CPU-bound titles and match it elsewhere, while offering double the bandwidth for productivity.",
+   "Cost math: 32 GB DDR4 ≈ $65 used/new-old-stock, 32 GB DDR5 ≈ $95. The $30 premium buys higher binning headroom, 2× stick capacities and future-proofing — DDR4 has no upgrade path left.",
+   "Platform reality decides anyway: AM5 is DDR5-only, and new Intel builds increasingly ship DDR5-only boards. Only stay on DDR4 if you already own a compatible Z690/B660 D4 board or you’re building sub-$400 total."
+  ],
+  "category": "News Analysis",
+  "tags": [
+   "memory",
+   "ddr5",
+   "ddr4"
+  ],
+  "author": "Priya Raman",
+  "date": "2026-03-12",
+  "readMinutes": 6,
+  "cover": "cyan"
+ },
+ {
+  "id": "art-best-budget-gpus-tier-list",
+  "slug": "best-budget-gpus-tier-list",
+  "title": "The Budget GPU Tier List: What $150 Buys You in 2026",
+  "excerpt": "Used mining cards, new entry-level SKUs and integrated graphics — ranked by 1080p FPS per dollar.",
+  "body": [
+   "S tier: RX 6600 (~$190 new) — unbeatable raster value, 132 W. A tier: RTX 2060 refurbished, Arc A750 when discounted below $170 (XeSS + AV1 encode save it). B tier: GTX 1660 Super used, RX 5700 XT if you accept 225 W.",
+   "Avoid: anything 4 GB or less in 2026, RX 6500 XT (PCIe x4 cripples old platforms), and no-name \"new\" GTX 1050 Ti clones.",
+   "Integrated graphics are now genuinely usable: Radeon 780M plays esports at 1080p/60 and low-medium AAA at 720p. For a strict $0 GPU budget, buy an AM5 APU instead of used discrete cards."
+  ],
+  "category": "Comparisons",
+  "tags": [
+   "gpu",
+   "budget",
+   "tier-list"
+  ],
+  "author": "Sam Whitfield",
+  "date": "2026-02-20",
+  "readMinutes": 8,
+  "cover": "green"
+ },
+ {
+  "id": "art-psu-sizing-myths",
+  "slug": "psu-sizing-myths",
+  "title": "Your PSU Doesn’t Need 1200 W: Debunking Wattage Myths",
+  "excerpt": "Transient spikes, 80+ ratings and why \"headroom for upgrades\" is the most expensive advice on the internet.",
+  "body": [
+   "Modern GPUs idle at 10–20 W and their transient spikes last microseconds — a quality 750 W unit rides out RTX 4080-class spikes without tripping. Our lab measures system peak draw: 14700K + 4070 Ti = 430 W actual.",
+   "Rule of thumb: peak system draw × 1.6, rounded to the nearest common size. That puts most builds at 650–850 W. Buying 1200 W \"just in case\" costs efficiency at low load and money you could spend on GPU.",
+   "80+ certification says nothing about ripple, transient response or 12 V rail quality. Prioritise units with 10-year warranties and known platforms (Corsair RMx, Seasonic Focus, be quiet! Straight Power)."
+  ],
+  "category": "Guides",
+  "tags": [
+   "psu",
+   "power",
+   "myths"
+  ],
+  "author": "Lena Okafor",
+  "date": "2026-01-15",
+  "readMinutes": 6,
+  "cover": "orange"
+ },
+ {
+  "id": "art-nvme-generation-guide",
+  "slug": "nvme-generation-guide",
+  "title": "NVMe Generations: Does PCIe 5.0 SSD Matter Yet?",
+  "excerpt": "Gen5 doubles sequential numbers but barely moves real-world load times. When the premium is justified.",
+  "body": [
+   "Sequential reads look impressive (12 GB/s vs 7 GB/s) but OS/game loads are dominated by 4 KB random reads, where Gen5 leads by only 8–15 %. Game install times differ by seconds.",
+   "Gen5 runs hot — heatsinks mandatory, throttling common in cramped laptops. For 95 % of users the correct buy is a high-end Gen4 (990 Pro, SN850X) or even a budget Gen4 like NV2 for a games library.",
+   "Justified cases: large-file video editing scratch volumes, local AI model loading, and workstation RAID. Otherwise bank the difference toward capacity — 2 TB Gen4 beats 1 TB Gen5 in every metric that feels."
+  ],
+  "category": "Guides",
+  "tags": [
+   "storage",
+   "nvme",
+   "ssd"
+  ],
+  "author": "Priya Raman",
+  "date": "2025-12-08",
+  "readMinutes": 7,
+  "cover": "violet"
+ },
+ {
+  "id": "art-raytracing-path-tracing-explained",
+  "slug": "raytracing-path-tracing-explained",
+  "title": "Ray Tracing vs Path Tracing: Why Games Suddenly Look Like Movies",
+  "excerpt": "RT cores, BVH traversal, denoisers and frame generation — how modern lighting actually works on your GPU.",
+  "body": [
+   "Rasterization cheats: it draws triangles then guesses reflections with baked probes. Ray tracing casts actual light paths, giving perfect reflections, shadows and global illumination — at enormous compute cost.",
+   "Path tracing goes further: multiple bounce GI replaces nearly every raster technique. Cyberpunk PT needs ~4× the shader throughput of RT Ultra; only flagships run it natively, hence DLSS 3 frame generation exists.",
+   "Hardware implications: RT throughput scales with dedicated RT cores (Ada = 2× Ampere per clock). AMD RDNA3 uses ray accelerators + AI upsampler; Intel XeSS fills the ecosystem gap. Check our GPU filters for per-card RT indexes."
+  ],
+  "category": "Explainers",
+  "tags": [
+   "raytracing",
+   "graphics",
+   "technology"
+  ],
+  "author": "Sam Whitfield",
+  "date": "2025-11-19",
+  "readMinutes": 9,
+  "cover": "red"
+ },
+ {
+  "id": "art-cpu-cooling-air-vs-aio",
+  "slug": "cpu-cooling-air-vs-aio",
+  "title": "Air Cooler vs AIO in 2026: Benchmarked Across 20 Chips",
+  "excerpt": "A $40 dual-tower matches many $150 AIOs. Where liquid still wins — and where pump failure risk isn’t worth it.",
+  "body": [
+   "Best air (Peerless Assassin, NH-D12) handles up to ~250 W with acceptable noise and lasts decades. AIOs shine above 280 W sustained (14900K AVX2, 7950X PBO), and 360 mm units cut noise 5–8 dB at equal temp.",
+   "Reliability: fans fail visibly and cheaply; pumps fail catastrophically and void everything. For a workstation that must survive 8 years, air. For a showpiece SFF or delidded overclock, liquid.",
+   "Case compatibility decides: check max cooler height (air) and radiator mounts/fan spacing (AIO) in our case database before ordering — the Builder flags these conflicts automatically."
+  ],
+  "category": "Comparisons",
+  "tags": [
+   "cooling",
+   "aio",
+   "air"
+  ],
+  "author": "Jiří Doubek",
+  "date": "2025-10-27",
+  "readMinutes": 8,
+  "cover": "teal"
+ },
+ {
+  "id": "art-monitors-1440p-vs-4k",
+  "slug": "monitors-1440p-vs-4k",
+  "title": "1440p 240 Hz vs 4K 144 Hz: Which Panel Maximises Your GPU Spend?",
+  "excerpt": "PPI, motion clarity and GPU cost per frame — the math behind the right monitor for your card.",
+  "body": [
+   "A 4K panel quadruples pixel count vs 1080p; your GPU pays 3–4× for the same framerate. Motion clarity at 4K/144 roughly equals 1440p/240 because persistence and refresh matter more than PPI for perceived smoothness.",
+   "Match tiers: RTX 4060/RX 7600 → 1080p 165+; 4070/7800XT → 1440p 165–240; 4080S/9070XT-class → 4K 120–144 with DLSS Quality; 4090 → 4K 240 OLED territory.",
+   "OLED changes the calculus: near-instant GtG makes effective clarity exceed spec refresh. If you play fast shooters, 1440p 480 Hz QD-OLED is the current competitive endgame."
+  ],
+  "category": "Guides",
+  "tags": [
+   "monitor",
+   "display",
+   "gaming"
+  ],
+  "author": "Marek Vlk",
+  "date": "2025-09-30",
+  "readMinutes": 7,
+  "cover": "amber"
+ },
+ {
+  "id": "art-used-parts-market-guide",
+  "slug": "used-parts-market-guide",
+  "title": "Buying Used Hardware Safely: Miners, Delids and Burn-In Tests",
+  "excerpt": "How to spot a recapped PSU, a worn-out GPU and get 40 % discounts without gambling.",
+  "body": [
+   "GPUs: ask for FurMark/Material Test screenshots with timestamps; check warranty sticker dates; avoid cards with replaced thermal pads done badly (core contact gaps show as hotspot spread >15 °C).",
+   "PSUs are the one component we say never buy used — capacitor aging plus abuse makes them a fire risk. New 80+ Gold units cost less than the diagnostic equipment needed to verify a used one.",
+   "CPUs age gracefully: sockets and IHS inspection suffice. Motherboards are risky (bent pins, cold solder joints); demand boot videos. Memory and NVMe (check SMART percentage life) are excellent used buys."
+  ],
+  "category": "Guides",
+  "tags": [
+   "used-hardware",
+   "marketplace",
+   "tips"
+  ],
+  "author": "Lena Okafor",
+  "date": "2025-08-14",
+  "readMinutes": 6,
+  "cover": "green"
+ },
+ {
+  "id": "art-ai-workstations-2026",
+  "slug": "ai-workstations-2026",
+  "title": "Building an AI Workstation in 2026: VRAM Is the New Horsepower",
+  "excerpt": "Local LLMs and Stable Diffusion have different rules than gaming. Memory bandwidth, PCIe lanes and cooling for 24/7 loads.",
+  "body": [
+   "LLM inference is bandwidth-bound: an RTX 4090 (1 TB/s) runs 13B models twice as fast as a card with equal compute but half the bus. 24 GB VRAM is the entry ticket for useful quantized models; two GPUs or a 48 GB card extend context comfortably.",
+   "Diffusion training wants compute + VRAM; inference loves Tensor cores. Either way, run 24/7 duty cycles: enterprise cooling, positive-pressure cases, and a UPS matter more than RGB.",
+   "CPU side: PCIe lane count decides multi-GPU width. Threadripper/EPYC give x16+x16; consumer AM5/LGA1700 split to x8+x8 — fine for inference, painful for training sync."
+  ],
+  "category": "Explainers",
+  "tags": [
+   "ai",
+   "workstation",
+   "gpu"
+  ],
+  "author": "Priya Raman",
+  "date": "2025-07-22",
+  "readMinutes": 10,
+  "cover": "cyan"
+ },
+ {
+  "id": "art-benchmark-methodology",
+  "slug": "benchmark-methodology",
+  "title": "How We Benchmark: Methodology, Normalization & Update Cadence",
+  "excerpt": "Transparency report: our test rigs, software versions, sample sizes and the index formulas behind every chart.",
+  "body": [
+   "Every CPU runs Cinebench 2024 (multi/single), Blender Classroom, 7-Zip, CrossMark and 6 games at 720p ultra to isolate the CPU. GPUs run 3DMark Steel Nomport/Port Royal plus 7 games at three resolutions, RT and non-RT.",
+   "Indices are geometric means normalized so Ryzen 5 5600 = 100 in CPU metrics and RTX 3060 = 100 in GPU metrics. Percentages shown in comparisons are simple relative deltas of those indices.",
+   "Prices are street averages from major retailers, updated weekly; historical series come from archived listings. Data corrections are welcome via the About page — every change is logged."
+  ],
+  "category": "About",
+  "tags": [
+   "methodology",
+   "data",
+   "transparency"
+  ],
+  "author": "Priya Raman",
+  "date": "2025-06-10",
+  "readMinutes": 5,
+  "cover": "violet"
+ },
+ {
+  "id": "art-sff-builds-masterclass",
+  "slug": "sff-builds-masterclass",
+  "title": "Small Form Factor Masterclass: Full Performance in 12 Litres",
+  "excerpt": "Our award-winning SFF methodology: riser trade-offs, GPU selection by length, and the cooler height trap.",
+  "body": [
+   "Rules of the genre: pick the GPU first (length ≤ case clearance − 10 mm), then the case, then everything else. Dual-slot 3060-class cards fit nearly all ITX chassis; triple-slot monsters fit almost none.",
+   "Cooling: 92 mm-tall single towers (NH-L9, SilverStone NR26) cap you at ~125 W — pair with 65 W APUs or locked chips. Slim 240 AIOs unlock 7950X-class heat in Meshlicious-style vertical cases.",
+   "Power: SFX units max at ~850 W today; for 4080-class builds choose the SF750 and enable GPU power-temp sync. Cable combs and short extensions aren’t optional — they’re structural."
+  ],
+  "category": "Tutorials",
+  "tags": [
+   "sff",
+   "itx",
+   "pc-build"
+  ],
+  "author": "Jiří Doubek",
+  "date": "2025-05-05",
+  "readMinutes": 9,
+  "cover": "orange"
+ },
+ {
+  "id": "art-motherboard-chipset-explained",
+  "slug": "motherboard-chipset-explained",
+  "title": "Chipsets Decoded: What B850, Z790 and X670E Actually Change",
+  "excerpt": "PCIe lane counts, overclock support, USB controllers and why paying extra is rarely about speed.",
+  "body": [
+   "The chipset doesn’t affect raw performance; it gates features: lane splitting (x8/x8 vs x16), number of M.2 ports, USB4 readiness, VRM quality ceilings and CPU overclock permission (Intel: Z only; AMD: B550+ usually fine).",
+   "VRMs matter more than brand stickers: a 60 A phase design silently throttles a 14900K while a well-cooled midrange board sustains it. Check MOSFET temps in our reviews before pairing K-series chips with budget boards.",
+   "Buy logic: unlocked flagship → Z790/X670E+; everything else → B-series saves $80 with zero fps difference; H/A-entry only for office PCs and APUs under 65 W."
+  ],
+  "category": "Explainers",
+  "tags": [
+   "motherboard",
+   "chipset",
+   "platform"
+  ],
+  "author": "Marek Vlk",
+  "date": "2025-04-11",
+  "readMinutes": 7,
+  "cover": "teal"
+ },
+ {
+  "id": "art-linux-gaming-2026",
+  "slug": "linux-gaming-2026",
+  "title": "Linux Gaming in 2026: Proton, Wayland and Anti-Cheat Reality",
+  "excerpt": "Steam Deck mainstreamed it, but kernel-level anti-cheat remains the last wall. Current compatibility report.",
+  "body": [
+   "Proton Experimental runs ~85 % of the Steam top-100 better-than-or-equal to Windows. Wayland + HDR landed; fractional scaling finally stopped blurring games. NVIDIA open kernel modules fixed the compositor stutter saga.",
+   "The holdouts: EAC/BattlEye titles with opt-in Linux support only (about half now enabled permanently). Avoid dual-boot-for-one-game unless the anti-cheat list confirms support.",
+   "Hardware picks: AMD GPUs remain the smoothest path; Intel Arc drivers improved dramatically; NVIDIA works well post-open-module. Any AM5/LGA1700 CPU is fine — scheduler parity arrived with 6.6 kernels."
+  ],
+  "category": "News Analysis",
+  "tags": [
+   "linux",
+   "gaming",
+   "software"
+  ],
+  "author": "Sam Whitfield",
+  "date": "2025-03-08",
+  "readMinutes": 8,
+  "cover": "red"
+ },
+ {
+  "id": "art-future-of-gpus-blackwell-beyond",
+  "slug": "future-of-gpus-blackwell-beyond",
+  "title": "After Ada: Blackwell, RDNA4 and the Next Two Years of Graphics",
+  "excerpt": "Rumour vs confirmed specs — neural rendering, mesh shading adoption and what to wait for (or not).",
+  "body": [
+   "NVIDIA Blackwell shifts focus from raw raster to neural shaders and 5th-gen RT cores; expect big gains in path-traced titles, modest in legacy raster. AMD RDNA4 targets ray-accumulator parity and a serious uplift in media engines.",
+   "Should you wait? If your card is 4060-class or newer — no, generational jumps shrink outside flagships. If you’re on a 3060/GTX 1070-era card, the next wave promises 2×+ value at each price point.",
+   "We update this analysis monthly as launches land — subscribe to the RSS feed for automatic delivery."
+  ],
+  "category": "Opinion",
+  "tags": [
+   "gpu",
+   "roadmap",
+   "future"
+  ],
+  "author": "Marek Vlk",
+  "date": "2025-02-14",
+  "readMinutes": 6,
+  "cover": "amber"
+ }
+]

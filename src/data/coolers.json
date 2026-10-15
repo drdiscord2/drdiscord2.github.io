@@ -1,0 +1,344 @@
+[
+ {
+  "id": "co-1",
+  "name": "Noctua NH-D15 chromax.black",
+  "brand": "Noctua",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200",
+   "LGA 2066"
+  ],
+  "tdpRating": 250,
+  "heightMm": 165,
+  "radiatorMm": null,
+  "noiseDb": 24.6,
+  "price": 109
+ },
+ {
+  "id": "co-2",
+  "name": "Deepcool AK620",
+  "brand": "Deepcool",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 240,
+  "heightMm": 160,
+  "radiatorMm": null,
+  "noiseDb": 28,
+  "price": 69
+ },
+ {
+  "id": "co-3",
+  "name": "Thermalright Peerless Assassin 120 SE",
+  "brand": "Thermalright",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200",
+   "LGA 1151"
+  ],
+  "tdpRating": 245,
+  "heightMm": 157,
+  "radiatorMm": null,
+  "noiseDb": 26,
+  "price": 39
+ },
+ {
+  "id": "co-4",
+  "name": "be quiet! Dark Rock Pro 5",
+  "brand": "be quiet!",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 250,
+  "heightMm": 168,
+  "radiatorMm": null,
+  "noiseDb": 24.5,
+  "price": 89
+ },
+ {
+  "id": "co-5",
+  "name": "Noctua NH-U12S Redux",
+  "brand": "Noctua",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200",
+   "LGA 1151"
+  ],
+  "tdpRating": 180,
+  "heightMm": 158,
+  "radiatorMm": null,
+  "noiseDb": 22.6,
+  "price": 59
+ },
+ {
+  "id": "co-6",
+  "name": "CryoRig MK.IV",
+  "brand": "CryoRig",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 220,
+  "heightMm": 167,
+  "radiatorMm": null,
+  "noiseDb": 30,
+  "price": 54
+ },
+ {
+  "id": "co-7",
+  "name": "ID-Cooling SE-226-XT",
+  "brand": "ID-Cooling",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 255,
+  "heightMm": 155,
+  "radiatorMm": null,
+  "noiseDb": 32,
+  "price": 45
+ },
+ {
+  "id": "co-8",
+  "name": "Arctic Liquid Freezer II 360",
+  "brand": "Arctic",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200",
+   "LGA 2066"
+  ],
+  "tdpRating": 320,
+  "heightMm": null,
+  "radiatorMm": 360,
+  "noiseDb": 22,
+  "price": 99
+ },
+ {
+  "id": "co-9",
+  "name": "Arctic Liquid Freezer III 240",
+  "brand": "Arctic",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 280,
+  "heightMm": null,
+  "radiatorMm": 240,
+  "noiseDb": 22.5,
+  "price": 79
+ },
+ {
+  "id": "co-10",
+  "name": "NZXT Kraken Elite 360 RGB",
+  "brand": "NZXT",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 330,
+  "heightMm": null,
+  "radiatorMm": 360,
+  "noiseDb": 28,
+  "price": 199
+ },
+ {
+  "id": "co-11",
+  "name": "Corsair iCUE H150i Elite Capellix",
+  "brand": "Corsair",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 330,
+  "heightMm": null,
+  "radiatorMm": 360,
+  "noiseDb": 29,
+  "price": 189
+ },
+ {
+  "id": "co-12",
+  "name": "be quiet! Silent Loop 2 280",
+  "brand": "be quiet!",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 300,
+  "heightMm": null,
+  "radiatorMm": 280,
+  "noiseDb": 19.9,
+  "price": 129
+ },
+ {
+  "id": "co-13",
+  "name": "EK-Nucleus CR240",
+  "brand": "EK",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 280,
+  "heightMm": null,
+  "radiatorMm": 240,
+  "noiseDb": 27,
+  "price": 124
+ },
+ {
+  "id": "co-14",
+  "name": "Thermaltake TH240 V2 Ultra",
+  "brand": "Thermaltake",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 280,
+  "heightMm": null,
+  "radiatorMm": 240,
+  "noiseDb": 30,
+  "price": 109
+ },
+ {
+  "id": "co-15",
+  "name": "SilverStone ICE M1200",
+  "brand": "SilverStone",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200",
+   "LGA 2066",
+   "LGA 3647"
+  ],
+  "tdpRating": 350,
+  "heightMm": null,
+  "radiatorMm": 1200,
+  "noiseDb": 36,
+  "price": 399
+ },
+ {
+  "id": "co-16",
+  "name": "Alphacool Eisblock XPX + 360 kit",
+  "brand": "Alphacool",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 2066"
+  ],
+  "tdpRating": 400,
+  "heightMm": null,
+  "radiatorMm": 360,
+  "noiseDb": 32,
+  "price": 349
+ },
+ {
+  "id": "co-17",
+  "name": "Scythe Fuma 3",
+  "brand": "Scythe",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 230,
+  "heightMm": 155,
+  "radiatorMm": null,
+  "noiseDb": 22,
+  "price": 69
+ },
+ {
+  "id": "co-18",
+  "name": "Noctua NH-L9a-AM5",
+  "brand": "Noctua",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5"
+  ],
+  "tdpRating": 95,
+  "heightMm": 65,
+  "radiatorMm": null,
+  "noiseDb": 14.8,
+  "price": 49
+ },
+ {
+  "id": "co-19",
+  "name": "Low Profile Big-Sur",
+  "brand": "Jonsbo",
+  "type": "air",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700"
+  ],
+  "tdpRating": 150,
+  "heightMm": 70,
+  "radiatorMm": null,
+  "noiseDb": 28,
+  "price": 39
+ },
+ {
+  "id": "co-20",
+  "name": "ID-Cooling FX360 Pro",
+  "brand": "ID-Cooling",
+  "type": "aio",
+  "sockets": [
+   "AM4",
+   "AM5",
+   "LGA 1700",
+   "LGA 1200"
+  ],
+  "tdpRating": 320,
+  "heightMm": null,
+  "radiatorMm": 360,
+  "noiseDb": 33,
+  "price": 79
+ }
+]

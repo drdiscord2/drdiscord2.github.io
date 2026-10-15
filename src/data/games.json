@@ -1,0 +1,847 @@
+[
+ {
+  "id": "game-1",
+  "name": "Cyberpunk 2077: Phantom Liberty",
+  "year": 2023,
+  "genre": "RPG",
+  "minCpu": "Ryzen 5 1600",
+  "minGpu": "GTX 1060 6GB",
+  "recCpu": "Ryzen 7 7800X3D",
+  "recGpu": "RTX 4070",
+  "ramGB": 16,
+  "storageGB": 70,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS",
+   "PSSR"
+  ]
+ },
+ {
+  "id": "game-2",
+  "name": "Alan Wake 2",
+  "year": 2023,
+  "genre": "Action Adventure",
+  "minCpu": "Ryzen 5 3600",
+  "minGpu": "RTX 2060",
+  "recCpu": "Ryzen 7 7700X",
+  "recGpu": "RTX 4080",
+  "ramGB": 16,
+  "storageGB": 160,
+  "optimized": "poor",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-3",
+  "name": "Black Myth: Wukong",
+  "year": 2024,
+  "genre": "Action RPG",
+  "minCpu": "Core i5-8400",
+  "minGpu": "GTX 1060 6GB",
+  "recCpu": "Ryzen 7 7800X3D",
+  "recGpu": "RTX 4070 Ti",
+  "ramGB": 16,
+  "storageGB": 130,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-4",
+  "name": "Call of Duty: Modern Warfare III",
+  "year": 2023,
+  "genre": "FPS",
+  "minCpu": "Ryzen 5 1400",
+  "minGpu": "GTX 960",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060 Ti",
+  "ramGB": 16,
+  "storageGB": 150,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-5",
+  "name": "Hogwarts Legacy",
+  "year": 2023,
+  "genre": "Action RPG",
+  "minCpu": "Ryzen 5 2600",
+  "minGpu": "GTX 1070",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3070",
+  "ramGB": 16,
+  "storageGB": 85,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-6",
+  "name": "Forza Horizon 5",
+  "year": 2021,
+  "genre": "Racing",
+  "minCpu": "Ryzen 3 1200",
+  "minGpu": "RX 590",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060",
+  "ramGB": 12,
+  "storageGB": 110,
+  "optimized": "excellent",
+  "upscaling": [
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-7",
+  "name": "Red Dead Redemption 2",
+  "year": 2019,
+  "genre": "Action Adventure",
+  "minCpu": "Ryzen 5 1500X",
+  "minGpu": "RX 480",
+  "recCpu": "Ryzen 7 3700X",
+  "recGpu": "RTX 2080",
+  "ramGB": 12,
+  "storageGB": 150,
+  "optimized": "good",
+  "upscaling": [
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-8",
+  "name": "Elden Ring",
+  "year": 2022,
+  "genre": "Action RPG",
+  "minCpu": "Core i5-8400",
+  "minGpu": "GTX 1060",
+  "recCpu": "Core i7-10700",
+  "recGpu": "RTX 2070",
+  "ramGB": 12,
+  "storageGB": 60,
+  "optimized": "poor",
+  "upscaling": []
+ },
+ {
+  "id": "game-9",
+  "name": "Baldur’s Gate 3",
+  "year": 2023,
+  "genre": "RPG",
+  "minCpu": "Ryzen 5 3600",
+  "minGpu": "RX 6600 XT",
+  "recCpu": "Ryzen 7 7800X3D",
+  "recGpu": "RTX 4070",
+  "ramGB": 16,
+  "storageGB": 150,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-10",
+  "name": "Starfield",
+  "year": 2023,
+  "genre": "RPG",
+  "minCpu": "Ryzen 5 1600",
+  "minGpu": "GTX 1060",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 2080 Ti",
+  "ramGB": 16,
+  "storageGB": 125,
+  "optimized": "poor",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-11",
+  "name": "Counter-Strike 2",
+  "year": 2023,
+  "genre": "FPS",
+  "minCpu": "Core i5-2500K",
+  "minGpu": "GTX 950",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "RTX 3060",
+  "ramGB": 8,
+  "storageGB": 32,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-12",
+  "name": "Valorant",
+  "year": 2020,
+  "genre": "FPS",
+  "minCpu": "Core i3-4150",
+  "minGpu": "GT 730",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "GTX 1050 Ti",
+  "ramGB": 4,
+  "storageGB": 30,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-13",
+  "name": "Fortnite",
+  "year": 2017,
+  "genre": "Battle Royale",
+  "minCpu": "Core i5-7300H",
+  "minGpu": "GTX 960",
+  "recCpu": "Ryzen 7 3700X",
+  "recGpu": "RTX 3060",
+  "ramGB": 16,
+  "storageGB": 40,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-14",
+  "name": "Apex Legends",
+  "year": 2019,
+  "genre": "Battle Royale",
+  "minCpu": "Ryzen 3 2200G",
+  "minGpu": "GTX 970",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060 Ti",
+  "ramGB": 8,
+  "storageGB": 22,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-15",
+  "name": "Dota 2",
+  "year": 2013,
+  "genre": "MOBA",
+  "minCpu": "Core i5-2500K",
+  "minGpu": "HD 7870",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "RTX 2060",
+  "ramGB": 8,
+  "storageGB": 60,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-16",
+  "name": "League of Legends",
+  "year": 2009,
+  "genre": "MOBA",
+  "minCpu": "Core i3-530",
+  "minGpu": "GT 8800",
+  "recCpu": "Ryzen 5 3600",
+  "recGpu": "GTX 1050",
+  "ramGB": 8,
+  "storageGB": 22,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-17",
+  "name": "Minecraft (with shaders)",
+  "year": 2011,
+  "genre": "Sandbox",
+  "minCpu": "Core i5-2500K",
+  "minGpu": "GTX 660",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 4060",
+  "ramGB": 8,
+  "storageGB": 10,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS"
+  ]
+ },
+ {
+  "id": "game-18",
+  "name": "Grand Theft Auto V",
+  "year": 2015,
+  "genre": "Action",
+  "minCpu": "Core i5-3470",
+  "minGpu": "GTX 660",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "RTX 2060",
+  "ramGB": 8,
+  "storageGB": 95,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-19",
+  "name": "The Witcher 3: Next-Gen",
+  "year": 2022,
+  "genre": "RPG",
+  "minCpu": "Ryzen 5 1600",
+  "minGpu": "GTX 970",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3070",
+  "ramGB": 12,
+  "storageGB": 50,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-20",
+  "name": "Assassin’s Creed Mirage",
+  "year": 2023,
+  "genre": "Action",
+  "minCpu": "Core i7-4770",
+  "minGpu": "GTX 1060 6GB",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "RTX 3060 Ti",
+  "ramGB": 12,
+  "storageGB": 65,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-21",
+  "name": "Diablo IV",
+  "year": 2023,
+  "genre": "ARPG",
+  "minCpu": "Core i5-4670",
+  "minGpu": "GTX 960",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060",
+  "ramGB": 16,
+  "storageGB": 90,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-22",
+  "name": "Horizon Forbidden West",
+  "year": 2024,
+  "genre": "Action RPG",
+  "minCpu": "Ryzen 5 2600",
+  "minGpu": "RX 570",
+  "recCpu": "Ryzen 7 7700X",
+  "recGpu": "RTX 4070",
+  "ramGB": 16,
+  "storageGB": 135,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-23",
+  "name": "God of War Ragnarök PC",
+  "year": 2024,
+  "genre": "Action",
+  "minCpu": "Ryzen 3 3200G",
+  "minGpu": "GTX 1650",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060 Ti",
+  "ramGB": 16,
+  "storageGB": 190,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-24",
+  "name": "Spider-Man Remastered",
+  "year": 2022,
+  "genre": "Action",
+  "minCpu": "Core i3-4160",
+  "minGpu": "GTX 1060",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3070",
+  "ramGB": 16,
+  "storageGB": 75,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-25",
+  "name": "Flight Simulator 2024",
+  "year": 2024,
+  "genre": "Sim",
+  "minCpu": "Ryzen 5 2600X",
+  "minGpu": "RX 5700",
+  "recCpu": "Ryzen 7 7800X3D",
+  "recGpu": "RTX 4080",
+  "ramGB": 16,
+  "storageGB": 150,
+  "optimized": "poor",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-26",
+  "name": "Microsoft Flight Sim 2020",
+  "year": 2020,
+  "genre": "Sim",
+  "minCpu": "Ryzen 5 1500X",
+  "minGpu": "RX 570",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3070",
+  "ramGB": 16,
+  "storageGB": 150,
+  "optimized": "poor",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-27",
+  "name": "Total War: WARHAMMER III",
+  "year": 2022,
+  "genre": "Strategy",
+  "minCpu": "Ryzen 5 2600",
+  "minGpu": "GTX 1060",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3070",
+  "ramGB": 8,
+  "storageGB": 120,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-28",
+  "name": "Civilization VI",
+  "year": 2016,
+  "genre": "Strategy",
+  "minCpu": "Core i5-4670",
+  "minGpu": "GTX 450",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "GTX 1660",
+  "ramGB": 4,
+  "storageGB": 14,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-29",
+  "name": "Rainbow Six Siege",
+  "year": 2015,
+  "genre": "FPS",
+  "minCpu": "Core i5-2500K",
+  "minGpu": "GTX 670",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060",
+  "ramGB": 8,
+  "storageGB": 61,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-30",
+  "name": "Warzone",
+  "year": 2022,
+  "genre": "Battle Royale",
+  "minCpu": "Core i5-6600",
+  "minGpu": "GTX 960",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060 Ti",
+  "ramGB": 8,
+  "storageGB": 130,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-31",
+  "name": "Overwatch 2",
+  "year": 2022,
+  "genre": "FPS",
+  "minCpu": "Core i3-530",
+  "minGpu": "GT 730",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "GTX 1660",
+  "ramGB": 6,
+  "storageGB": 50,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-32",
+  "name": "Rocket League",
+  "year": 2015,
+  "genre": "Sports",
+  "minCpu": "Core i5-750",
+  "minGpu": "GT 640",
+  "recCpu": "Ryzen 5 3600",
+  "recGpu": "GTX 1650",
+  "ramGB": 8,
+  "storageGB": 17,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-33",
+  "name": "NBA 2K24",
+  "year": 2023,
+  "genre": "Sports",
+  "minCpu": "Core i5-4400E",
+  "minGpu": "GTX 770",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "RTX 2070",
+  "ramGB": 8,
+  "storageGB": 110,
+  "optimized": "poor",
+  "upscaling": []
+ },
+ {
+  "id": "game-34",
+  "name": "EA Sports FC 24",
+  "year": 2023,
+  "genre": "Sports",
+  "minCpu": "Core i5-6600K",
+  "minGpu": "GTX 1050 Ti",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 2060",
+  "ramGB": 8,
+  "storageGB": 100,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-35",
+  "name": "Resident Evil 4 Remake",
+  "year": 2023,
+  "genre": "Horror",
+  "minCpu": "Ryzen 3 3200G",
+  "minGpu": "GTX 1050 Ti",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060",
+  "ramGB": 16,
+  "storageGB": 67,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-36",
+  "name": "Dead Space Remake",
+  "year": 2023,
+  "genre": "Horror",
+  "minCpu": "Ryzen 5 1600",
+  "minGpu": "GTX 1070",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3070",
+  "ramGB": 16,
+  "storageGB": 50,
+  "optimized": "good",
+  "upscaling": [
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-37",
+  "name": "Star Wars Jedi: Survivor",
+  "year": 2023,
+  "genre": "Action",
+  "minCpu": "Ryzen 5 2600X",
+  "minGpu": "RX 580",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060 Ti",
+  "ramGB": 16,
+  "storageGB": 105,
+  "optimized": "poor",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-38",
+  "name": "F1 24",
+  "year": 2024,
+  "genre": "Racing",
+  "minCpu": "Ryzen 3 1200",
+  "minGpu": "GTX 1650",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060 Ti",
+  "ramGB": 8,
+  "storageGB": 100,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-39",
+  "name": "Project CARS 2",
+  "year": 2017,
+  "genre": "Racing",
+  "minCpu": "Core i5-4670",
+  "minGpu": "GTX 660 Ti",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 2070",
+  "ramGB": 8,
+  "storageGB": 50,
+  "optimized": "good",
+  "upscaling": []
+ },
+ {
+  "id": "game-40",
+  "name": "Cities: Skylines II",
+  "year": 2023,
+  "genre": "Sim",
+  "minCpu": "Ryzen 5 2600X",
+  "minGpu": "GTX 1070",
+  "recCpu": "Ryzen 7 7800X3D",
+  "recGpu": "RTX 4070",
+  "ramGB": 16,
+  "storageGB": 60,
+  "optimized": "poor",
+  "upscaling": [
+   "DLSS",
+   "FSR",
+   "XeSS"
+  ]
+ },
+ {
+  "id": "game-41",
+  "name": "Age of Empires IV",
+  "year": 2021,
+  "genre": "Strategy",
+  "minCpu": "Core i5-8400",
+  "minGpu": "GTX 1050 Ti",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 2060",
+  "ramGB": 8,
+  "storageGB": 50,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-42",
+  "name": "Path of Exile 2",
+  "year": 2024,
+  "genre": "ARPG",
+  "minCpu": "Ryzen 3 3200G",
+  "minGpu": "GTX 960",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060",
+  "ramGB": 12,
+  "storageGB": 80,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-43",
+  "name": "Helldivers 2",
+  "year": 2024,
+  "genre": "Co-op Shooter",
+  "minCpu": "Core i7-6400",
+  "minGpu": "GTX 1050 Ti",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060",
+  "ramGB": 8,
+  "storageGB": 45,
+  "optimized": "good",
+  "upscaling": [
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-44",
+  "name": "Palworld",
+  "year": 2024,
+  "genre": "Survival",
+  "minCpu": "Core i5-3570",
+  "minGpu": "GTX 1050",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "RTX 2060",
+  "ramGB": 16,
+  "storageGB": 40,
+  "optimized": "poor",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-45",
+  "name": "Like a Dragon: Infinite Wealth",
+  "year": 2024,
+  "genre": "RPG",
+  "minCpu": "Ryzen 5 2600",
+  "minGpu": "GTX 1060",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 2070 SUPER",
+  "ramGB": 16,
+  "storageGB": 80,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-46",
+  "name": "Final Fantasy XVI",
+  "year": 2024,
+  "genre": "RPG",
+  "minCpu": "Ryzen 5 3600",
+  "minGpu": "RX 6600",
+  "recCpu": "Ryzen 7 7800X3D",
+  "recGpu": "RTX 4070",
+  "ramGB": 16,
+  "storageGB": 100,
+  "optimized": "good",
+  "upscaling": [
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-47",
+  "name": "Monster Hunter World",
+  "year": 2018,
+  "genre": "Action",
+  "minCpu": "Core i5-6400",
+  "minGpu": "GTX 760",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 2060",
+  "ramGB": 8,
+  "storageGB": 48,
+  "optimized": "good",
+  "upscaling": []
+ },
+ {
+  "id": "game-48",
+  "name": "Sekiro: Shadows Die Twice",
+  "year": 2019,
+  "genre": "Action",
+  "minCpu": "Core i3-6300",
+  "minGpu": "GTX 770",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "GTX 1080",
+  "ramGB": 8,
+  "storageGB": 25,
+  "optimized": "good",
+  "upscaling": []
+ },
+ {
+  "id": "game-49",
+  "name": "DOOM Eternal",
+  "year": 2020,
+  "genre": "FPS",
+  "minCpu": "Ryzen 5 1400",
+  "minGpu": "GTX 1070",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3070",
+  "ramGB": 8,
+  "storageGB": 80,
+  "optimized": "excellent",
+  "upscaling": []
+ },
+ {
+  "id": "game-50",
+  "name": "Quake II RTX / Nightdive",
+  "year": 2019,
+  "genre": "FPS",
+  "minCpu": "Core i5-2500K",
+  "minGpu": "GTX 1060",
+  "recCpu": "Ryzen 5 5600",
+  "recGpu": "RTX 4060",
+  "ramGB": 8,
+  "storageGB": 30,
+  "optimized": "excellent",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-51",
+  "name": "Borderlands 3",
+  "year": 2019,
+  "genre": "Shooter",
+  "minCpu": "Ryzen 3 3200G",
+  "minGpu": "GTX 680",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 2060",
+  "ramGB": 6,
+  "storageGB": 75,
+  "optimized": "good",
+  "upscaling": [
+   "DLSS",
+   "FSR"
+  ]
+ },
+ {
+  "id": "game-52",
+  "name": "Far Cry 6",
+  "year": 2021,
+  "genre": "Action",
+  "minCpu": "Ryzen 5 1600",
+  "minGpu": "GTX 1060",
+  "recCpu": "Ryzen 7 5800X",
+  "recGpu": "RTX 3060 Ti",
+  "ramGB": 16,
+  "storageGB": 65,
+  "optimized": "good",
+  "upscaling": [
+   "FSR",
+   "XeSS"
+  ]
+ }
+]
