@@ -116,7 +116,7 @@ export const useAppStore = create<AppState>()(
       dismissToast: (id) => set({ toasts: get().toasts.filter((t) => t.id !== id) })
     }),
     {
-      name: 'infomachine-store',
+      name: 'drdiscord2-store',
       storage: createJSONStorage(() => localStorage),
       partialize: (s) => ({
         theme: s.theme,

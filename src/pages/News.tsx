@@ -62,7 +62,7 @@ export default function News() {
           <div className="hidden rounded-xl bg-gradient-to-br from-accent/25 via-violet-500/20 to-orange-400/20 p-6 md:block" aria-hidden>
             <NewspaperIcon size={40} className="text-accent" />
             <p className="mt-3 font-display text-sm font-bold text-ink-100">{featured.tag} desk</p>
-            <p className="text-xs text-ink-300">Infomachine newsroom</p>
+            <p className="text-xs text-ink-300">DrDiscord2 newsroom</p>
           </div>
         </article>
       )}
@@ -88,7 +88,7 @@ export default function News() {
         )}
       </Section>
 
-      <Section title="Deep-dive articles" sub="Long-form guides from the Infomachine editorial team" action={<Link to="/guides" className="link text-sm">Browse all guides</Link>}>
+      <Section title="Deep-dive articles" sub="Long-form guides from the DrDiscord2 editorial team" action={<Link to="/guides" className="link text-sm">Browse all guides</Link>}>
         <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
           {allArticles.slice(0, 6).map((a) => (
             <button key={a.slug} onClick={() => setOpenId(a.slug)} className="glass glow-on-hover rounded-xl p-4 text-left">

@@ -46,7 +46,7 @@ export default function Community() {
     else { setLiked((l) => l.filter((x) => x !== b.id)); }
   };
 
-  useSeo({ title: 'Community Builds', description: 'Real PC configurations shared by the Infomachine community — browse, filter and like gaming, workstation and budget builds.' });
+  useSeo({ title: 'Community Builds', description: 'Real PC configurations shared by the DrDiscord2 community — browse, filter and like gaming, workstation and budget builds.' });
 
   return (
     <div>

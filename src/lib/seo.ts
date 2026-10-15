@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-const BASE = 'https://infomachine.github.io/';
+const BASE = 'https://drdiscord2.github.io/';
 
 function setMeta(attr: 'name' | 'property', key: string, value: string) {
   let el = document.head.querySelector<HTMLMetaElement>(`meta[${attr}="${key}"]`);
@@ -14,8 +14,8 @@ function setMeta(attr: 'name' | 'property', key: string, value: string) {
 
 export function useSeo(opts: { title: string; description?: string; image?: string; jsonLd?: Record<string, unknown> }) {
   useEffect(() => {
-    document.title = `${opts.title} · Infomachine`;
-    setMeta('name', 'description', opts.description ?? 'Infomachine — PC hardware database, benchmarks and PC builder.');
+    document.title = `${opts.title} · DrDiscord2`;
+    setMeta('name', 'description', opts.description ?? 'DrDiscord2 — PC hardware database, benchmarks and PC builder.');
     setMeta('property', 'og:title', opts.title);
     setMeta('property', 'og:description', opts.description ?? 'PC hardware database, benchmarks and PC builder.');
     setMeta('property', 'og:url', window.location.href);

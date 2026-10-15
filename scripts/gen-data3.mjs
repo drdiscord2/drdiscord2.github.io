@@ -174,7 +174,7 @@ const articles = [
 // ---------------- News ----------------
 const N = (id, title, summary, date, source, tag) => ({ id, title, summary, date, source, tag });
 const news = [
-  N('news-1', 'AMD ships Ryzen 9 9950X3D with second-gen stacked cache', 'Dual-CCD 3D V-Cache pushes gaming index past every existing desktop CPU while keeping 16/32 core productivity.', '2026-10-08', 'Infomachine Lab', 'CPU'),
+  N('news-1', 'AMD ships Ryzen 9 9950X3D with second-gen stacked cache', 'Dual-CCD 3D V-Cache pushes gaming index past every existing desktop CPU while keeping 16/32 core productivity.', '2026-10-08', 'DrDiscord2 Lab', 'CPU'),
   N('news-2', 'NVIDIA GeForce RTX 50-series "Blackwell" launch window confirmed for CES', 'Sources point to 5090/5080 arriving January with GDDR7 at 28–32 Gbps and 5th-gen RT cores.', '2026-10-05', 'Industry Wire', 'GPU'),
   N('news-3', 'DDR5 prices fall another 12% quarter-over-quarter', '6400 CL32 32 GB kits now routinely undercut premium DDR4; fab oversupply expected to continue through H1 2027.', '2026-10-01', 'Market Watch', 'Memory'),
   N('news-4', 'Intel Arrow Lake Refresh spotted with bumped clocks', 'ES samples show +300 MHz boost and improved CUDIMM support ahead of LGA1851 board revisions.', '2026-09-27', 'Silicon Leak Desk', 'CPU'),

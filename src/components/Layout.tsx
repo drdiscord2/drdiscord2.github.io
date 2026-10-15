@@ -25,7 +25,7 @@ const NAV = [
 
 function Logo() {
   return (
-    <Link to="/" className="flex items-center gap-2" aria-label="Infomachine home">
+    <Link to="/" className="flex items-center gap-2" aria-label="DrDiscord2 home">
       <span className="grid h-9 w-9 place-items-center rounded-xl bg-gradient-to-br from-accent to-accent-deep text-ink-950 shadow-glow">
         <CpuIcon size={20} />
       </span>
@@ -168,12 +168,12 @@ export function Layout() {
               <li><Link className="link" to="/about">About & methodology</Link></li>
               <li><Link className="link" to="/community">Community builds</Link></li>
               <li><a className="link" href={`${import.meta.env.BASE_URL}feed/rss.xml`}>RSS feed</a></li>
-              <li><a className="link" href="https://github.com/infomachine/infomachine.github.io" target="_blank" rel="noreferrer">GitHub repository</a></li>
+              <li><a className="link" href="https://github.com/drdiscord2/drdiscord2.github.io" target="_blank" rel="noreferrer">GitHub repository</a></li>
             </ul>
           </div>
         </div>
         <div className="border-t border-white/5 py-4 text-center text-xs text-ink-500">
-          © {new Date().getFullYear()} Infomachine · Data is illustrative & community-curated · Built with React + Vite, deployed on GitHub Pages
+          © {new Date().getFullYear()} DrDiscord2 · Data is illustrative & community-curated · Built with React + Vite, deployed on GitHub Pages
         </div>
       </footer>
 

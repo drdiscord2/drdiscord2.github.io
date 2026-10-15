@@ -3,21 +3,21 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 import path from 'path';
 
-// GitHub Pages deployment base — repo is infomachine.github.io (user site),
-// served under /infomachine.github.io/ per project requirements.
+// GitHub Pages deployment base — repo is drdiscord2.github.io (user site),
+// served under /drdiscord2.github.io/ per project requirements.
 export default defineConfig({
-  base: '/infomachine.github.io/',
+  base: '/drdiscord2.github.io/',
   plugins: [
     react(),
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icons/icon-192.png', 'icons/icon-512.png', 'offline.html', 'robots.txt'],
       manifest: {
-        name: 'Infomachine — PC Hardware Database & Benchmarks',
-        short_name: 'Infomachine',
+        name: 'DrDiscord2 — PC Hardware Database & Benchmarks',
+        short_name: 'DrDiscord2',
         description:
           'Massive PC hardware database: 150+ CPUs, 150+ GPUs, side-by-side comparisons, PC builder, benchmarks, guides and tools.',
-        homepage_url: 'https://infomachine.github.io',
+        homepage_url: 'https://drdiscord2.github.io',
         theme_color: '#0b0f14',
         background_color: '#0b0f14',
         display: 'standalone',

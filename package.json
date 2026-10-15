@@ -1,9 +1,9 @@
 {
-  "name": "infomachine-hardware-db",
+  "name": "drdiscord2-hardware-db",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Infomachine - massive PC hardware database, comparisons and PC builder (PWA, GitHub Pages)",
+  "description": "DrDiscord2 - massive PC hardware database, comparisons and PC builder (PWA, GitHub Pages)",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",

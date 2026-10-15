@@ -34,7 +34,7 @@ export default function Benchmarks() {
   const brands = Array.from(new Set((cpu ? allCpus : allGpus).map((i) => i.brand))).sort();
 
   const exportCsv = () => {
-    download(`infomachine-benchmarks-${pool}-${metric}.csv`, toCSV([['Rank', 'Name', 'Brand', 'Category', 'Value', 'TDP', 'Price'], ...sorted.map((r, i) => [i + 1, r.name, r.brand, r.category, r.metric, r.tdp, r.price ?? ''])]), 'text/csv');
+    download(`drdiscord2-benchmarks-${pool}-${metric}.csv`, toCSV([['Rank', 'Name', 'Brand', 'Category', 'Value', 'TDP', 'Price'], ...sorted.map((r, i) => [i + 1, r.name, r.brand, r.category, r.metric, r.tdp, r.price ?? ''])]), 'text/csv');
   };
 
   useSeo({ title: `${cpu ? 'CPU' : 'GPU'} Benchmarks — ${metrics.find((m) => m[0] === metric)?.[1] ?? 'Gaming FPS'}`, description: `Leaderboard of ${cpu ? 'processor' : 'graphics card'} benchmark results with filters and CSV export.` });

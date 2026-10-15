@@ -146,19 +146,6 @@ export function HardwareList({ kind }: { kind: 'cpu' | 'gpu' }) {
 
   useEffect(() => { setPage(1); setVisible(36); }, [debounced, brand, category, arch, socket, price, tdp, year, onlyInStock, cores, threads, baseClock, boostClock, node, igpu, oc, memSupport, vram, memType, bus, features, formFactor, sort]);
 
-  // infinite scroll: auto-grow window when sentinel enters viewport
-  const sentinelRef = useRef<HTMLDivElement>(null);
-  useEffect(() => {
-    if (mode !== 'infinite' || view === 'list') return;
-    const el = sentinelRef.current;
-    if (!el) return;
-    const io = new IntersectionObserver((entries) => {
-      if (entries.some((e) => e.isIntersecting)) setVisible((v) => Math.min(v + 36, filtered.length));
-    });
-    io.observe(el);
-    return () => io.disconnect();
-  }, [mode, view, filtered.length, visible]);
-
   const brands = useMemo(() => Array.from(new Set(base.map((b) => b.brand))).sort(), [base]);
   const arches = useMemo(() => Array.from(new Set(base.map((b) => b.architecture))).sort(), [base]);
   const sockets = useMemo(() => cpu ? Array.from(new Set((base as Cpu[]).map((c) => c.socket))).sort() : [], [base, cpu]);
@@ -210,6 +197,22 @@ export function HardwareList({ kind }: { kind: 'cpu' | 'gpu' }) {
     return applySort(list, sort);
   }, [base, debounced, brand, category, arch, socket, price, tdp, year, onlyInStock, cores, threads, baseClock, boostClock, node, igpu, oc, memSupport, vram, memType, bus, features, formFactor, sort, defaults.pmax, cpu]);
 
+  const total = filtered.length;
+
+  // infinite scroll: auto-grow window when sentinel enters viewport
+  const sentinelRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (mode !== 'infinite' || view === 'list') return;
+    const el = sentinelRef.current;
+    if (!el) return;
+    const io = new IntersectionObserver((entries) => {
+      if (entries.some((e) => e.isIntersecting)) setVisible((v) => Math.min(v + 36, total));
+    });
+    io.observe(el);
+    return () => io.disconnect();
+  }, [mode, view, total, visible]);
+
+
   const reset = () => {
     setQ(''); setBrand(''); setCategory(''); setArch(''); setSocket(''); setPrice([0, defaults.pmax]); setTdp([0, 500]); setYear([2004, 2026]); setOnlyInStock(false);
     setCores([0, 128]); setThreads([0, 256]); setBaseClock([0, 6]); setBoostClock([0, 7]); setNode([3, 90]); setIgpu(''); setOc(''); setMemSupport('');
@@ -223,8 +226,8 @@ export function HardwareList({ kind }: { kind: 'cpu' | 'gpu' }) {
       : ['Name', 'Brand', 'Chip', 'VRAM GB', 'Type', 'Bus', 'TDP', 'Raster', 'RT', 'Render', 'Price'];
     const rows = filtered.map((i) => isCpu(i)
       ? [i.name, i.brand, i.socket, i.cores, i.threads, i.boostClock, i.tdp, i.benchmarks.multi, i.benchmarks.single, i.benchmarks.gaming, i.price ?? '']
-      : [i.name, i.brand, i.chip, i.vram, i.memoryType, i.memoryBus, i.tdp, i.benchmarks.raster, i.benchmarks.raytracing, i.benchmarks.render, i.price ?? '']);
-    download(`infomachine-${kind}s.csv`, toCSV([head, ...rows]), 'text/csv');
+      : [i.name, i.brand, i.chip, i.vram, i.memoryType, i.memoryBus, i.tdp, i.benchmarks.raster, i.benchmarks.rayTracing, i.benchmarks.render, i.price ?? '']);
+    download(`drdiscord2-${kind}s.csv`, toCSV([head, ...rows]), 'text/csv');
     toast(`Exported ${rows.length} ${kind.toUpperCase()} rows to CSV`);
   };
 
@@ -389,7 +392,7 @@ export function HardwareList({ kind }: { kind: 'cpu' | 'gpu' }) {
                               <td className="px-3 py-2"><Link to={`/${kind}/${i.slug}`} className="font-medium text-ink-100 hover:text-accent">{i.name}</Link><div className="text-[11px] text-ink-500">{i.architecture}</div></td>
                               <td className="px-3 py-2 text-ink-300">{i.brand}</td>
                               {cpu ? (() => { const c = i as Cpu; return (<><td className="px-3 py-2 text-ink-300">{c.socket}</td><td className="px-3 py-2 tabular-nums text-ink-300">{c.cores}/{c.threads}</td><td className="px-3 py-2 tabular-nums text-ink-300">{c.boostClock} GHz</td><td className="px-3 py-2 tabular-nums text-accent">{c.benchmarks.multi}</td><td className="px-3 py-2 tabular-nums text-ink-300">{c.benchmarks.single}</td></>); })()
-                                   : (() => { const g = i as Gpu; return (<><td className="px-3 py-2 text-ink-300">{g.chip}</td><td className="px-3 py-2 tabular-nums text-ink-300">{g.vram} GB {g.memoryType}</td><td className="px-3 py-2 tabular-nums text-ink-300">{g.memoryBus}b</td><td className="px-3 py-2 tabular-nums text-accent">{g.benchmarks.raster}</td><td className="px-3 py-2 tabular-nums text-ink-300">{g.benchmarks.raytracing}</td></>); })()}
+                                   : (() => { const g = i as Gpu; return (<><td className="px-3 py-2 text-ink-300">{g.chip}</td><td className="px-3 py-2 tabular-nums text-ink-300">{g.vram} GB {g.memoryType}</td><td className="px-3 py-2 tabular-nums text-ink-300">{g.memoryBus}b</td><td className="px-3 py-2 tabular-nums text-accent">{g.benchmarks.raster}</td><td className="px-3 py-2 tabular-nums text-ink-300">{g.benchmarks.rayTracing}</td></>); })()}
                               <td className="px-3 py-2 tabular-nums text-ink-400">{i.tdp} W</td>
                               <td className="px-3 py-2 tabular-nums font-semibold text-ink-100">{fmtPrice(i.price)}</td>
                               <td className="px-3 py-2"><CardActions itemKey={`${kind}:${i.slug}`} name={i.name} toCompare={`/compare?items=${kind}:${i.slug}`} /></td>
@@ -432,7 +435,7 @@ export function HardwareList({ kind }: { kind: 'cpu' | 'gpu' }) {
               );
             })()}
           {!loading && filtered.length > 0 && (
-            <p className="mt-4 text-center text-xs text-ink-500">Showing {filtered.length} of {base.length} · avg price {fmtPrice(Math.round(filtered.reduce((s, i) => s + (i.price ?? 0), 0) / filtered.length))} · median perf {Math.round(applySort(filtered, cpu ? 'multi-desc' : 'raster-desc')[Math.floor(filtered.length / 2)].benchmarks[cpu ? 'multi' : 'raster'])}</p>
+            <p className="mt-4 text-center text-xs text-ink-500">Showing {filtered.length} of {base.length} · avg price {fmtPrice(Math.round(filtered.reduce((s, i) => s + (i.price ?? 0), 0) / filtered.length))} · median perf {Math.round((() => { const m = filtered[Math.floor(filtered.length / 2)]; return isCpu(m) ? m.benchmarks.multi : m.benchmarks.raster; })())}</p>
           )}
         </div>
       </div>
