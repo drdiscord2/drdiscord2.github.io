@@ -12,10 +12,11 @@ function setMeta(attr: 'name' | 'property', key: string, value: string) {
   el.content = value;
 }
 
-export function useSeo(opts: { title: string; description?: string; image?: string; jsonLd?: Record<string, unknown> }) {
+export function useSeo(opts: { title: string; description?: string; image?: string; jsonLd?: Record<string, unknown>; noindex?: boolean }) {
   useEffect(() => {
     document.title = `${opts.title} · DrDiscord2`;
     setMeta('name', 'description', opts.description ?? 'DrDiscord2 — PC hardware database, benchmarks and PC builder.');
+    setMeta('name', 'robots', opts.noindex ? 'noindex,nofollow' : 'index,follow');
     setMeta('property', 'og:title', opts.title);
     setMeta('property', 'og:description', opts.description ?? 'PC hardware database, benchmarks and PC builder.');
     setMeta('property', 'og:url', window.location.href);
@@ -34,5 +35,5 @@ export function useSeo(opts: { title: string; description?: string; image?: stri
     } else if (ld) {
       ld.remove();
     }
-  }, [opts.title, opts.description, opts.image, JSON.stringify(opts.jsonLd ?? {})]);
+  }, [opts.title, opts.description, opts.image, opts.noindex, JSON.stringify(opts.jsonLd ?? {})]);
 }

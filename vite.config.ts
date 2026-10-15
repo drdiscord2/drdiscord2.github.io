@@ -3,10 +3,10 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 import path from 'path';
 
-// GitHub Pages deployment base — repo is drdiscord2.github.io (user site),
-// served under /drdiscord2.github.io/ per project requirements.
+// GitHub Pages deployment base — repo is drdiscord2.github.io, which is a
+// USER SITE repository: it is served at the root (/), NOT under /drdiscord2.github.io/.
 export default defineConfig({
-  base: '/drdiscord2.github.io/',
+  base: '/',
   plugins: [
     react(),
     VitePWA({
