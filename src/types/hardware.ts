@@ -13,6 +13,7 @@ export interface PricePoint {
 }
 
 export interface Cpu {
+  type: 'cpu';
   id: string;
   slug: string;
   name: string;
@@ -58,6 +59,7 @@ export interface GameFps {
 }
 
 export interface Gpu {
+  type: 'gpu';
   id: string;
   slug: string;
   name: string;

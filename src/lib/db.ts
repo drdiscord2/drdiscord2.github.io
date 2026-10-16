@@ -22,8 +22,8 @@ import glossaryRaw from '@/data/glossary.json';
 import authorsRaw from '@/data/authors.json';
 import testimonialsRaw from '@/data/testimonials.json';
 
-export const allCpus = cpusRaw as unknown as Cpu[];
-export const allGpus = gpusRaw as unknown as Gpu[];
+export const allCpus = (cpusRaw as unknown as Cpu[]).map((c) => ({ ...c, type: 'cpu' as const }));
+export const allGpus = (gpusRaw as unknown as Gpu[]).map((g) => ({ ...g, type: 'gpu' as const }));
 export const allMotherboards = motherboardsRaw as unknown as Motherboard[];
 export const allRam = ramRaw as unknown as RamKit[];
 export const allStorage = storageRaw as unknown as StorageDrive[];
