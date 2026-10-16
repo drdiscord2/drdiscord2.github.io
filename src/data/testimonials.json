@@ -1,0 +1,38 @@
+[
+ {
+  "name": "Kateřína N.",
+  "role": "Esports team manager",
+  "text": "We specced six team rigs with the Builder in twenty minutes. Compatibility warnings caught a cooler clash our old vendor shipped.",
+  "rating": 5
+ },
+ {
+  "name": "Marcus B.",
+  "role": "Freelance video editor",
+  "text": "The price-history charts saved me €400 timing a 7950X purchase. Nothing else tracks street prices this cleanly.",
+  "rating": 5
+ },
+ {
+  "name": "Devansh P.",
+  "role": "CS student",
+  "text": "Comparison pages with percent deltas are exactly what I wanted for my first build. The glossary taught me enough to argue with shop staff.",
+  "rating": 4
+ },
+ {
+  "name": "Sofia R.",
+  "role": "Retro hardware collector",
+  "text": "They actually index Pentium 4 and HD 7970 era parts. Historical section is a museum with charts.",
+  "rating": 5
+ },
+ {
+  "name": "Tomáš H.",
+  "role": "IT technician",
+  "text": "Offline mode is the killer feature — I spec upgrades in basements with no signal. Works like a native app.",
+  "rating": 5
+ },
+ {
+  "name": "Yuki M.",
+  "role": "Indie game developer",
+  "text": "Game benchmark DB helped me pick minimum-spec targets that don’t alienate 60% of my players.",
+  "rating": 4
+ }
+]

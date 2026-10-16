@@ -1,0 +1,86 @@
+[
+ {
+  "a": "amd-ryzen-7-7800x3d",
+  "b": "intel-core-i7-14700k",
+  "type": "cpu",
+  "searches": 18420
+ },
+ {
+  "a": "amd-ryzen-5-7600",
+  "b": "intel-core-i5-14400f",
+  "type": "cpu",
+  "searches": 15310
+ },
+ {
+  "a": "amd-ryzen-9-9950x",
+  "b": "intel-core-i9-14900k",
+  "type": "cpu",
+  "searches": 14280
+ },
+ {
+  "a": "amd-ryzen-5-5600",
+  "b": "intel-core-i5-12400f",
+  "type": "cpu",
+  "searches": 12905
+ },
+ {
+  "a": "amd-ryzen-9-7950x",
+  "b": "amd-ryzen-9-9950x",
+  "type": "cpu",
+  "searches": 11470
+ },
+ {
+  "a": "intel-core-i9-13900k",
+  "b": "intel-core-i9-14900k",
+  "type": "cpu",
+  "searches": 9860
+ },
+ {
+  "a": "amd-ryzen-7-9700x",
+  "b": "amd-ryzen-7-7700x",
+  "type": "cpu",
+  "searches": 8420
+ },
+ {
+  "a": "nvidia-geforce-rtx-4070-super",
+  "b": "amd-radeon-rx-7800-xt",
+  "type": "gpu",
+  "searches": 19840
+ },
+ {
+  "a": "nvidia-geforce-rtx-4060",
+  "b": "amd-radeon-rx-7600",
+  "type": "gpu",
+  "searches": 16220
+ },
+ {
+  "a": "nvidia-geforce-rtx-4080-super",
+  "b": "nvidia-geforce-rtx-4090",
+  "type": "gpu",
+  "searches": 13410
+ },
+ {
+  "a": "nvidia-geforce-rtx-3060-12gb",
+  "b": "nvidia-geforce-rtx-4060",
+  "type": "gpu",
+  "searches": 11230
+ },
+ {
+  "a": "amd-radeon-rx-6700-xt",
+  "b": "amd-radeon-rx-7600",
+  "type": "gpu",
+  "searches": 9110
+ },
+ {
+  "a": "nvidia-geforce-rtx-4070",
+  "b": "nvidia-geforce-rtx-3080",
+  "type": "gpu",
+  "searches": 8730
+ },
+ {
+  "a": "intel-arc-a750",
+  "b": "amd-radeon-rx-6600",
+  "type": "gpu",
+  "searches": 7420
+ }
+]

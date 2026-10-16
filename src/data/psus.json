@@ -1,0 +1,322 @@
+[
+ {
+  "id": "psu-1",
+  "name": "Corsair RM1000x",
+  "brand": "Corsair",
+  "watts": 1000,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 189
+ },
+ {
+  "id": "psu-2",
+  "name": "Corsair RM850x",
+  "brand": "Corsair",
+  "watts": 850,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 149
+ },
+ {
+  "id": "psu-3",
+  "name": "Corsair RM750e",
+  "brand": "Corsair",
+  "watts": 750,
+  "efficiency": "80+ Bronze",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 99
+ },
+ {
+  "id": "psu-4",
+  "name": "Corsair HX1200i",
+  "brand": "Corsair",
+  "watts": 1200,
+  "efficiency": "80+ Platinum",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 259
+ },
+ {
+  "id": "psu-5",
+  "name": "Corsair SF750",
+  "brand": "Corsair",
+  "watts": 750,
+  "efficiency": "80+ Platinum",
+  "modular": "Full-modular",
+  "formFactor": "SFX",
+  "price": 164
+ },
+ {
+  "id": "psu-6",
+  "name": "Seasonic TX-1000",
+  "brand": "Seasonic",
+  "watts": 1000,
+  "efficiency": "80+ Titanium",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 329
+ },
+ {
+  "id": "psu-7",
+  "name": "Seasonic Focus GX-750",
+  "brand": "Seasonic",
+  "watts": 750,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 109
+ },
+ {
+  "id": "psu-8",
+  "name": "EVGA SuperNOVA 850 G6",
+  "brand": "EVGA",
+  "watts": 850,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 149
+ },
+ {
+  "id": "psu-9",
+  "name": "EVGA 600 BR",
+  "brand": "EVGA",
+  "watts": 600,
+  "efficiency": "80+ Bronze",
+  "modular": "Non-modular",
+  "formFactor": "ATX",
+  "price": 59
+ },
+ {
+  "id": "psu-10",
+  "name": "be quiet! Dark Power 13 1000W",
+  "brand": "be quiet!",
+  "watts": 1000,
+  "efficiency": "80+ Titanium",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 289
+ },
+ {
+  "id": "psu-11",
+  "name": "be quiet! Pure Power 12 M 750W",
+  "brand": "be quiet!",
+  "watts": 750,
+  "efficiency": "80+ Silver",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 99
+ },
+ {
+  "id": "psu-12",
+  "name": "Thermaltake Toughpower GF3 1200W",
+  "brand": "Thermaltake",
+  "watts": 1200,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 219
+ },
+ {
+  "id": "psu-13",
+  "name": "MSI MAG A850GL",
+  "brand": "MSI",
+  "watts": 850,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 119
+ },
+ {
+  "id": "psu-14",
+  "name": "MSI MAG A650BN",
+  "brand": "MSI",
+  "watts": 650,
+  "efficiency": "80+ Bronze",
+  "modular": "Non-modular",
+  "formFactor": "ATX",
+  "price": 59
+ },
+ {
+  "id": "psu-15",
+  "name": "Cooler Master MWE Gold 750 V2",
+  "brand": "Cooler Master",
+  "watts": 750,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 94
+ },
+ {
+  "id": "psu-16",
+  "name": "Deepcool PQ750M",
+  "brand": "Deepcool",
+  "watts": 750,
+  "efficiency": "80+ Platinum",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 109
+ },
+ {
+  "id": "psu-17",
+  "name": "SilverStone DA800",
+  "brand": "SilverStone",
+  "watts": 800,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "SFX-L",
+  "price": 159
+ },
+ {
+  "id": "psu-18",
+  "name": "Corsair SF600",
+  "brand": "Corsair",
+  "watts": 600,
+  "efficiency": "80+ Platinum",
+  "modular": "Full-modular",
+  "formFactor": "SFX",
+  "price": 119
+ },
+ {
+  "id": "psu-19",
+  "name": "Rosewill ARC SFX 450W",
+  "brand": "Rosewill",
+  "watts": 450,
+  "efficiency": "80+ Gold",
+  "modular": "Semi-modular",
+  "formFactor": "SFX",
+  "price": 69
+ },
+ {
+  "id": "psu-20",
+  "name": "NZXT C850 Gold",
+  "brand": "NZXT",
+  "watts": 850,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 134
+ },
+ {
+  "id": "psu-21",
+  "name": "Fractal Design ION+ 2P 860W",
+  "brand": "Fractal Design",
+  "watts": 860,
+  "efficiency": "80+ Platinum",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 179
+ },
+ {
+  "id": "psu-22",
+  "name": "Phanteks AMP 750W",
+  "brand": "Phanteks",
+  "watts": 750,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 99
+ },
+ {
+  "id": "psu-23",
+  "name": "Lian Li SP750SG",
+  "brand": "Lian Li",
+  "watts": 750,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "SFX",
+  "price": 139
+ },
+ {
+  "id": "psu-24",
+  "name": "Enermax Revolution D.F. 1050W",
+  "brand": "Enermax",
+  "watts": 1050,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 189
+ },
+ {
+  "id": "psu-25",
+  "name": "Antec EarthMax Green 550W",
+  "brand": "Antec",
+  "watts": 550,
+  "efficiency": "80+ Bronze",
+  "modular": "Non-modular",
+  "formFactor": "ATX",
+  "price": 54
+ },
+ {
+  "id": "psu-26",
+  "name": "OCZ ModXStream 500W",
+  "brand": "OCZ",
+  "watts": 500,
+  "efficiency": "80+ Bronze",
+  "modular": "Semi-modular",
+  "formFactor": "ATX",
+  "price": 45
+ },
+ {
+  "id": "psu-27",
+  "name": "Corsair CX550M",
+  "brand": "Corsair",
+  "watts": 550,
+  "efficiency": "80+ Bronze",
+  "modular": "Semi-modular",
+  "formFactor": "ATX",
+  "price": 59
+ },
+ {
+  "id": "psu-28",
+  "name": "Seasonic PRIME TX-1300",
+  "brand": "Seasonic",
+  "watts": 1300,
+  "efficiency": "80+ Titanium",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 429
+ },
+ {
+  "id": "psu-29",
+  "name": "be quiet! Straight Power 12 1500W",
+  "brand": "be quiet!",
+  "watts": 1500,
+  "efficiency": "80+ Platinum",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 449
+ },
+ {
+  "id": "psu-30",
+  "name": "Thermaltake Smart 500W",
+  "brand": "Thermaltake",
+  "watts": 500,
+  "efficiency": "80+",
+  "modular": "Non-modular",
+  "formFactor": "ATX",
+  "price": 44
+ },
+ {
+  "id": "psu-31",
+  "name": "MSI MPG A1000G PCIE5",
+  "brand": "MSI",
+  "watts": 1000,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 179
+ },
+ {
+  "id": "psu-32",
+  "name": "Corsair RM1200x SHIFT",
+  "brand": "Corsair",
+  "watts": 1200,
+  "efficiency": "80+ Gold",
+  "modular": "Full-modular",
+  "formFactor": "ATX",
+  "price": 249
+ }
+]

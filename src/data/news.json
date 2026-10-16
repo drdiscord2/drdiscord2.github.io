@@ -1,0 +1,122 @@
+[
+ {
+  "id": "news-1",
+  "title": "AMD ships Ryzen 9 9950X3D with second-gen stacked cache",
+  "summary": "Dual-CCD 3D V-Cache pushes gaming index past every existing desktop CPU while keeping 16/32 core productivity.",
+  "date": "2026-10-08",
+  "source": "DrDiscord2 Lab",
+  "tag": "CPU"
+ },
+ {
+  "id": "news-2",
+  "title": "NVIDIA GeForce RTX 50-series \"Blackwell\" launch window confirmed for CES",
+  "summary": "Sources point to 5090/5080 arriving January with GDDR7 at 28–32 Gbps and 5th-gen RT cores.",
+  "date": "2026-10-05",
+  "source": "Industry Wire",
+  "tag": "GPU"
+ },
+ {
+  "id": "news-3",
+  "title": "DDR5 prices fall another 12% quarter-over-quarter",
+  "summary": "6400 CL32 32 GB kits now routinely undercut premium DDR4; fab oversupply expected to continue through H1 2027.",
+  "date": "2026-10-01",
+  "source": "Market Watch",
+  "tag": "Memory"
+ },
+ {
+  "id": "news-4",
+  "title": "Intel Arrow Lake Refresh spotted with bumped clocks",
+  "summary": "ES samples show +300 MHz boost and improved CUDIMM support ahead of LGA1851 board revisions.",
+  "date": "2026-09-27",
+  "source": "Silicon Leak Desk",
+  "tag": "CPU"
+ },
+ {
+  "id": "news-5",
+  "title": "Valve updates SteamOS with native PSSR support",
+  "summary": "Portable Shader Supersampling now available across Proton titles, benefiting AMD and Intel GPUs equally.",
+  "date": "2026-09-22",
+  "source": "Software Beat",
+  "tag": "Software"
+ },
+ {
+  "id": "news-6",
+  "title": "Samsung unveils 9900-class PCIe 5.0 SSD with 14 GB/s",
+  "summary": "New Phoenix controller halves Gen5 idle power; retail SKUs arrive November at Gen4-like pricing.",
+  "date": "2026-09-18",
+  "source": "Storage News",
+  "tag": "Storage"
+ },
+ {
+  "id": "news-7",
+  "title": "AMD EPYC Turin Dense hits 192 Zen 5 cores",
+  "summary": "Flagship server SKU doubles previous thread count; SPECrate charts already published in our database.",
+  "date": "2026-09-14",
+  "source": "Enterprise Tech",
+  "tag": "Server"
+ },
+ {
+  "id": "news-8",
+  "title": "Cyberpunk 2077 2.3 beta enables RTGI on RDNA3",
+  "summary": "Path tracing finally viable on Radeon with a 30–40% FSR4-assisted uplift at 4K.",
+  "date": "2026-09-09",
+  "source": "Game Patch Notes",
+  "tag": "Gaming"
+ },
+ {
+  "id": "news-9",
+  "title": "ATX 3.1 connector adoption crosses 60% of new GPUs",
+  "summary": "12V-2x6 revisions eliminate the melted-terminal class of issues; legacy adapters now officially deprecated.",
+  "date": "2026-09-03",
+  "source": "Standards Report",
+  "tag": "Power"
+ },
+ {
+  "id": "news-10",
+  "title": "Arc Battlemage mobile GPUs leak: 20% over Alchemist",
+  "summary": "Benchmark entries suggest Xe2 cores land in thin-and-light gaming laptops by Q1.",
+  "date": "2026-08-29",
+  "source": "Mobile Silicon",
+  "tag": "GPU"
+ },
+ {
+  "id": "news-11",
+  "title": "Windows 11 25H2 fixes hybrid-core scheduling for Zen 5",
+  "summary": "Long-standing UWP thread placement bug resolved; measurable gains in creator apps.",
+  "date": "2026-08-24",
+  "source": "OS Update",
+  "tag": "Software"
+ },
+ {
+  "id": "news-12",
+  "title": "Thermalright launches Peerless Assassin 360 AIO at $79",
+  "summary": "The value disruptor enters liquid cooling; our lab finds it within 3°C of units twice the price.",
+  "date": "2026-08-19",
+  "source": "Cooling Weekly",
+  "tag": "Cooling"
+ },
+ {
+  "id": "news-13",
+  "title": "TSMC N2 risk production begins — 2027 desktop chips expected",
+  "summary": "First GAA nanosheet node claims 30% efficiency gain; AMD and Intel roadmap slides hint at 2027 client parts.",
+  "date": "2026-08-12",
+  "source": "Fab Report",
+  "tag": "Manufacturing"
+ },
+ {
+  "id": "news-14",
+  "title": "Used RTX 3080 prices climb for the first time since 2023",
+  "summary": "AI hobbyist demand for 10 GB cards drives secondary-market appreciation.",
+  "date": "2026-08-05",
+  "source": "Market Watch",
+  "tag": "GPU"
+ },
+ {
+  "id": "news-15",
+  "title": "Corsair announces XENEON ultrawide with built-in KVM",
+  "summary": "49\" 240 Hz dual-mode panel targets productivity gamers; shipping October.",
+  "date": "2026-07-30",
+  "source": "Display News",
+  "tag": "Peripheral"
+ }
+]

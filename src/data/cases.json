@@ -1,0 +1,392 @@
+[
+ {
+  "id": "case-1",
+  "name": "Fractal Design North",
+  "brand": "Fractal Design",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 355,
+  "maxCoolerMm": 170,
+  "driveBays": 4,
+  "airflow": "excellent",
+  "price": 139
+ },
+ {
+  "id": "case-2",
+  "name": "Lian Li O11 Dynamic EVO",
+  "brand": "Lian Li",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX",
+   "E-ATX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 427,
+  "maxCoolerMm": 167,
+  "driveBays": 4,
+  "airflow": "excellent",
+  "price": 169
+ },
+ {
+  "id": "case-3",
+  "name": "NZXT H7 Flow",
+  "brand": "NZXT",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 400,
+  "maxCoolerMm": 185,
+  "driveBays": 4,
+  "airflow": "excellent",
+  "price": 129
+ },
+ {
+  "id": "case-4",
+  "name": "Corsair 4000D Airflow",
+  "brand": "Corsair",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 360,
+  "maxCoolerMm": 170,
+  "driveBays": 4,
+  "airflow": "excellent",
+  "price": 104
+ },
+ {
+  "id": "case-5",
+  "name": "be quiet! Pure Base 500DX",
+  "brand": "be quiet!",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 369,
+  "maxCoolerMm": 190,
+  "driveBays": 3,
+  "airflow": "good",
+  "price": 109
+ },
+ {
+  "id": "case-6",
+  "name": "Fractal Design Torrent",
+  "brand": "Fractal Design",
+  "formFactorSupport": [
+   "ATX",
+   "E-ATX",
+   "mATX"
+  ],
+  "type": "Full Tower",
+  "maxGpuMm": 440,
+  "maxCoolerMm": 180,
+  "driveBays": 6,
+  "airflow": "excellent",
+  "price": 189
+ },
+ {
+  "id": "case-7",
+  "name": "Phanteks Enthoo Pro 2",
+  "brand": "Phanteks",
+  "formFactorSupport": [
+   "ATX",
+   "E-ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Full Tower",
+  "maxGpuMm": 400,
+  "maxCoolerMm": 190,
+  "driveBays": 8,
+  "airflow": "excellent",
+  "price": 149
+ },
+ {
+  "id": "case-8",
+  "name": "Cooler Master NR200P",
+  "brand": "Cooler Master",
+  "formFactorSupport": [
+   "mATX",
+   "ITX"
+  ],
+  "type": "MiniTower",
+  "maxGpuMm": 330,
+  "maxCoolerMm": 155,
+  "driveBays": 4,
+  "airflow": "good",
+  "price": 99
+ },
+ {
+  "id": "case-9",
+  "name": "SSUPD Meshlicious",
+  "brand": "SSUPD",
+  "formFactorSupport": [
+   "mATX",
+   "ITX"
+  ],
+  "type": "MiniTower",
+  "maxGpuMm": 322,
+  "maxCoolerMm": 72,
+  "driveBays": 2,
+  "airflow": "excellent",
+  "price": 119
+ },
+ {
+  "id": "case-10",
+  "name": "Lian Li A4-H2O",
+  "brand": "Lian Li",
+  "formFactorSupport": [
+   "ITX"
+  ],
+  "type": "ITX",
+  "maxGpuMm": 245,
+  "maxCoolerMm": 58,
+  "driveBays": 2,
+  "airflow": "good",
+  "price": 124
+ },
+ {
+  "id": "case-11",
+  "name": "Dan Cases A4-HFO",
+  "brand": "Dan Cases",
+  "formFactorSupport": [
+   "ITX"
+  ],
+  "type": "ITX",
+  "maxGpuMm": 290,
+  "maxCoolerMm": 55,
+  "driveBays": 1,
+  "airflow": "excellent",
+  "price": 139
+ },
+ {
+  "id": "case-12",
+  "name": "Thermaltake Core P3 TG Pro",
+  "brand": "Thermaltake",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 335,
+  "maxCoolerMm": 180,
+  "driveBays": 4,
+  "airflow": "good",
+  "price": 124
+ },
+ {
+  "id": "case-13",
+  "name": "Jonsbo D31 Mesh",
+  "brand": "Jonsbo",
+  "formFactorSupport": [
+   "mATX",
+   "ITX"
+  ],
+  "type": "MicroTower",
+  "maxGpuMm": 335,
+  "maxCoolerMm": 165,
+  "driveBays": 3,
+  "airflow": "excellent",
+  "price": 79
+ },
+ {
+  "id": "case-14",
+  "name": "Asus Prime AP201",
+  "brand": "ASUS",
+  "formFactorSupport": [
+   "mATX",
+   "ITX"
+  ],
+  "type": "MicroTower",
+  "maxGpuMm": 338,
+  "maxCoolerMm": 163,
+  "driveBays": 3,
+  "airflow": "excellent",
+  "price": 99
+ },
+ {
+  "id": "case-15",
+  "name": "Corsair 5000D Airflow",
+  "brand": "Corsair",
+  "formFactorSupport": [
+   "ATX",
+   "E-ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 360,
+  "maxCoolerMm": 170,
+  "driveBays": 6,
+  "airflow": "excellent",
+  "price": 164
+ },
+ {
+  "id": "case-16",
+  "name": "NZXT H5 Flow",
+  "brand": "NZXT",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 365,
+  "maxCoolerMm": 165,
+  "driveBays": 4,
+  "airflow": "good",
+  "price": 94
+ },
+ {
+  "id": "case-17",
+  "name": "Fractal Design Define 7 Compact",
+  "brand": "Fractal Design",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "MicroTower",
+  "maxGpuMm": 364,
+  "maxCoolerMm": 169,
+  "driveBays": 5,
+  "airflow": "okay",
+  "price": 109
+ },
+ {
+  "id": "case-18",
+  "name": "SilverStone FARA H1M",
+  "brand": "SilverStone",
+  "formFactorSupport": [
+   "mATX",
+   "ITX"
+  ],
+  "type": "MicroTower",
+  "maxGpuMm": 330,
+  "maxCoolerMm": 162,
+  "driveBays": 4,
+  "airflow": "excellent",
+  "price": 79
+ },
+ {
+  "id": "case-19",
+  "name": "Meshify C Mini",
+  "brand": "Fractal Design",
+  "formFactorSupport": [
+   "mATX",
+   "ITX"
+  ],
+  "type": "MicroTower",
+  "maxGpuMm": 315,
+  "maxCoolerMm": 170,
+  "driveBays": 2,
+  "airflow": "good",
+  "price": 89
+ },
+ {
+  "id": "case-20",
+  "name": "InWin A1",
+  "brand": "InWin",
+  "formFactorSupport": [
+   "ITX"
+  ],
+  "type": "ITX",
+  "maxGpuMm": 240,
+  "maxCoolerMm": 70,
+  "driveBays": 2,
+  "airflow": "good",
+  "price": 119
+ },
+ {
+  "id": "case-21",
+  "name": "Cougar Duoface",
+  "brand": "Cougar",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 355,
+  "maxCoolerMm": 175,
+  "driveBays": 4,
+  "airflow": "excellent",
+  "price": 89
+ },
+ {
+  "id": "case-22",
+  "name": "Montech AIR 1000 ARGO",
+  "brand": "Montech",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 380,
+  "maxCoolerMm": 180,
+  "driveBays": 4,
+  "airflow": "excellent",
+  "price": 89
+ },
+ {
+  "id": "case-23",
+  "name": "Endorfy Regnum 4000X",
+  "brand": "Endorfy",
+  "formFactorSupport": [
+   "ATX",
+   "E-ATX",
+   "mATX"
+  ],
+  "type": "Full Tower",
+  "maxGpuMm": 400,
+  "maxCoolerMm": 185,
+  "driveBays": 6,
+  "airflow": "excellent",
+  "price": 139
+ },
+ {
+  "id": "case-24",
+  "name": "Hyte Y70 Touch",
+  "brand": "Corsair",
+  "formFactorSupport": [
+   "ATX",
+   "mATX",
+   "ITX"
+  ],
+  "type": "Tower",
+  "maxGpuMm": 410,
+  "maxCoolerMm": 180,
+  "driveBays": 4,
+  "airflow": "good",
+  "price": 179
+ },
+ {
+  "id": "case-25",
+  "name": "Node 202",
+  "brand": "Fractal Design",
+  "formFactorSupport": [
+   "mATX",
+   "ITX"
+  ],
+  "type": "MicroTower",
+  "maxGpuMm": 320,
+  "maxCoolerMm": 150,
+  "driveBays": 4,
+  "airflow": "good",
+  "price": 129
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "term": "Clock Speed",
+  "acronym": "GHz",
+  "category": "CPU",
+  "definition": "Number of cycles a core executes per second. Higher clocks mean more instructions per unit time, but IPC (instructions per cycle) matters equally — a 4 GHz Zen 4 crushes a 4 GHz Pentium 4."
+ },
+ {
+  "term": "Base / Boost Clock",
+  "acronym": "",
+  "category": "CPU",
+  "definition": "Guaranteed all-core frequency vs. maximum opportunistic single-core frequency under power/thermal headroom."
+ },
+ {
+  "term": "Cores & Threads",
+  "acronym": "",
+  "category": "CPU",
+  "definition": "Physical execution units vs logical streams (SMT/Hyper-Threading). More threads help parallel workloads; games mostly want fast cores."
+ },
+ {
+  "term": "Cache (L1/L2/L3)",
+  "acronym": "",
+  "category": "CPU",
+  "definition": "On-chip SRAM hierarchy. L3 shared among cores; AMD 3D V-Cache stacks extra L3 vertically for massive gaming gains."
+ },
+ {
+  "term": "TDP",
+  "acronym": "TDP",
+  "category": "General",
+  "definition": "Thermal Design Power — the cooling requirement watts, not necessarily peak electrical draw. Intel now publishes PL1/PL2 power limits separately."
+ },
+ {
+  "term": "Process Node",
+  "acronym": "nm",
+  "category": "General",
+  "definition": "Semiconductor feature size label (5 nm, 3 nm...). Smaller generally means more transistors per watt, but marketing names diverge from physical dimensions."
+ },
+ {
+  "term": "Socket",
+  "acronym": "",
+  "category": "Platform",
+  "definition": "Physical/electrical CPU interface (AM5, LGA 1700). Determines motherboard compatibility and often memory generation."
+ },
+ {
+  "term": "Chipset",
+  "acronym": "",
+  "category": "Platform",
+  "definition": "Motherboard silicon providing I/O: PCIe lanes, USB, SATA, overclock permissions. Doesn’t affect raw CPU/GPU speed."
+ },
+ {
+  "term": "PCIe Lanes",
+  "acronym": "PCIe",
+  "category": "Platform",
+  "definition": "High-speed serial links. x16 for GPUs, x4 for NVMe. Version (3/4/5) doubles bandwidth per generation."
+ },
+ {
+  "term": "SMT",
+  "acronym": "SMT",
+  "category": "CPU",
+  "definition": "Simultaneous Multi-Threading (Intel calls it Hyper-Threading). Two instruction streams share one core’s resources, ~20–30% aggregate gain typically."
+ },
+ {
+  "term": "IPC",
+  "acronym": "IPC",
+  "category": "CPU",
+  "definition": "Instructions Per Cycle — architectural throughput. The main lever of generational CPU progress."
+ },
+ {
+  "term": "AVX-512 / AVX2",
+  "acronym": "",
+  "category": "CPU",
+  "definition": "Wide vector instruction sets for scientific/AI workloads. Consumer chips vary: Zen 4 supports AVX-512 at reduced clocks; Raptor Lake disabled it."
+ },
+ {
+  "term": "XMP / EXPO",
+  "acronym": "",
+  "category": "Memory",
+  "definition": "Stored overclock profiles for RAM. XMP is Intel-origin, EXPO is AMD’s equivalent; enabling either runs memory beyond JEDEC defaults."
+ },
+ {
+  "term": "CAS Latency",
+  "acronym": "CL",
+  "category": "Memory",
+  "definition": "Clock cycles for a column read. Real latency = CL ÷ (MT/s ÷ 2000) in nanoseconds — why DDR5-6000 CL30 ≈ 10 ns."
+ },
+ {
+  "term": "DIMM / UDIMM / SODIMM",
+  "acronym": "",
+  "category": "Memory",
+  "definition": "Dual In-line Memory Module; U = unbuffered desktop; SO = small outline for laptops. Not interchangeable."
+ },
+ {
+  "term": "ECC Memory",
+  "acronym": "ECC",
+  "category": "Memory",
+  "definition": "Error-correcting code RAM detects/corrects bit flips. Requires mobo+CPU support; essential for servers/workstations."
+ },
+ {
+  "term": "VRAM",
+  "acronym": "VRAM",
+  "category": "GPU",
+  "definition": "Graphics memory. Capacity governs texture/resolution headroom; type/bus/bandwidth govern how fast it feeds the GPU."
+ },
+ {
+  "term": "Memory Bus Width",
+  "acronym": "bit",
+  "category": "GPU",
+  "definition": "Parallel channel count between GPU and VRAM. Bandwidth = bus × memory clock."
+ },
+ {
+  "term": "CUDA Cores / Stream Processors",
+  "acronym": "",
+  "category": "GPU",
+  "definition": "Shader execution units. Comparable only within the same architecture family — cross-brand counts mislead."
+ },
+ {
+  "term": "Tensor / RT / AI Units",
+  "acronym": "",
+  "category": "GPU",
+  "definition": "Fixed-function accelerators for matrix math (DLSS/AI) and ray-box intersections (ray tracing)."
+ },
+ {
+  "term": "DLSS / FSR / XeSS / PSSR",
+  "acronym": "",
+  "category": "Software",
+  "definition": "Upscaling suites: NVIDIA deep-learning, AMD spatial+ML, Intel ML, PlayStation Spectral Super Resolution. Render lower, reconstruct sharper."
+ },
+ {
+  "term": "Frame Generation",
+  "acronym": "",
+  "category": "Software",
+  "definition": "Inserting synthetic frames between real ones (DLSS3/FSR3). Doubles perceived smoothness; adds latency and needs solid base FPS."
+ },
+ {
+  "term": "Ray Tracing",
+  "acronym": "RT",
+  "category": "GPU",
+  "definition": "Simulating light rays for reflections/shadows/GI. Costs huge compute; denoisers + upscalers make it practical."
+ },
+ {
+  "term": "Path Tracing",
+  "acronym": "PT",
+  "category": "GPU",
+  "definition": "Full-scene recursive ray simulation replacing raster entirely. Cyberpunk RT Ultra/Overdrive is the reference workload."
+ },
+ {
+  "term": "TDP vs Board Power",
+  "acronym": "TBP/TGP",
+  "category": "GPU",
+  "definition": "GPU power envelope; laptop variants (TGP) define actual performance of identically named mobile chips."
+ },
+ {
+  "term": "VRAM Overflow / Stutter",
+  "acronym": "",
+  "category": "GPU",
+  "definition": "When textures exceed VRAM, spills to system RAM tank frametimes. Primary reason 8 GB cards age poorly."
+ },
+ {
+  "term": "NVMe / AHCI",
+  "acronym": "",
+  "category": "Storage",
+  "definition": "Protocols for SSD transport. NVMe over PCIe unlocks SSD speed; AHCI is the SATA-era legacy path."
+ },
+ {
+  "term": "TBW",
+  "acronym": "TBW",
+  "category": "Storage",
+  "definition": "Terabytes Written endurance rating — warrantied total writes before cell wearout concerns."
+ },
+ {
+  "term": "DRAM Cache in SSDs",
+  "acronym": "",
+  "category": "Storage",
+  "definition": "Buffer chip smoothing writes; DRAM-less drives rely on slower HMB — visible in sustained large transfers."
+ },
+ {
+  "term": "80 PLUS Ratings",
+  "acronym": "",
+  "category": "Power",
+  "definition": "Efficiency certification brackets (Bronze→Titanium) at 20/50/100% load. Says little about electrical quality — a known loophole."
+ },
+ {
+  "term": "Modular PSU",
+  "acronym": "",
+  "category": "Power",
+  "definition": "Cables detach for cleaner builds: semi vs full modular. SFX/SFX-L form factors serve small cases."
+ },
+ {
+  "term": "Transient Spikes",
+  "acronym": "",
+  "category": "Power",
+  "definition": "Microsecond GPU power surges; ATX 3.0/3.1 spec mandates 2× TDP handling for two GPUs’ generations."
+ },
+ {
+  "term": "Curve Optimizer / Undervolting",
+  "acronym": "",
+  "category": "Tuning",
+  "definition": "Shifting voltage-frequency curve downward for same clocks at less power/heat — the modern way to \"overclock\" efficiently."
+ },
+ {
+  "term": "PBO",
+  "acronym": "PBO",
+  "category": "Tuning",
+  "definition": "AMD Precision Boost Overdrive — raises power/current/thermal limits so boost algorithms go harder."
+ },
+ {
+  "term": "Delidding",
+  "acronym": "",
+  "category": "Tuning",
+  "definition": "Removing CPU IHS to replace TIM with direct-die cooling. Big temps drop, big risk; voids warranty."
+ },
+ {
+  "term": "Bottleneck",
+  "acronym": "",
+  "category": "General",
+  "definition": "When one component caps system performance. CPU-bound at low res/high FPS; GPU-bound at high res/settings."
+ },
+ {
+  "term": "Frametime / 1% Lows",
+  "acronym": "",
+  "category": "Gaming",
+  "definition": "Average FPS hides hitches; 1%-low frametimes define perceived smoothness. Always check both."
+ },
+ {
+  "term": "Geometric Mean Index",
+  "acronym": "",
+  "category": "Methodology",
+  "definition": "Our headline scores: GM of many normalized benchmarks — rewards balanced products, punishes narrow specialists."
+ },
+ {
+  "term": "Form Factor (ATX/mATX/ITX)",
+  "acronym": "",
+  "category": "Platform",
+  "definition": "Board/case size standards. ITX trades expandability for footprint; E-ATX exceeds standard towers."
+ },
+ {
+  "term": "AIO / Custom Loop",
+  "acronym": "",
+  "category": "Cooling",
+  "definition": "Sealed pump+radiator liquid kit vs. user-assembled loop. Custom cools more hardware, demands maintenance."
+ },
+ {
+  "term": "Static Pressure Fans",
+  "acronym": "",
+  "category": "Cooling",
+  "definition": "High-pressure blade designs that push air through radiators/filters vs. open-flow volume fans."
+ },
+ {
+  "term": "UEFI / BIOS",
+  "acronym": "",
+  "category": "Platform",
+  "definition": "Modern firmware interface replacing legacy BIOS: mouse input, networking, secure boot, larger boot disks."
+ },
+ {
+  "term": "Secure Boot / TPM",
+  "acronym": "",
+  "category": "Security",
+  "definition": "Boot-chain signature enforcement + hardware root of trust. Required for certain OS installs and anti-cheat."
+ },
+ {
+  "term": "Resizable BAR",
+  "acronym": "ReBAR",
+  "category": "GPU",
+  "definition": "PCIe feature letting CPU access all GPU VRAM at once — free 3–8% in many titles when enabled."
+ },
+ {
+  "term": "Hyper-Threading Pitfalls",
+  "acronym": "",
+  "category": "CPU",
+  "definition": "SMT siblings share execution units; some security flaws (downfall-class) exploit shared state — patches can cost performance."
+ }
+]

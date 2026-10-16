@@ -1,0 +1,11666 @@
+[
+ {
+  "id": "cpu-1",
+  "slug": "intel-core-i9-14900ks",
+  "name": "Intel Core i9-14900KS",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 24,
+  "threads": 32,
+  "baseClock": 3.2,
+  "boostClock": 6.2,
+  "cacheL3": 36,
+  "tdp": 150,
+  "processNode": 10,
+  "releaseYear": 2024,
+  "releaseDate": "2024-03-15",
+  "launchPrice": 649,
+  "price": 610,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 621,
+   "multi": 6615,
+   "productivity": 6769,
+   "gaming": 684
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Class-leading single-core speed",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-07",
+    "p": 642
+   },
+   {
+    "m": "2024-01",
+    "p": 620
+   },
+   {
+    "m": "2024-01",
+    "p": 613
+   },
+   {
+    "m": "2025-02",
+    "p": 627
+   },
+   {
+    "m": "2025-07",
+    "p": 649
+   },
+   {
+    "m": "2025-08",
+    "p": 640
+   },
+   {
+    "m": "2025-04",
+    "p": 606
+   },
+   {
+    "m": "2025-07",
+    "p": 613
+   },
+   {
+    "m": "2026-07",
+    "p": 622
+   },
+   {
+    "m": "2026-02",
+    "p": 620
+   },
+   {
+    "m": "2026-06",
+    "p": 610
+   }
+  ]
+ },
+ {
+  "id": "cpu-2",
+  "slug": "intel-core-i9-14900k",
+  "name": "Intel Core i9-14900K",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 24,
+  "threads": 32,
+  "baseClock": 3,
+  "boostClock": 6,
+  "cacheL3": 36,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-02-15",
+  "launchPrice": 589,
+  "price": 510,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 601,
+   "multi": 6402,
+   "productivity": 6551,
+   "gaming": 663
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Class-leading single-core speed",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-07",
+    "p": 593
+   },
+   {
+    "m": "2023-10",
+    "p": 593
+   },
+   {
+    "m": "2024-02",
+    "p": 581
+   },
+   {
+    "m": "2024-08",
+    "p": 564
+   },
+   {
+    "m": "2024-11",
+    "p": 530
+   },
+   {
+    "m": "2024-11",
+    "p": 530
+   },
+   {
+    "m": "2025-04",
+    "p": 517
+   },
+   {
+    "m": "2025-02",
+    "p": 522
+   },
+   {
+    "m": "2025-07",
+    "p": 508
+   },
+   {
+    "m": "2026-06",
+    "p": 516
+   },
+   {
+    "m": "2026-09",
+    "p": 510
+   }
+  ]
+ },
+ {
+  "id": "cpu-3",
+  "slug": "intel-core-i9-14900kf",
+  "name": "Intel Core i9-14900KF",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 24,
+  "threads": 32,
+  "baseClock": 3,
+  "boostClock": 6,
+  "cacheL3": 36,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-01-15",
+  "launchPrice": 564,
+  "price": 480,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 601,
+   "multi": 6402,
+   "productivity": 6551,
+   "gaming": 663
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Class-leading single-core speed",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU",
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-05",
+    "p": 579
+   },
+   {
+    "m": "2023-04",
+    "p": 533
+   },
+   {
+    "m": "2024-05",
+    "p": 556
+   },
+   {
+    "m": "2024-10",
+    "p": 539
+   },
+   {
+    "m": "2024-12",
+    "p": 534
+   },
+   {
+    "m": "2024-08",
+    "p": 531
+   },
+   {
+    "m": "2025-10",
+    "p": 493
+   },
+   {
+    "m": "2025-12",
+    "p": 519
+   },
+   {
+    "m": "2025-09",
+    "p": 501
+   },
+   {
+    "m": "2026-03",
+    "p": 492
+   },
+   {
+    "m": "2026-07",
+    "p": 480
+   }
+  ]
+ },
+ {
+  "id": "cpu-4",
+  "slug": "intel-core-i7-14700k",
+  "name": "Intel Core i7-14700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 20,
+  "threads": 28,
+  "baseClock": 3.4,
+  "boostClock": 5.6,
+  "cacheL3": 33,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-11-15",
+  "launchPrice": 409,
+  "price": 365,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 561,
+   "multi": 5176,
+   "productivity": 5379,
+   "gaming": 619
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Class-leading single-core speed",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-10",
+    "p": 406
+   },
+   {
+    "m": "2023-08",
+    "p": 391
+   },
+   {
+    "m": "2024-06",
+    "p": 397
+   },
+   {
+    "m": "2024-12",
+    "p": 385
+   },
+   {
+    "m": "2024-03",
+    "p": 386
+   },
+   {
+    "m": "2024-10",
+    "p": 399
+   },
+   {
+    "m": "2025-06",
+    "p": 386
+   },
+   {
+    "m": "2025-04",
+    "p": 371
+   },
+   {
+    "m": "2025-02",
+    "p": 380
+   },
+   {
+    "m": "2026-04",
+    "p": 383
+   },
+   {
+    "m": "2026-12",
+    "p": 365
+   }
+  ]
+ },
+ {
+  "id": "cpu-5",
+  "slug": "intel-core-i7-14700f",
+  "name": "Intel Core i7-14700F",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 20,
+  "threads": 28,
+  "baseClock": 2.1,
+  "boostClock": 5.4,
+  "cacheL3": 33,
+  "tdp": 65,
+  "processNode": 10,
+  "releaseYear": 2024,
+  "releaseDate": "2024-10-15",
+  "launchPrice": 379,
+  "price": 320,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 541,
+   "multi": 4991,
+   "productivity": 5187,
+   "gaming": 598
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Efficient — runs cool on stock cooling"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-01",
+    "p": 386
+   },
+   {
+    "m": "2024-03",
+    "p": 378
+   },
+   {
+    "m": "2024-03",
+    "p": 366
+   },
+   {
+    "m": "2025-07",
+    "p": 352
+   },
+   {
+    "m": "2025-01",
+    "p": 347
+   },
+   {
+    "m": "2025-09",
+    "p": 344
+   },
+   {
+    "m": "2025-11",
+    "p": 349
+   },
+   {
+    "m": "2025-11",
+    "p": 330
+   },
+   {
+    "m": "2026-03",
+    "p": 328
+   },
+   {
+    "m": "2026-08",
+    "p": 318
+   },
+   {
+    "m": "2026-01",
+    "p": 320
+   }
+  ]
+ },
+ {
+  "id": "cpu-6",
+  "slug": "intel-core-i5-14600k",
+  "name": "Intel Core i5-14600K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 14,
+  "threads": 20,
+  "baseClock": 3.5,
+  "boostClock": 5.3,
+  "cacheL3": 24,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-09-15",
+  "launchPrice": 319,
+  "price": 265,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 531,
+   "multi": 3666,
+   "productivity": 3957,
+   "gaming": 579
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-04",
+    "p": 312
+   },
+   {
+    "m": "2023-09",
+    "p": 304
+   },
+   {
+    "m": "2024-12",
+    "p": 292
+   },
+   {
+    "m": "2024-11",
+    "p": 288
+   },
+   {
+    "m": "2024-11",
+    "p": 287
+   },
+   {
+    "m": "2024-09",
+    "p": 296
+   },
+   {
+    "m": "2025-11",
+    "p": 291
+   },
+   {
+    "m": "2025-11",
+    "p": 281
+   },
+   {
+    "m": "2025-05",
+    "p": 274
+   },
+   {
+    "m": "2026-07",
+    "p": 275
+   },
+   {
+    "m": "2026-08",
+    "p": 265
+   }
+  ]
+ },
+ {
+  "id": "cpu-7",
+  "slug": "intel-core-i5-14500",
+  "name": "Intel Core i5-14500",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 14,
+  "threads": 20,
+  "baseClock": 2.5,
+  "boostClock": 5,
+  "cacheL3": 24,
+  "tdp": 65,
+  "processNode": 10,
+  "releaseYear": 2024,
+  "releaseDate": "2024-08-15",
+  "launchPrice": 291,
+  "price": 235,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 501,
+   "multi": 3459,
+   "productivity": 3733,
+   "gaming": 548
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-01",
+    "p": 289
+   },
+   {
+    "m": "2024-01",
+    "p": 279
+   },
+   {
+    "m": "2024-11",
+    "p": 266
+   },
+   {
+    "m": "2025-07",
+    "p": 265
+   },
+   {
+    "m": "2025-04",
+    "p": 268
+   },
+   {
+    "m": "2025-02",
+    "p": 252
+   },
+   {
+    "m": "2025-09",
+    "p": 262
+   },
+   {
+    "m": "2025-07",
+    "p": 255
+   },
+   {
+    "m": "2026-10",
+    "p": 240
+   },
+   {
+    "m": "2026-11",
+    "p": 231
+   },
+   {
+    "m": "2026-01",
+    "p": 235
+   }
+  ]
+ },
+ {
+  "id": "cpu-8",
+  "slug": "intel-core-i5-14400f",
+  "name": "Intel Core i5-14400F",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 10,
+  "threads": 16,
+  "baseClock": 2.5,
+  "boostClock": 4.7,
+  "cacheL3": 20,
+  "tdp": 65,
+  "processNode": 10,
+  "releaseYear": 2024,
+  "releaseDate": "2024-07-15",
+  "launchPrice": 221,
+  "price": 178,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 471,
+   "multi": 2645,
+   "productivity": 2952,
+   "gaming": 513
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Efficient — runs cool on stock cooling"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-01",
+    "p": 212
+   },
+   {
+    "m": "2024-08",
+    "p": 216
+   },
+   {
+    "m": "2024-02",
+    "p": 217
+   },
+   {
+    "m": "2025-10",
+    "p": 202
+   },
+   {
+    "m": "2025-08",
+    "p": 208
+   },
+   {
+    "m": "2025-12",
+    "p": 200
+   },
+   {
+    "m": "2025-11",
+    "p": 198
+   },
+   {
+    "m": "2025-05",
+    "p": 191
+   },
+   {
+    "m": "2026-05",
+    "p": 184
+   },
+   {
+    "m": "2026-10",
+    "p": 185
+   },
+   {
+    "m": "2026-03",
+    "p": 178
+   }
+  ]
+ },
+ {
+  "id": "cpu-9",
+  "slug": "intel-core-i3-14100",
+  "name": "Intel Core i3-14100",
+  "brand": "Intel",
+  "family": "Core i3",
+  "category": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA 1700",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.5,
+  "boostClock": 4.7,
+  "cacheL3": 12,
+  "tdp": 60,
+  "processNode": 10,
+  "releaseYear": 2024,
+  "releaseDate": "2024-06-15",
+  "launchPrice": 149,
+  "price": 132,
+  "iGPU": "UHD 730",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 471,
+   "multi": 1215,
+   "productivity": 1636,
+   "gaming": 505
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-03",
+    "p": 143
+   },
+   {
+    "m": "2024-04",
+    "p": 142
+   },
+   {
+    "m": "2024-03",
+    "p": 145
+   },
+   {
+    "m": "2025-03",
+    "p": 143
+   },
+   {
+    "m": "2025-09",
+    "p": 138
+   },
+   {
+    "m": "2025-03",
+    "p": 141
+   },
+   {
+    "m": "2025-08",
+    "p": 142
+   },
+   {
+    "m": "2025-11",
+    "p": 134
+   },
+   {
+    "m": "2026-05",
+    "p": 130
+   },
+   {
+    "m": "2026-07",
+    "p": 138
+   },
+   {
+    "m": "2026-07",
+    "p": 132
+   }
+  ]
+ },
+ {
+  "id": "cpu-10",
+  "slug": "intel-core-i9-13900ks",
+  "name": "Intel Core i9-13900KS",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 24,
+  "threads": 32,
+  "baseClock": 3.5,
+  "boostClock": 6,
+  "cacheL3": 36,
+  "tdp": 150,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-05-15",
+  "launchPrice": 699,
+  "price": 560,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 559,
+   "multi": 5955,
+   "productivity": 6094,
+   "gaming": 619
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Premium pricing",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-12",
+    "p": 678
+   },
+   {
+    "m": "2023-03",
+    "p": 656
+   },
+   {
+    "m": "2024-09",
+    "p": 667
+   },
+   {
+    "m": "2024-12",
+    "p": 636
+   },
+   {
+    "m": "2024-01",
+    "p": 649
+   },
+   {
+    "m": "2024-08",
+    "p": 632
+   },
+   {
+    "m": "2025-04",
+    "p": 607
+   },
+   {
+    "m": "2025-04",
+    "p": 611
+   },
+   {
+    "m": "2025-01",
+    "p": 591
+   },
+   {
+    "m": "2026-01",
+    "p": 568
+   },
+   {
+    "m": "2026-10",
+    "p": 560
+   }
+  ]
+ },
+ {
+  "id": "cpu-11",
+  "slug": "intel-core-i9-13900k",
+  "name": "Intel Core i9-13900K",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 24,
+  "threads": 32,
+  "baseClock": 3,
+  "boostClock": 5.8,
+  "cacheL3": 36,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2022,
+  "releaseDate": "2022-04-15",
+  "launchPrice": 589,
+  "price": 470,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 540,
+   "multi": 5753,
+   "productivity": 5887,
+   "gaming": 599
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-01",
+    "p": 612
+   },
+   {
+    "m": "2022-04",
+    "p": 562
+   },
+   {
+    "m": "2023-05",
+    "p": 572
+   },
+   {
+    "m": "2023-03",
+    "p": 527
+   },
+   {
+    "m": "2024-03",
+    "p": 553
+   },
+   {
+    "m": "2024-09",
+    "p": 504
+   },
+   {
+    "m": "2024-06",
+    "p": 491
+   },
+   {
+    "m": "2025-08",
+    "p": 497
+   },
+   {
+    "m": "2025-10",
+    "p": 493
+   },
+   {
+    "m": "2026-09",
+    "p": 491
+   },
+   {
+    "m": "2026-01",
+    "p": 470
+   }
+  ]
+ },
+ {
+  "id": "cpu-12",
+  "slug": "intel-core-i9-13900",
+  "name": "Intel Core i9-13900",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 24,
+  "threads": 32,
+  "baseClock": 2,
+  "boostClock": 5.6,
+  "cacheL3": 36,
+  "tdp": 65,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-03-15",
+  "launchPrice": 549,
+  "price": 460,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 522,
+   "multi": 5561,
+   "productivity": 5690,
+   "gaming": 581
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Premium pricing",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-11",
+    "p": 561
+   },
+   {
+    "m": "2023-07",
+    "p": 525
+   },
+   {
+    "m": "2024-01",
+    "p": 522
+   },
+   {
+    "m": "2024-07",
+    "p": 502
+   },
+   {
+    "m": "2024-09",
+    "p": 514
+   },
+   {
+    "m": "2024-11",
+    "p": 516
+   },
+   {
+    "m": "2025-03",
+    "p": 494
+   },
+   {
+    "m": "2025-02",
+    "p": 491
+   },
+   {
+    "m": "2025-01",
+    "p": 482
+   },
+   {
+    "m": "2026-08",
+    "p": 465
+   },
+   {
+    "m": "2026-02",
+    "p": 460
+   }
+  ]
+ },
+ {
+  "id": "cpu-13",
+  "slug": "intel-core-i7-13700k",
+  "name": "Intel Core i7-13700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 16,
+  "threads": 24,
+  "baseClock": 3.4,
+  "boostClock": 5.4,
+  "cacheL3": 30,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2022,
+  "releaseDate": "2022-02-15",
+  "launchPrice": 409,
+  "price": 330,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 503,
+   "multi": 3928,
+   "productivity": 4167,
+   "gaming": 555
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-10",
+    "p": 422
+   },
+   {
+    "m": "2022-08",
+    "p": 381
+   },
+   {
+    "m": "2023-07",
+    "p": 392
+   },
+   {
+    "m": "2023-02",
+    "p": 387
+   },
+   {
+    "m": "2024-09",
+    "p": 369
+   },
+   {
+    "m": "2024-03",
+    "p": 355
+   },
+   {
+    "m": "2024-03",
+    "p": 343
+   },
+   {
+    "m": "2025-04",
+    "p": 350
+   },
+   {
+    "m": "2025-11",
+    "p": 348
+   },
+   {
+    "m": "2026-07",
+    "p": 344
+   },
+   {
+    "m": "2026-08",
+    "p": 330
+   }
+  ]
+ },
+ {
+  "id": "cpu-14",
+  "slug": "intel-core-i7-13700f",
+  "name": "Intel Core i7-13700F",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 16,
+  "threads": 24,
+  "baseClock": 2.1,
+  "boostClock": 5.2,
+  "cacheL3": 24,
+  "tdp": 65,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-01-15",
+  "launchPrice": 384,
+  "price": 290,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 485,
+   "multi": 3787,
+   "productivity": 4018,
+   "gaming": 531
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Efficient — runs cool on stock cooling"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-01",
+    "p": 394
+   },
+   {
+    "m": "2023-12",
+    "p": 360
+   },
+   {
+    "m": "2024-05",
+    "p": 357
+   },
+   {
+    "m": "2024-10",
+    "p": 357
+   },
+   {
+    "m": "2024-01",
+    "p": 342
+   },
+   {
+    "m": "2024-06",
+    "p": 341
+   },
+   {
+    "m": "2025-03",
+    "p": 314
+   },
+   {
+    "m": "2025-01",
+    "p": 308
+   },
+   {
+    "m": "2025-09",
+    "p": 317
+   },
+   {
+    "m": "2026-11",
+    "p": 287
+   },
+   {
+    "m": "2026-10",
+    "p": 290
+   }
+  ]
+ },
+ {
+  "id": "cpu-15",
+  "slug": "intel-core-i5-13600k",
+  "name": "Intel Core i5-13600K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 14,
+  "threads": 20,
+  "baseClock": 3.5,
+  "boostClock": 5.1,
+  "cacheL3": 24,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2022,
+  "releaseDate": "2022-11-15",
+  "launchPrice": 319,
+  "price": 255,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 475,
+   "multi": 3279,
+   "productivity": 3539,
+   "gaming": 520
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-04",
+    "p": 314
+   },
+   {
+    "m": "2022-05",
+    "p": 299
+   },
+   {
+    "m": "2023-04",
+    "p": 299
+   },
+   {
+    "m": "2023-05",
+    "p": 293
+   },
+   {
+    "m": "2024-03",
+    "p": 291
+   },
+   {
+    "m": "2024-11",
+    "p": 278
+   },
+   {
+    "m": "2024-03",
+    "p": 287
+   },
+   {
+    "m": "2025-11",
+    "p": 272
+   },
+   {
+    "m": "2025-08",
+    "p": 264
+   },
+   {
+    "m": "2026-03",
+    "p": 251
+   },
+   {
+    "m": "2026-10",
+    "p": 255
+   }
+  ]
+ },
+ {
+  "id": "cpu-16",
+  "slug": "intel-core-i5-13500",
+  "name": "Intel Core i5-13500",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 14,
+  "threads": 20,
+  "baseClock": 2.5,
+  "boostClock": 4.8,
+  "cacheL3": 20,
+  "tdp": 65,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-10-15",
+  "launchPrice": 257,
+  "price": 210,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 447,
+   "multi": 3086,
+   "productivity": 3331,
+   "gaming": 487
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-10",
+    "p": 259
+   },
+   {
+    "m": "2023-07",
+    "p": 243
+   },
+   {
+    "m": "2024-06",
+    "p": 254
+   },
+   {
+    "m": "2024-10",
+    "p": 235
+   },
+   {
+    "m": "2024-03",
+    "p": 231
+   },
+   {
+    "m": "2024-06",
+    "p": 225
+   },
+   {
+    "m": "2025-08",
+    "p": 233
+   },
+   {
+    "m": "2025-02",
+    "p": 227
+   },
+   {
+    "m": "2025-07",
+    "p": 219
+   },
+   {
+    "m": "2026-11",
+    "p": 209
+   },
+   {
+    "m": "2026-09",
+    "p": 210
+   }
+  ]
+ },
+ {
+  "id": "cpu-17",
+  "slug": "intel-core-i5-13400f",
+  "name": "Intel Core i5-13400F",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 10,
+  "threads": 16,
+  "baseClock": 2.5,
+  "boostClock": 4.6,
+  "cacheL3": 20,
+  "tdp": 65,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-09-15",
+  "launchPrice": 221,
+  "price": 172,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 429,
+   "multi": 2410,
+   "productivity": 2689,
+   "gaming": 468
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Efficient — runs cool on stock cooling"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-01",
+    "p": 213
+   },
+   {
+    "m": "2023-03",
+    "p": 217
+   },
+   {
+    "m": "2024-11",
+    "p": 209
+   },
+   {
+    "m": "2024-08",
+    "p": 200
+   },
+   {
+    "m": "2024-03",
+    "p": 190
+   },
+   {
+    "m": "2024-09",
+    "p": 190
+   },
+   {
+    "m": "2025-09",
+    "p": 188
+   },
+   {
+    "m": "2025-03",
+    "p": 188
+   },
+   {
+    "m": "2025-09",
+    "p": 173
+   },
+   {
+    "m": "2026-01",
+    "p": 177
+   },
+   {
+    "m": "2026-02",
+    "p": 172
+   }
+  ]
+ },
+ {
+  "id": "cpu-18",
+  "slug": "intel-core-i3-13100",
+  "name": "Intel Core i3-13100",
+  "brand": "Intel",
+  "family": "Core i3",
+  "category": "desktop",
+  "architecture": "Alder Lake",
+  "socket": "LGA 1700",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.4,
+  "boostClock": 4.5,
+  "cacheL3": 12,
+  "tdp": 60,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-08-15",
+  "launchPrice": 143,
+  "price": 118,
+  "iGPU": "UHD 730",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 388,
+   "multi": 1001,
+   "productivity": 1348,
+   "gaming": 418
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-09",
+    "p": 139
+   },
+   {
+    "m": "2023-05",
+    "p": 137
+   },
+   {
+    "m": "2024-11",
+    "p": 134
+   },
+   {
+    "m": "2024-01",
+    "p": 136
+   },
+   {
+    "m": "2024-07",
+    "p": 127
+   },
+   {
+    "m": "2024-03",
+    "p": 132
+   },
+   {
+    "m": "2025-04",
+    "p": 124
+   },
+   {
+    "m": "2025-03",
+    "p": 128
+   },
+   {
+    "m": "2025-10",
+    "p": 122
+   },
+   {
+    "m": "2026-09",
+    "p": 124
+   },
+   {
+    "m": "2026-02",
+    "p": 118
+   }
+  ]
+ },
+ {
+  "id": "cpu-19",
+  "slug": "intel-core-i9-12900k",
+  "name": "Intel Core i9-12900K",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Alder Lake",
+  "socket": "LGA 1700",
+  "cores": 16,
+  "threads": 24,
+  "baseClock": 3.2,
+  "boostClock": 5.2,
+  "cacheL3": 30,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2021,
+  "releaseDate": "2021-07-15",
+  "launchPrice": 589,
+  "price": 380,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 448,
+   "multi": 3498,
+   "productivity": 3711,
+   "gaming": 497
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-02",
+    "p": 589
+   },
+   {
+    "m": "2021-04",
+    "p": 566
+   },
+   {
+    "m": "2022-12",
+    "p": 524
+   },
+   {
+    "m": "2022-06",
+    "p": 527
+   },
+   {
+    "m": "2023-04",
+    "p": 481
+   },
+   {
+    "m": "2023-04",
+    "p": 478
+   },
+   {
+    "m": "2024-01",
+    "p": 437
+   },
+   {
+    "m": "2024-12",
+    "p": 447
+   },
+   {
+    "m": "2025-12",
+    "p": 430
+   },
+   {
+    "m": "2026-07",
+    "p": 409
+   },
+   {
+    "m": "2026-09",
+    "p": 380
+   }
+  ]
+ },
+ {
+  "id": "cpu-20",
+  "slug": "intel-core-i7-12700k",
+  "name": "Intel Core i7-12700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Alder Lake",
+  "socket": "LGA 1700",
+  "cores": 12,
+  "threads": 20,
+  "baseClock": 3.6,
+  "boostClock": 5,
+  "cacheL3": 25,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2021,
+  "releaseDate": "2021-06-15",
+  "launchPrice": 409,
+  "price": 295,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 431,
+   "multi": 2818,
+   "productivity": 3067,
+   "gaming": 475
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-05",
+    "p": 418
+   },
+   {
+    "m": "2021-10",
+    "p": 395
+   },
+   {
+    "m": "2022-10",
+    "p": 391
+   },
+   {
+    "m": "2022-10",
+    "p": 358
+   },
+   {
+    "m": "2023-04",
+    "p": 361
+   },
+   {
+    "m": "2023-04",
+    "p": 335
+   },
+   {
+    "m": "2024-05",
+    "p": 346
+   },
+   {
+    "m": "2024-06",
+    "p": 329
+   },
+   {
+    "m": "2025-01",
+    "p": 318
+   },
+   {
+    "m": "2026-01",
+    "p": 295
+   },
+   {
+    "m": "2026-04",
+    "p": 295
+   }
+  ]
+ },
+ {
+  "id": "cpu-21",
+  "slug": "intel-core-i5-12600k",
+  "name": "Intel Core i5-12600K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Alder Lake",
+  "socket": "LGA 1700",
+  "cores": 10,
+  "threads": 16,
+  "baseClock": 3.7,
+  "boostClock": 4.9,
+  "cacheL3": 20,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2021,
+  "releaseDate": "2021-05-15",
+  "launchPrice": 289,
+  "price": 195,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 422,
+   "multi": 2370,
+   "productivity": 2645,
+   "gaming": 461
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-09",
+    "p": 290
+   },
+   {
+    "m": "2021-07",
+    "p": 280
+   },
+   {
+    "m": "2022-04",
+    "p": 267
+   },
+   {
+    "m": "2022-05",
+    "p": 256
+   },
+   {
+    "m": "2023-12",
+    "p": 235
+   },
+   {
+    "m": "2023-02",
+    "p": 240
+   },
+   {
+    "m": "2024-04",
+    "p": 235
+   },
+   {
+    "m": "2024-06",
+    "p": 211
+   },
+   {
+    "m": "2025-09",
+    "p": 203
+   },
+   {
+    "m": "2026-04",
+    "p": 210
+   },
+   {
+    "m": "2026-11",
+    "p": 195
+   }
+  ]
+ },
+ {
+  "id": "cpu-22",
+  "slug": "intel-core-i5-12400f",
+  "name": "Intel Core i5-12400F",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Alder Lake",
+  "socket": "LGA 1700",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 2.5,
+  "boostClock": 4.4,
+  "cacheL3": 18,
+  "tdp": 65,
+  "processNode": 10,
+  "releaseYear": 2022,
+  "releaseDate": "2022-04-15",
+  "launchPrice": 184,
+  "price": 118,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 379,
+   "multi": 1467,
+   "productivity": 1767,
+   "gaming": 414
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-04",
+    "p": 177
+   },
+   {
+    "m": "2022-06",
+    "p": 174
+   },
+   {
+    "m": "2023-08",
+    "p": 167
+   },
+   {
+    "m": "2023-10",
+    "p": 163
+   },
+   {
+    "m": "2024-10",
+    "p": 148
+   },
+   {
+    "m": "2024-04",
+    "p": 148
+   },
+   {
+    "m": "2024-03",
+    "p": 136
+   },
+   {
+    "m": "2025-02",
+    "p": 130
+   },
+   {
+    "m": "2025-12",
+    "p": 130
+   },
+   {
+    "m": "2026-12",
+    "p": 124
+   },
+   {
+    "m": "2026-04",
+    "p": 118
+   }
+  ]
+ },
+ {
+  "id": "cpu-23",
+  "slug": "intel-core-i3-12100f",
+  "name": "Intel Core i3-12100F",
+  "brand": "Intel",
+  "family": "Core i3",
+  "category": "desktop",
+  "architecture": "Alder Lake",
+  "socket": "LGA 1700",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.3,
+  "boostClock": 4.3,
+  "cacheL3": 12,
+  "tdp": 58,
+  "processNode": 10,
+  "releaseYear": 2022,
+  "releaseDate": "2022-03-15",
+  "launchPrice": 118,
+  "price": 82,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 371,
+   "multi": 957,
+   "productivity": 1289,
+   "gaming": 400
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "Requires discrete GPU",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-12",
+    "p": 117
+   },
+   {
+    "m": "2022-11",
+    "p": 110
+   },
+   {
+    "m": "2023-10",
+    "p": 109
+   },
+   {
+    "m": "2023-03",
+    "p": 103
+   },
+   {
+    "m": "2024-02",
+    "p": 99
+   },
+   {
+    "m": "2024-06",
+    "p": 96
+   },
+   {
+    "m": "2024-11",
+    "p": 98
+   },
+   {
+    "m": "2025-06",
+    "p": 94
+   },
+   {
+    "m": "2025-09",
+    "p": 87
+   },
+   {
+    "m": "2026-08",
+    "p": 86
+   },
+   {
+    "m": "2026-12",
+    "p": 82
+   }
+  ]
+ },
+ {
+  "id": "cpu-24",
+  "slug": "intel-core-i9-11900k",
+  "name": "Intel Core i9-11900K",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Rocket Lake",
+  "socket": "LGA 1200",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.5,
+  "boostClock": 5.3,
+  "cacheL3": 16,
+  "tdp": 125,
+  "processNode": 14,
+  "releaseYear": 2021,
+  "releaseDate": "2021-02-15",
+  "launchPrice": 539,
+  "price": 320,
+  "iGPU": "UHD 750",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 407,
+   "multi": 2100,
+   "productivity": 2380,
+   "gaming": 442
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-05",
+    "p": 553
+   },
+   {
+    "m": "2021-02",
+    "p": 492
+   },
+   {
+    "m": "2022-06",
+    "p": 488
+   },
+   {
+    "m": "2022-04",
+    "p": 461
+   },
+   {
+    "m": "2023-10",
+    "p": 451
+   },
+   {
+    "m": "2023-03",
+    "p": 419
+   },
+   {
+    "m": "2024-12",
+    "p": 395
+   },
+   {
+    "m": "2024-02",
+    "p": 372
+   },
+   {
+    "m": "2025-04",
+    "p": 344
+   },
+   {
+    "m": "2026-10",
+    "p": 337
+   },
+   {
+    "m": "2026-08",
+    "p": 320
+   }
+  ]
+ },
+ {
+  "id": "cpu-25",
+  "slug": "intel-core-i7-11700k",
+  "name": "Intel Core i7-11700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Rocket Lake",
+  "socket": "LGA 1200",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.6,
+  "boostClock": 5,
+  "cacheL3": 16,
+  "tdp": 125,
+  "processNode": 14,
+  "releaseYear": 2021,
+  "releaseDate": "2021-01-15",
+  "launchPrice": 459,
+  "price": 260,
+  "iGPU": "UHD 750",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 384,
+   "multi": 1981,
+   "productivity": 2245,
+   "gaming": 418
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-11",
+    "p": 467
+   },
+   {
+    "m": "2021-10",
+    "p": 432
+   },
+   {
+    "m": "2022-01",
+    "p": 415
+   },
+   {
+    "m": "2022-06",
+    "p": 389
+   },
+   {
+    "m": "2023-04",
+    "p": 374
+   },
+   {
+    "m": "2023-11",
+    "p": 350
+   },
+   {
+    "m": "2024-05",
+    "p": 322
+   },
+   {
+    "m": "2024-06",
+    "p": 308
+   },
+   {
+    "m": "2025-11",
+    "p": 299
+   },
+   {
+    "m": "2026-11",
+    "p": 283
+   },
+   {
+    "m": "2026-02",
+    "p": 260
+   }
+  ]
+ },
+ {
+  "id": "cpu-26",
+  "slug": "intel-core-i5-11600k",
+  "name": "Intel Core i5-11600K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Rocket Lake",
+  "socket": "LGA 1200",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.9,
+  "boostClock": 4.9,
+  "cacheL3": 12,
+  "tdp": 125,
+  "processNode": 14,
+  "releaseYear": 2021,
+  "releaseDate": "2021-11-15",
+  "launchPrice": 262,
+  "price": 180,
+  "iGPU": "UHD 750",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 377,
+   "multi": 1459,
+   "productivity": 1757,
+   "gaming": 407
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-06",
+    "p": 254
+   },
+   {
+    "m": "2021-12",
+    "p": 257
+   },
+   {
+    "m": "2022-03",
+    "p": 233
+   },
+   {
+    "m": "2022-11",
+    "p": 239
+   },
+   {
+    "m": "2023-01",
+    "p": 230
+   },
+   {
+    "m": "2023-06",
+    "p": 213
+   },
+   {
+    "m": "2024-07",
+    "p": 213
+   },
+   {
+    "m": "2024-03",
+    "p": 198
+   },
+   {
+    "m": "2025-04",
+    "p": 194
+   },
+   {
+    "m": "2026-03",
+    "p": 189
+   },
+   {
+    "m": "2026-02",
+    "p": 180
+   }
+  ]
+ },
+ {
+  "id": "cpu-27",
+  "slug": "intel-core-i9-10900k",
+  "name": "Intel Core i9-10900K",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Comet Lake",
+  "socket": "LGA 1200",
+  "cores": 10,
+  "threads": 20,
+  "baseClock": 3.7,
+  "boostClock": 5.3,
+  "cacheL3": 20,
+  "tdp": 125,
+  "processNode": 14,
+  "releaseYear": 2020,
+  "releaseDate": "2020-10-15",
+  "launchPrice": 488,
+  "price": 300,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 370,
+   "multi": 2243,
+   "productivity": 2471,
+   "gaming": 407
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-02",
+    "p": 494
+   },
+   {
+    "m": "2021-06",
+    "p": 470
+   },
+   {
+    "m": "2021-10",
+    "p": 422
+   },
+   {
+    "m": "2022-02",
+    "p": 416
+   },
+   {
+    "m": "2022-12",
+    "p": 404
+   },
+   {
+    "m": "2023-06",
+    "p": 387
+   },
+   {
+    "m": "2024-11",
+    "p": 370
+   },
+   {
+    "m": "2024-07",
+    "p": 351
+   },
+   {
+    "m": "2025-03",
+    "p": 322
+   },
+   {
+    "m": "2025-04",
+    "p": 310
+   },
+   {
+    "m": "2026-04",
+    "p": 300
+   }
+  ]
+ },
+ {
+  "id": "cpu-28",
+  "slug": "intel-core-i7-10700k",
+  "name": "Intel Core i7-10700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Comet Lake",
+  "socket": "LGA 1200",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.8,
+  "boostClock": 5.1,
+  "cacheL3": 16,
+  "tdp": 125,
+  "processNode": 14,
+  "releaseYear": 2020,
+  "releaseDate": "2020-09-15",
+  "launchPrice": 374,
+  "price": 230,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 356,
+   "multi": 1837,
+   "productivity": 2082,
+   "gaming": 388
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-11",
+    "p": 380
+   },
+   {
+    "m": "2021-11",
+    "p": 345
+   },
+   {
+    "m": "2021-08",
+    "p": 324
+   },
+   {
+    "m": "2022-01",
+    "p": 315
+   },
+   {
+    "m": "2022-03",
+    "p": 304
+   },
+   {
+    "m": "2023-08",
+    "p": 284
+   },
+   {
+    "m": "2024-04",
+    "p": 288
+   },
+   {
+    "m": "2024-03",
+    "p": 266
+   },
+   {
+    "m": "2025-10",
+    "p": 248
+   },
+   {
+    "m": "2025-02",
+    "p": 237
+   },
+   {
+    "m": "2026-10",
+    "p": 230
+   }
+  ]
+ },
+ {
+  "id": "cpu-29",
+  "slug": "intel-core-i5-10400f",
+  "name": "Intel Core i5-10400F",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Comet Lake",
+  "socket": "LGA 1200",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 2.9,
+  "boostClock": 4.3,
+  "cacheL3": 12,
+  "tdp": 65,
+  "processNode": 14,
+  "releaseYear": 2020,
+  "releaseDate": "2020-08-15",
+  "launchPrice": 157,
+  "price": 105,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 301,
+   "multi": 1165,
+   "productivity": 1403,
+   "gaming": 327
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-01",
+    "p": 160
+   },
+   {
+    "m": "2021-02",
+    "p": 150
+   },
+   {
+    "m": "2021-08",
+    "p": 142
+   },
+   {
+    "m": "2022-06",
+    "p": 139
+   },
+   {
+    "m": "2022-10",
+    "p": 135
+   },
+   {
+    "m": "2023-05",
+    "p": 125
+   },
+   {
+    "m": "2024-10",
+    "p": 124
+   },
+   {
+    "m": "2024-06",
+    "p": 121
+   },
+   {
+    "m": "2025-04",
+    "p": 116
+   },
+   {
+    "m": "2025-02",
+    "p": 108
+   },
+   {
+    "m": "2026-11",
+    "p": 105
+   }
+  ]
+ },
+ {
+  "id": "cpu-30",
+  "slug": "intel-core-i9-9900k",
+  "name": "Intel Core i9-9900K",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "desktop",
+  "architecture": "Coffee Lake",
+  "socket": "LGA 1151",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.6,
+  "boostClock": 5,
+  "cacheL3": 16,
+  "tdp": 95,
+  "processNode": 14,
+  "releaseYear": 2018,
+  "releaseDate": "2018-07-15",
+  "launchPrice": 499,
+  "price": 280,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 314,
+   "multi": 1620,
+   "productivity": 1836,
+   "gaming": 344
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2018-10",
+    "p": 486
+   },
+   {
+    "m": "2019-08",
+    "p": 458
+   },
+   {
+    "m": "2020-11",
+    "p": 441
+   },
+   {
+    "m": "2020-04",
+    "p": 429
+   },
+   {
+    "m": "2021-04",
+    "p": 390
+   },
+   {
+    "m": "2022-05",
+    "p": 385
+   },
+   {
+    "m": "2023-02",
+    "p": 349
+   },
+   {
+    "m": "2024-01",
+    "p": 334
+   },
+   {
+    "m": "2024-10",
+    "p": 314
+   },
+   {
+    "m": "2025-08",
+    "p": 303
+   },
+   {
+    "m": "2026-07",
+    "p": 280
+   }
+  ]
+ },
+ {
+  "id": "cpu-31",
+  "slug": "intel-core-i7-9700k",
+  "name": "Intel Core i7-9700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Coffee Lake",
+  "socket": "LGA 1151",
+  "cores": 8,
+  "threads": 8,
+  "baseClock": 3.6,
+  "boostClock": 4.9,
+  "cacheL3": 12,
+  "tdp": 95,
+  "processNode": 14,
+  "releaseYear": 2018,
+  "releaseDate": "2018-06-15",
+  "launchPrice": 409,
+  "price": 210,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 308,
+   "multi": 1272,
+   "productivity": 1509,
+   "gaming": 334
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No SMT — limited multitasking",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2018-08",
+    "p": 396
+   },
+   {
+    "m": "2019-10",
+    "p": 384
+   },
+   {
+    "m": "2020-03",
+    "p": 367
+   },
+   {
+    "m": "2020-04",
+    "p": 327
+   },
+   {
+    "m": "2021-03",
+    "p": 326
+   },
+   {
+    "m": "2022-11",
+    "p": 290
+   },
+   {
+    "m": "2023-08",
+    "p": 281
+   },
+   {
+    "m": "2024-09",
+    "p": 252
+   },
+   {
+    "m": "2024-07",
+    "p": 237
+   },
+   {
+    "m": "2025-04",
+    "p": 221
+   },
+   {
+    "m": "2026-06",
+    "p": 210
+   }
+  ]
+ },
+ {
+  "id": "cpu-32",
+  "slug": "intel-core-i5-9600k",
+  "name": "Intel Core i5-9600K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Coffee Lake",
+  "socket": "LGA 1151",
+  "cores": 6,
+  "threads": 6,
+  "baseClock": 3.7,
+  "boostClock": 4.6,
+  "cacheL3": 9,
+  "tdp": 95,
+  "processNode": 14,
+  "releaseYear": 2018,
+  "releaseDate": "2018-05-15",
+  "launchPrice": 262,
+  "price": 155,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 289,
+   "multi": 895,
+   "productivity": 1141,
+   "gaming": 312
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No SMT — limited multitasking",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2018-09",
+    "p": 252
+   },
+   {
+    "m": "2019-10",
+    "p": 235
+   },
+   {
+    "m": "2020-03",
+    "p": 238
+   },
+   {
+    "m": "2020-09",
+    "p": 228
+   },
+   {
+    "m": "2021-11",
+    "p": 212
+   },
+   {
+    "m": "2022-10",
+    "p": 206
+   },
+   {
+    "m": "2023-08",
+    "p": 189
+   },
+   {
+    "m": "2024-08",
+    "p": 186
+   },
+   {
+    "m": "2024-10",
+    "p": 174
+   },
+   {
+    "m": "2025-07",
+    "p": 165
+   },
+   {
+    "m": "2026-08",
+    "p": 155
+   }
+  ]
+ },
+ {
+  "id": "cpu-33",
+  "slug": "intel-core-i7-8700k",
+  "name": "Intel Core i7-8700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Coffee Lake",
+  "socket": "LGA 1151",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.7,
+  "boostClock": 4.7,
+  "cacheL3": 12,
+  "tdp": 95,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-04-15",
+  "launchPrice": 359,
+  "price": 190,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 296,
+   "multi": 1145,
+   "productivity": 1379,
+   "gaming": 322
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-05",
+    "p": 350
+   },
+   {
+    "m": "2018-06",
+    "p": 326
+   },
+   {
+    "m": "2019-09",
+    "p": 303
+   },
+   {
+    "m": "2020-11",
+    "p": 299
+   },
+   {
+    "m": "2021-10",
+    "p": 273
+   },
+   {
+    "m": "2021-07",
+    "p": 270
+   },
+   {
+    "m": "2022-01",
+    "p": 238
+   },
+   {
+    "m": "2023-06",
+    "p": 237
+   },
+   {
+    "m": "2024-11",
+    "p": 216
+   },
+   {
+    "m": "2025-02",
+    "p": 200
+   },
+   {
+    "m": "2026-11",
+    "p": 190
+   }
+  ]
+ },
+ {
+  "id": "cpu-34",
+  "slug": "intel-core-i5-8400",
+  "name": "Intel Core i5-8400",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Coffee Lake",
+  "socket": "LGA 1151",
+  "cores": 6,
+  "threads": 6,
+  "baseClock": 2.8,
+  "boostClock": 4,
+  "cacheL3": 9,
+  "tdp": 65,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-03-15",
+  "launchPrice": 182,
+  "price": 110,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 252,
+   "multi": 780,
+   "productivity": 995,
+   "gaming": 273
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "No SMT — limited multitasking",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-12",
+    "p": 180
+   },
+   {
+    "m": "2018-07",
+    "p": 170
+   },
+   {
+    "m": "2019-08",
+    "p": 167
+   },
+   {
+    "m": "2020-06",
+    "p": 159
+   },
+   {
+    "m": "2021-01",
+    "p": 150
+   },
+   {
+    "m": "2021-05",
+    "p": 141
+   },
+   {
+    "m": "2022-03",
+    "p": 133
+   },
+   {
+    "m": "2023-12",
+    "p": 130
+   },
+   {
+    "m": "2024-09",
+    "p": 119
+   },
+   {
+    "m": "2025-12",
+    "p": 116
+   },
+   {
+    "m": "2026-11",
+    "p": 110
+   }
+  ]
+ },
+ {
+  "id": "cpu-35",
+  "slug": "intel-core-i7-7700k",
+  "name": "Intel Core i7-7700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Kaby Lake",
+  "socket": "LGA 1151",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 4.2,
+  "boostClock": 4.5,
+  "cacheL3": 8,
+  "tdp": 91,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-02-15",
+  "launchPrice": 339,
+  "price": 170,
+  "iGPU": "HD 630",
+  "memoryTypes": [
+   "DDR4",
+   "DDR3L"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 252,
+   "multi": 650,
+   "productivity": 875,
+   "gaming": 272
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-07",
+    "p": 346
+   },
+   {
+    "m": "2018-03",
+    "p": 306
+   },
+   {
+    "m": "2019-01",
+    "p": 291
+   },
+   {
+    "m": "2020-10",
+    "p": 271
+   },
+   {
+    "m": "2021-10",
+    "p": 254
+   },
+   {
+    "m": "2021-12",
+    "p": 249
+   },
+   {
+    "m": "2022-04",
+    "p": 230
+   },
+   {
+    "m": "2023-02",
+    "p": 208
+   },
+   {
+    "m": "2024-08",
+    "p": 193
+   },
+   {
+    "m": "2025-07",
+    "p": 182
+   },
+   {
+    "m": "2026-01",
+    "p": 170
+   }
+  ]
+ },
+ {
+  "id": "cpu-36",
+  "slug": "intel-core-i5-7600k",
+  "name": "Intel Core i5-7600K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Kaby Lake",
+  "socket": "LGA 1151",
+  "cores": 4,
+  "threads": 4,
+  "baseClock": 3.8,
+  "boostClock": 4.2,
+  "cacheL3": 6,
+  "tdp": 91,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-01-15",
+  "launchPrice": 242,
+  "price": 130,
+  "iGPU": "HD 630",
+  "memoryTypes": [
+   "DDR4",
+   "DDR3L"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 235,
+   "multi": 485,
+   "productivity": 705,
+   "gaming": 252
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No SMT — limited multitasking",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-11",
+    "p": 232
+   },
+   {
+    "m": "2018-06",
+    "p": 233
+   },
+   {
+    "m": "2019-06",
+    "p": 212
+   },
+   {
+    "m": "2020-11",
+    "p": 201
+   },
+   {
+    "m": "2021-03",
+    "p": 185
+   },
+   {
+    "m": "2021-09",
+    "p": 183
+   },
+   {
+    "m": "2022-02",
+    "p": 173
+   },
+   {
+    "m": "2023-11",
+    "p": 152
+   },
+   {
+    "m": "2024-05",
+    "p": 147
+   },
+   {
+    "m": "2025-08",
+    "p": 144
+   },
+   {
+    "m": "2026-09",
+    "p": 130
+   }
+  ]
+ },
+ {
+  "id": "cpu-37",
+  "slug": "intel-core-i7-6700k",
+  "name": "Intel Core i7-6700K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Skylake",
+  "socket": "LGA 1151",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 4,
+  "boostClock": 4.2,
+  "cacheL3": 8,
+  "tdp": 91,
+  "processNode": 14,
+  "releaseYear": 2015,
+  "releaseDate": "2015-11-15",
+  "launchPrice": 350,
+  "price": 150,
+  "iGPU": "HD 530",
+  "memoryTypes": [
+   "DDR4",
+   "DDR3L"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 220,
+   "multi": 568,
+   "productivity": 765,
+   "gaming": 238
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2015-05",
+    "p": 347
+   },
+   {
+    "m": "2016-04",
+    "p": 313
+   },
+   {
+    "m": "2017-07",
+    "p": 284
+   },
+   {
+    "m": "2018-07",
+    "p": 270
+   },
+   {
+    "m": "2019-06",
+    "p": 262
+   },
+   {
+    "m": "2020-04",
+    "p": 235
+   },
+   {
+    "m": "2022-10",
+    "p": 216
+   },
+   {
+    "m": "2023-08",
+    "p": 198
+   },
+   {
+    "m": "2024-09",
+    "p": 178
+   },
+   {
+    "m": "2025-10",
+    "p": 161
+   },
+   {
+    "m": "2026-03",
+    "p": 150
+   }
+  ]
+ },
+ {
+  "id": "cpu-38",
+  "slug": "intel-core-i5-6600k",
+  "name": "Intel Core i5-6600K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Skylake",
+  "socket": "LGA 1151",
+  "cores": 4,
+  "threads": 4,
+  "baseClock": 3.5,
+  "boostClock": 3.9,
+  "cacheL3": 6,
+  "tdp": 91,
+  "processNode": 14,
+  "releaseYear": 2015,
+  "releaseDate": "2015-10-15",
+  "launchPrice": 243,
+  "price": 115,
+  "iGPU": "HD 530",
+  "memoryTypes": [
+   "DDR4",
+   "DDR3L"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 204,
+   "multi": 421,
+   "productivity": 612,
+   "gaming": 220
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2015-05",
+    "p": 238
+   },
+   {
+    "m": "2016-03",
+    "p": 220
+   },
+   {
+    "m": "2017-10",
+    "p": 202
+   },
+   {
+    "m": "2018-09",
+    "p": 198
+   },
+   {
+    "m": "2019-11",
+    "p": 177
+   },
+   {
+    "m": "2020-11",
+    "p": 166
+   },
+   {
+    "m": "2022-10",
+    "p": 159
+   },
+   {
+    "m": "2023-10",
+    "p": 144
+   },
+   {
+    "m": "2024-03",
+    "p": 141
+   },
+   {
+    "m": "2025-02",
+    "p": 121
+   },
+   {
+    "m": "2026-10",
+    "p": 115
+   }
+  ]
+ },
+ {
+  "id": "cpu-39",
+  "slug": "intel-core-i7-4790k",
+  "name": "Intel Core i7-4790K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Haswell",
+  "socket": "LGA 1150",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 4,
+  "boostClock": 4.4,
+  "cacheL3": 8,
+  "tdp": 88,
+  "processNode": 22,
+  "releaseYear": 2014,
+  "releaseDate": "2014-09-15",
+  "launchPrice": 339,
+  "price": 130,
+  "iGPU": "HD 4600",
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 184,
+   "multi": 475,
+   "productivity": 639,
+   "gaming": 200
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2014-04",
+    "p": 348
+   },
+   {
+    "m": "2015-04",
+    "p": 295
+   },
+   {
+    "m": "2016-11",
+    "p": 279
+   },
+   {
+    "m": "2018-11",
+    "p": 268
+   },
+   {
+    "m": "2019-06",
+    "p": 232
+   },
+   {
+    "m": "2020-08",
+    "p": 226
+   },
+   {
+    "m": "2021-11",
+    "p": 203
+   },
+   {
+    "m": "2022-03",
+    "p": 181
+   },
+   {
+    "m": "2024-11",
+    "p": 163
+   },
+   {
+    "m": "2025-08",
+    "p": 142
+   },
+   {
+    "m": "2026-07",
+    "p": 130
+   }
+  ]
+ },
+ {
+  "id": "cpu-40",
+  "slug": "intel-core-i5-4670k",
+  "name": "Intel Core i5-4670K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Haswell",
+  "socket": "LGA 1150",
+  "cores": 4,
+  "threads": 4,
+  "baseClock": 3.4,
+  "boostClock": 3.9,
+  "cacheL3": 6,
+  "tdp": 84,
+  "processNode": 22,
+  "releaseYear": 2013,
+  "releaseDate": "2013-08-15",
+  "launchPrice": 242,
+  "price": 95,
+  "iGPU": "HD 4600",
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 164,
+   "multi": 339,
+   "productivity": 492,
+   "gaming": 178
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No SMT — limited multitasking",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2013-10",
+    "p": 242
+   },
+   {
+    "m": "2014-06",
+    "p": 217
+   },
+   {
+    "m": "2016-11",
+    "p": 195
+   },
+   {
+    "m": "2017-04",
+    "p": 179
+   },
+   {
+    "m": "2018-03",
+    "p": 170
+   },
+   {
+    "m": "2019-04",
+    "p": 159
+   },
+   {
+    "m": "2021-11",
+    "p": 139
+   },
+   {
+    "m": "2022-08",
+    "p": 128
+   },
+   {
+    "m": "2023-12",
+    "p": 120
+   },
+   {
+    "m": "2025-03",
+    "p": 109
+   },
+   {
+    "m": "2026-04",
+    "p": 95
+   }
+  ]
+ },
+ {
+  "id": "cpu-41",
+  "slug": "intel-core-i7-3770k",
+  "name": "Intel Core i7-3770K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "desktop",
+  "architecture": "Ivy Bridge",
+  "socket": "LGA 1155",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.5,
+  "boostClock": 3.9,
+  "cacheL3": 8,
+  "tdp": 77,
+  "processNode": 22,
+  "releaseYear": 2012,
+  "releaseDate": "2012-07-15",
+  "launchPrice": 342,
+  "price": 90,
+  "iGPU": "HD 4000",
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 145,
+   "multi": 374,
+   "productivity": 504,
+   "gaming": 159
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2012-09",
+    "p": 349
+   },
+   {
+    "m": "2013-03",
+    "p": 304
+   },
+   {
+    "m": "2015-03",
+    "p": 276
+   },
+   {
+    "m": "2016-06",
+    "p": 239
+   },
+   {
+    "m": "2018-05",
+    "p": 227
+   },
+   {
+    "m": "2019-05",
+    "p": 198
+   },
+   {
+    "m": "2020-10",
+    "p": 169
+   },
+   {
+    "m": "2022-07",
+    "p": 149
+   },
+   {
+    "m": "2023-10",
+    "p": 129
+   },
+   {
+    "m": "2025-11",
+    "p": 114
+   },
+   {
+    "m": "2026-04",
+    "p": 90
+   }
+  ]
+ },
+ {
+  "id": "cpu-42",
+  "slug": "intel-core-i5-2500k",
+  "name": "Intel Core i5-2500K",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "desktop",
+  "architecture": "Sandy Bridge",
+  "socket": "LGA 1155",
+  "cores": 4,
+  "threads": 4,
+  "baseClock": 3.3,
+  "boostClock": 3.7,
+  "cacheL3": 6,
+  "tdp": 95,
+  "processNode": 32,
+  "releaseYear": 2011,
+  "releaseDate": "2011-06-15",
+  "launchPrice": 225,
+  "price": 75,
+  "iGPU": "HD 3000",
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 121,
+   "multi": 250,
+   "productivity": 363,
+   "gaming": 132
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No SMT — limited multitasking",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2011-12",
+    "p": 226
+   },
+   {
+    "m": "2012-06",
+    "p": 205
+   },
+   {
+    "m": "2014-04",
+    "p": 187
+   },
+   {
+    "m": "2015-02",
+    "p": 167
+   },
+   {
+    "m": "2017-05",
+    "p": 148
+   },
+   {
+    "m": "2018-11",
+    "p": 139
+   },
+   {
+    "m": "2020-03",
+    "p": 121
+   },
+   {
+    "m": "2021-02",
+    "p": 115
+   },
+   {
+    "m": "2023-04",
+    "p": 98
+   },
+   {
+    "m": "2025-05",
+    "p": 84
+   },
+   {
+    "m": "2026-06",
+    "p": 75
+   }
+  ]
+ },
+ {
+  "id": "cpu-43",
+  "slug": "intel-pentium-g4560",
+  "name": "Intel Pentium G4560",
+  "brand": "Intel",
+  "family": "Pentium",
+  "category": "desktop",
+  "architecture": "Kaby Lake",
+  "socket": "LGA 1151",
+  "cores": 2,
+  "threads": 4,
+  "baseClock": 3.5,
+  "boostClock": 3.5,
+  "cacheL3": 3,
+  "tdp": 54,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-05-15",
+  "launchPrice": 64,
+  "price": 45,
+  "iGPU": "HD 610",
+  "memoryTypes": [
+   "DDR4",
+   "DDR3L"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 196,
+   "multi": 253,
+   "productivity": 448,
+   "gaming": 209
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-06",
+    "p": 65
+   },
+   {
+    "m": "2018-11",
+    "p": 62
+   },
+   {
+    "m": "2019-03",
+    "p": 60
+   },
+   {
+    "m": "2020-03",
+    "p": 57
+   },
+   {
+    "m": "2021-05",
+    "p": 54
+   },
+   {
+    "m": "2021-11",
+    "p": 55
+   },
+   {
+    "m": "2022-04",
+    "p": 53
+   },
+   {
+    "m": "2023-02",
+    "p": 50
+   },
+   {
+    "m": "2024-12",
+    "p": 46
+   },
+   {
+    "m": "2025-01",
+    "p": 46
+   },
+   {
+    "m": "2026-09",
+    "p": 45
+   }
+  ]
+ },
+ {
+  "id": "cpu-44",
+  "slug": "intel-xeon-w9-3495x",
+  "name": "Intel Xeon w9-3495X",
+  "brand": "Intel",
+  "family": "Xeon W",
+  "category": "server",
+  "architecture": "Sapphire Rapids",
+  "socket": "LGA 4677",
+  "cores": 56,
+  "threads": 112,
+  "baseClock": 1.9,
+  "boostClock": 4.8,
+  "cacheL3": 105,
+  "tdp": 350,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-04-15",
+  "launchPrice": 5700,
+  "price": 4800,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 391,
+   "multi": 10490,
+   "productivity": 10081,
+   "gaming": 505
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-08",
+    "p": 5555
+   },
+   {
+    "m": "2023-01",
+    "p": 5708
+   },
+   {
+    "m": "2024-05",
+    "p": 5261
+   },
+   {
+    "m": "2024-01",
+    "p": 5317
+   },
+   {
+    "m": "2024-01",
+    "p": 5263
+   },
+   {
+    "m": "2024-10",
+    "p": 5116
+   },
+   {
+    "m": "2025-11",
+    "p": 4942
+   },
+   {
+    "m": "2025-10",
+    "p": 4873
+   },
+   {
+    "m": "2025-01",
+    "p": 4908
+   },
+   {
+    "m": "2026-11",
+    "p": 5031
+   },
+   {
+    "m": "2026-11",
+    "p": 4800
+   }
+  ]
+ },
+ {
+  "id": "cpu-45",
+  "slug": "intel-xeon-w7-3470x",
+  "name": "Intel Xeon w7-3470X",
+  "brand": "Intel",
+  "family": "Xeon W",
+  "category": "server",
+  "architecture": "Sapphire Rapids",
+  "socket": "LGA 4677",
+  "cores": 28,
+  "threads": 56,
+  "baseClock": 2.9,
+  "boostClock": 4.8,
+  "cacheL3": 105,
+  "tdp": 300,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-03-15",
+  "launchPrice": 2999,
+  "price": 2450,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 391,
+   "multi": 5547,
+   "productivity": 5533,
+   "gaming": 505
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-02",
+    "p": 2935
+   },
+   {
+    "m": "2023-11",
+    "p": 2896
+   },
+   {
+    "m": "2024-03",
+    "p": 2900
+   },
+   {
+    "m": "2024-02",
+    "p": 2823
+   },
+   {
+    "m": "2024-10",
+    "p": 2794
+   },
+   {
+    "m": "2024-01",
+    "p": 2583
+   },
+   {
+    "m": "2025-01",
+    "p": 2702
+   },
+   {
+    "m": "2025-09",
+    "p": 2499
+   },
+   {
+    "m": "2025-08",
+    "p": 2451
+   },
+   {
+    "m": "2026-12",
+    "p": 2477
+   },
+   {
+    "m": "2026-03",
+    "p": 2450
+   }
+  ]
+ },
+ {
+  "id": "cpu-46",
+  "slug": "intel-xeon-w5-2455x",
+  "name": "Intel Xeon w5-2455X",
+  "brand": "Intel",
+  "family": "Xeon W",
+  "category": "server",
+  "architecture": "Sapphire Rapids",
+  "socket": "LGA 4677",
+  "cores": 12,
+  "threads": 24,
+  "baseClock": 3.2,
+  "boostClock": 4.6,
+  "cacheL3": 30,
+  "tdp": 200,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-02-15",
+  "launchPrice": 1399,
+  "price": 1100,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 375,
+   "multi": 2612,
+   "productivity": 2816,
+   "gaming": 421
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-06",
+    "p": 1377
+   },
+   {
+    "m": "2023-01",
+    "p": 1386
+   },
+   {
+    "m": "2024-09",
+    "p": 1355
+   },
+   {
+    "m": "2024-09",
+    "p": 1264
+   },
+   {
+    "m": "2024-08",
+    "p": 1236
+   },
+   {
+    "m": "2024-05",
+    "p": 1180
+   },
+   {
+    "m": "2025-04",
+    "p": 1247
+   },
+   {
+    "m": "2025-02",
+    "p": 1166
+   },
+   {
+    "m": "2025-12",
+    "p": 1119
+   },
+   {
+    "m": "2026-04",
+    "p": 1098
+   },
+   {
+    "m": "2026-03",
+    "p": 1100
+   }
+  ]
+ },
+ {
+  "id": "cpu-47",
+  "slug": "intel-xeon-platinum-8490h",
+  "name": "Intel Xeon Platinum 8490H",
+  "brand": "Intel",
+  "family": "Xeon Scalable",
+  "category": "server",
+  "architecture": "Sapphire Rapids",
+  "socket": "LGA 4677",
+  "cores": 60,
+  "threads": 120,
+  "baseClock": 1.9,
+  "boostClock": 3.5,
+  "cacheL3": 112.5,
+  "tdp": 350,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-01-15",
+  "launchPrice": null,
+  "price": 11000,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 285,
+   "multi": 8161,
+   "productivity": 7822,
+   "gaming": 401
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming"
+  ],
+  "cons": [
+   "High power draw under load"
+  ]
+ },
+ {
+  "id": "cpu-48",
+  "slug": "intel-xeon-gold-6438y",
+  "name": "Intel Xeon Gold 6438Y",
+  "brand": "Intel",
+  "family": "Xeon Scalable",
+  "category": "server",
+  "architecture": "Sapphire Rapids",
+  "socket": "LGA 4677",
+  "cores": 32,
+  "threads": 64,
+  "baseClock": 2,
+  "boostClock": 4,
+  "cacheL3": 60,
+  "tdp": 270,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-11-15",
+  "launchPrice": null,
+  "price": 4900,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 326,
+   "multi": 5214,
+   "productivity": 5155,
+   "gaming": 396
+  },
+  "pros": [
+   "Monster multithreaded throughput"
+  ],
+  "cons": [
+   "High power draw under load"
+  ]
+ },
+ {
+  "id": "cpu-49",
+  "slug": "intel-xeon-silver-4410y",
+  "name": "Intel Xeon Silver 4410Y",
+  "brand": "Intel",
+  "family": "Xeon Scalable",
+  "category": "server",
+  "architecture": "Sapphire Rapids",
+  "socket": "LGA 4677",
+  "cores": 12,
+  "threads": 24,
+  "baseClock": 2,
+  "boostClock": 3,
+  "cacheL3": 30,
+  "tdp": 150,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-10-15",
+  "launchPrice": 1200,
+  "price": 950,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 245,
+   "multi": 1706,
+   "productivity": 1839,
+   "gaming": 284
+  },
+  "pros": [
+   "Solid price-to-performance"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-07",
+    "p": 1213
+   },
+   {
+    "m": "2023-05",
+    "p": 1206
+   },
+   {
+    "m": "2024-11",
+    "p": 1167
+   },
+   {
+    "m": "2024-06",
+    "p": 1140
+   },
+   {
+    "m": "2024-12",
+    "p": 1073
+   },
+   {
+    "m": "2024-09",
+    "p": 1018
+   },
+   {
+    "m": "2025-02",
+    "p": 1028
+   },
+   {
+    "m": "2025-04",
+    "p": 1001
+   },
+   {
+    "m": "2025-01",
+    "p": 1025
+   },
+   {
+    "m": "2026-10",
+    "p": 966
+   },
+   {
+    "m": "2026-06",
+    "p": 950
+   }
+  ]
+ },
+ {
+  "id": "cpu-50",
+  "slug": "intel-xeon-e-2488",
+  "name": "Intel Xeon E-2488",
+  "brand": "Intel",
+  "family": "Xeon E",
+  "category": "server",
+  "architecture": "Raptor Lake",
+  "socket": "LGA 1700",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.2,
+  "boostClock": 4.8,
+  "cacheL3": 24,
+  "tdp": 125,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-09-15",
+  "launchPrice": 610,
+  "price": 520,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 447,
+   "multi": 2306,
+   "productivity": 2613,
+   "gaming": 491
+  },
+  "pros": [
+   "Monster multithreaded throughput"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-06",
+    "p": 634
+   },
+   {
+    "m": "2023-07",
+    "p": 584
+   },
+   {
+    "m": "2024-01",
+    "p": 587
+   },
+   {
+    "m": "2024-09",
+    "p": 571
+   },
+   {
+    "m": "2024-02",
+    "p": 576
+   },
+   {
+    "m": "2024-03",
+    "p": 542
+   },
+   {
+    "m": "2025-11",
+    "p": 559
+   },
+   {
+    "m": "2025-01",
+    "p": 543
+   },
+   {
+    "m": "2025-07",
+    "p": 547
+   },
+   {
+    "m": "2026-06",
+    "p": 517
+   },
+   {
+    "m": "2026-10",
+    "p": 520
+   }
+  ]
+ },
+ {
+  "id": "cpu-51",
+  "slug": "intel-xeon-w-2295",
+  "name": "Intel Xeon w-2295",
+  "brand": "Intel",
+  "family": "Xeon W",
+  "category": "server",
+  "architecture": "Cascade Lake",
+  "socket": "LGA 2066",
+  "cores": 18,
+  "threads": 36,
+  "baseClock": 3,
+  "boostClock": 4.6,
+  "cacheL3": 24.75,
+  "tdp": 165,
+  "processNode": 14,
+  "releaseYear": 2019,
+  "releaseDate": "2019-08-15",
+  "launchPrice": 2553,
+  "price": 1600,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 268,
+   "multi": 2593,
+   "productivity": 2680,
+   "gaming": 304
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-06",
+    "p": 2620
+   },
+   {
+    "m": "2020-01",
+    "p": 2482
+   },
+   {
+    "m": "2020-05",
+    "p": 2272
+   },
+   {
+    "m": "2021-01",
+    "p": 2248
+   },
+   {
+    "m": "2022-08",
+    "p": 2099
+   },
+   {
+    "m": "2022-07",
+    "p": 1982
+   },
+   {
+    "m": "2023-09",
+    "p": 1895
+   },
+   {
+    "m": "2024-12",
+    "p": 1887
+   },
+   {
+    "m": "2025-09",
+    "p": 1715
+   },
+   {
+    "m": "2025-02",
+    "p": 1690
+   },
+   {
+    "m": "2026-11",
+    "p": 1600
+   }
+  ]
+ },
+ {
+  "id": "cpu-52",
+  "slug": "intel-xeon-gold-6248r",
+  "name": "Intel Xeon Gold 6248R",
+  "brand": "Intel",
+  "family": "Xeon Scalable",
+  "category": "server",
+  "architecture": "Cascade Lake",
+  "socket": "LGA 3647",
+  "cores": 24,
+  "threads": 48,
+  "baseClock": 3,
+  "boostClock": 4,
+  "cacheL3": 35.75,
+  "tdp": 205,
+  "processNode": 14,
+  "releaseYear": 2020,
+  "releaseDate": "2020-07-15",
+  "launchPrice": 5500,
+  "price": 3200,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 233,
+   "multi": 2885,
+   "productivity": 2911,
+   "gaming": 277
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-06",
+    "p": 5421
+   },
+   {
+    "m": "2021-06",
+    "p": 5338
+   },
+   {
+    "m": "2021-06",
+    "p": 4852
+   },
+   {
+    "m": "2022-05",
+    "p": 4505
+   },
+   {
+    "m": "2022-01",
+    "p": 4241
+   },
+   {
+    "m": "2023-09",
+    "p": 4160
+   },
+   {
+    "m": "2024-01",
+    "p": 3827
+   },
+   {
+    "m": "2024-06",
+    "p": 3870
+   },
+   {
+    "m": "2025-05",
+    "p": 3609
+   },
+   {
+    "m": "2025-06",
+    "p": 3425
+   },
+   {
+    "m": "2026-09",
+    "p": 3200
+   }
+  ]
+ },
+ {
+  "id": "cpu-53",
+  "slug": "intel-xeon-e-2288g",
+  "name": "Intel Xeon E-2288G",
+  "brand": "Intel",
+  "family": "Xeon E",
+  "category": "server",
+  "architecture": "Coffee Lake",
+  "socket": "LGA 1151",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.7,
+  "boostClock": 5,
+  "cacheL3": 16,
+  "tdp": 95,
+  "processNode": 14,
+  "releaseYear": 2019,
+  "releaseDate": "2019-06-15",
+  "launchPrice": 580,
+  "price": 420,
+  "iGPU": "P630",
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 314,
+   "multi": 1620,
+   "productivity": 1836,
+   "gaming": 344
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-07",
+    "p": 575
+   },
+   {
+    "m": "2020-07",
+    "p": 562
+   },
+   {
+    "m": "2020-04",
+    "p": 518
+   },
+   {
+    "m": "2021-02",
+    "p": 521
+   },
+   {
+    "m": "2022-11",
+    "p": 490
+   },
+   {
+    "m": "2022-02",
+    "p": 507
+   },
+   {
+    "m": "2023-06",
+    "p": 459
+   },
+   {
+    "m": "2024-01",
+    "p": 465
+   },
+   {
+    "m": "2025-12",
+    "p": 452
+   },
+   {
+    "m": "2025-11",
+    "p": 434
+   },
+   {
+    "m": "2026-09",
+    "p": 420
+   }
+  ]
+ },
+ {
+  "id": "cpu-54",
+  "slug": "intel-xeon-e3-1230-v3",
+  "name": "Intel Xeon E3-1230 v3",
+  "brand": "Intel",
+  "family": "Xeon E3",
+  "category": "server",
+  "architecture": "Haswell",
+  "socket": "LGA 1150",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.2,
+  "boostClock": 3.7,
+  "cacheL3": 8,
+  "tdp": 80,
+  "processNode": 22,
+  "releaseYear": 2013,
+  "releaseDate": "2013-05-15",
+  "launchPrice": 240,
+  "price": 70,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR3 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 155,
+   "multi": 400,
+   "productivity": 539,
+   "gaming": 170
+  },
+  "pros": [
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2013-08",
+    "p": 237
+   },
+   {
+    "m": "2014-06",
+    "p": 214
+   },
+   {
+    "m": "2016-07",
+    "p": 199
+   },
+   {
+    "m": "2017-07",
+    "p": 173
+   },
+   {
+    "m": "2018-03",
+    "p": 165
+   },
+   {
+    "m": "2019-12",
+    "p": 148
+   },
+   {
+    "m": "2021-06",
+    "p": 129
+   },
+   {
+    "m": "2022-09",
+    "p": 113
+   },
+   {
+    "m": "2023-10",
+    "p": 95
+   },
+   {
+    "m": "2025-01",
+    "p": 81
+   },
+   {
+    "m": "2026-06",
+    "p": 70
+   }
+  ]
+ },
+ {
+  "id": "cpu-55",
+  "slug": "intel-xeon-e5-2699-v4",
+  "name": "Intel Xeon E5-2699 v4",
+  "brand": "Intel",
+  "family": "Xeon E5",
+  "category": "server",
+  "architecture": "Broadwell",
+  "socket": "LGA 2011-3",
+  "cores": 22,
+  "threads": 44,
+  "baseClock": 2.2,
+  "boostClock": 3.6,
+  "cacheL3": 55,
+  "tdp": 145,
+  "processNode": 14,
+  "releaseYear": 2016,
+  "releaseDate": "2016-04-15",
+  "launchPrice": 4451,
+  "price": 600,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 168,
+   "multi": 1929,
+   "productivity": 1959,
+   "gaming": 226
+  },
+  "pros": [
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2016-02",
+    "p": 4571
+   },
+   {
+    "m": "2017-07",
+    "p": 3941
+   },
+   {
+    "m": "2018-11",
+    "p": 3324
+   },
+   {
+    "m": "2019-09",
+    "p": 2887
+   },
+   {
+    "m": "2020-02",
+    "p": 2527
+   },
+   {
+    "m": "2021-05",
+    "p": 2256
+   },
+   {
+    "m": "2022-05",
+    "p": 1898
+   },
+   {
+    "m": "2023-06",
+    "p": 1508
+   },
+   {
+    "m": "2024-03",
+    "p": 1240
+   },
+   {
+    "m": "2025-08",
+    "p": 888
+   },
+   {
+    "m": "2026-04",
+    "p": 600
+   }
+  ]
+ },
+ {
+  "id": "cpu-56",
+  "slug": "intel-xeon-e5-2680-v2",
+  "name": "Intel Xeon E5-2680 v2",
+  "brand": "Intel",
+  "family": "Xeon E5",
+  "category": "server",
+  "architecture": "Ivy Bridge-EP",
+  "socket": "LGA 2011",
+  "cores": 10,
+  "threads": 20,
+  "baseClock": 2.8,
+  "boostClock": 3.5,
+  "cacheL3": 25,
+  "tdp": 115,
+  "processNode": 22,
+  "releaseYear": 2013,
+  "releaseDate": "2013-03-15",
+  "launchPrice": 1726,
+  "price": 60,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR3 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 122,
+   "multi": 740,
+   "productivity": 815,
+   "gaming": 151
+  },
+  "pros": [
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2013-10",
+    "p": 1731
+   },
+   {
+    "m": "2014-04",
+    "p": 1513
+   },
+   {
+    "m": "2016-02",
+    "p": 1253
+   },
+   {
+    "m": "2017-12",
+    "p": 1078
+   },
+   {
+    "m": "2018-12",
+    "p": 944
+   },
+   {
+    "m": "2019-04",
+    "p": 754
+   },
+   {
+    "m": "2021-10",
+    "p": 597
+   },
+   {
+    "m": "2022-02",
+    "p": 467
+   },
+   {
+    "m": "2023-08",
+    "p": 319
+   },
+   {
+    "m": "2025-07",
+    "p": 192
+   },
+   {
+    "m": "2026-03",
+    "p": 60
+   }
+  ]
+ },
+ {
+  "id": "cpu-57",
+  "slug": "intel-core-ultra-9-285hx",
+  "name": "Intel Core Ultra 9 285HX",
+  "brand": "Intel",
+  "family": "Core Ultra",
+  "category": "mobile",
+  "architecture": "Arrow Lake-HX",
+  "socket": "BGA 2114",
+  "cores": 24,
+  "threads": 24,
+  "baseClock": 2.7,
+  "boostClock": 5.5,
+  "cacheL3": 36,
+  "tdp": 55,
+  "processNode": 3,
+  "releaseYear": 2025,
+  "releaseDate": "2025-02-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Xe 32 EU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 525,
+   "multi": 5203,
+   "productivity": 5364,
+   "gaming": 584
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "No SMT — limited multitasking",
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-58",
+  "slug": "intel-core-ultra-9-185h",
+  "name": "Intel Core Ultra 9 185H",
+  "brand": "Intel",
+  "family": "Core Ultra",
+  "category": "mobile",
+  "architecture": "Meteor Lake",
+  "socket": "BGA 2049",
+  "cores": 16,
+  "threads": 22,
+  "baseClock": 2.3,
+  "boostClock": 5.1,
+  "cacheL3": 24,
+  "tdp": 28,
+  "processNode": 7,
+  "releaseYear": 2023,
+  "releaseDate": "2023-01-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Arc Graphics",
+  "memoryTypes": [
+   "DDR5",
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 416,
+   "multi": 3166,
+   "productivity": 3370,
+   "gaming": 458
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-59",
+  "slug": "intel-core-ultra-7-265h",
+  "name": "Intel Core Ultra 7 265H",
+  "brand": "Intel",
+  "family": "Core Ultra",
+  "category": "mobile",
+  "architecture": "Arrow Lake-H",
+  "socket": "BGA 2079",
+  "cores": 16,
+  "threads": 16,
+  "baseClock": 2.4,
+  "boostClock": 5.3,
+  "cacheL3": 24,
+  "tdp": 28,
+  "processNode": 3,
+  "releaseYear": 2025,
+  "releaseDate": "2025-11-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Xe 128 EU",
+  "memoryTypes": [
+   "DDR5",
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 482,
+   "multi": 3383,
+   "productivity": 3643,
+   "gaming": 528
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "No SMT — limited multitasking",
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-60",
+  "slug": "intel-core-ultra-7-155h",
+  "name": "Intel Core Ultra 7 155H",
+  "brand": "Intel",
+  "family": "Core Ultra",
+  "category": "mobile",
+  "architecture": "Meteor Lake",
+  "socket": "BGA 2049",
+  "cores": 16,
+  "threads": 22,
+  "baseClock": 1.7,
+  "boostClock": 4.8,
+  "cacheL3": 24,
+  "tdp": 28,
+  "processNode": 7,
+  "releaseYear": 2023,
+  "releaseDate": "2023-10-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Arc Graphics",
+  "memoryTypes": [
+   "DDR5",
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 391,
+   "multi": 2976,
+   "productivity": 3168,
+   "gaming": 432
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-61",
+  "slug": "intel-core-ultra-5-125h",
+  "name": "Intel Core Ultra 5 125H",
+  "brand": "Intel",
+  "family": "Core Ultra",
+  "category": "mobile",
+  "architecture": "Meteor Lake",
+  "socket": "BGA 2049",
+  "cores": 14,
+  "threads": 18,
+  "baseClock": 1.8,
+  "boostClock": 4.5,
+  "cacheL3": 18,
+  "tdp": 28,
+  "processNode": 7,
+  "releaseYear": 2023,
+  "releaseDate": "2023-09-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Arc Graphics",
+  "memoryTypes": [
+   "DDR5",
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 367,
+   "multi": 2459,
+   "productivity": 2666,
+   "gaming": 402
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-62",
+  "slug": "intel-core-i9-14900hx",
+  "name": "Intel Core i9-14900HX",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "mobile",
+  "architecture": "Raptor Lake-HX",
+  "socket": "BGA 1964",
+  "cores": 24,
+  "threads": 32,
+  "baseClock": 2.2,
+  "boostClock": 5.8,
+  "cacheL3": 36,
+  "tdp": 55,
+  "processNode": 10,
+  "releaseYear": 2024,
+  "releaseDate": "2024-08-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 540,
+   "multi": 5753,
+   "productivity": 5887,
+   "gaming": 599
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-63",
+  "slug": "intel-core-i9-13900hx",
+  "name": "Intel Core i9-13900HX",
+  "brand": "Intel",
+  "family": "Core i9",
+  "category": "mobile",
+  "architecture": "Raptor Lake-HX",
+  "socket": "BGA 1964",
+  "cores": 24,
+  "threads": 32,
+  "baseClock": 2.2,
+  "boostClock": 5.6,
+  "cacheL3": 36,
+  "tdp": 55,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-07-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "UHD 770",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 522,
+   "multi": 5561,
+   "productivity": 5690,
+   "gaming": 581
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-64",
+  "slug": "intel-core-i7-13700h",
+  "name": "Intel Core i7-13700H",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "mobile",
+  "architecture": "Raptor Lake-H",
+  "socket": "BGA 1744",
+  "cores": 14,
+  "threads": 20,
+  "baseClock": 2.4,
+  "boostClock": 5,
+  "cacheL3": 24,
+  "tdp": 45,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-06-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Iris Xe 96EU",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 443,
+   "multi": 3058,
+   "productivity": 3301,
+   "gaming": 487
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-65",
+  "slug": "intel-core-i7-12700h",
+  "name": "Intel Core i7-12700H",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "mobile",
+  "architecture": "Alder Lake-H",
+  "socket": "BGA 1744",
+  "cores": 14,
+  "threads": 20,
+  "baseClock": 2.3,
+  "boostClock": 4.7,
+  "cacheL3": 24,
+  "tdp": 45,
+  "processNode": 10,
+  "releaseYear": 2022,
+  "releaseDate": "2022-05-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Iris Xe 96EU",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 383,
+   "multi": 2644,
+   "productivity": 2854,
+   "gaming": 424
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-66",
+  "slug": "intel-core-i5-13500h",
+  "name": "Intel Core i5-13500H",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "mobile",
+  "architecture": "Raptor Lake-H",
+  "socket": "BGA 1744",
+  "cores": 12,
+  "threads": 16,
+  "baseClock": 2.6,
+  "boostClock": 4.7,
+  "cacheL3": 18,
+  "tdp": 45,
+  "processNode": 10,
+  "releaseYear": 2023,
+  "releaseDate": "2023-04-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Iris Xe 80EU",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 416,
+   "multi": 2493,
+   "productivity": 2751,
+   "gaming": 453
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-67",
+  "slug": "intel-core-i5-12500h",
+  "name": "Intel Core i5-12500H",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "mobile",
+  "architecture": "Alder Lake-H",
+  "socket": "BGA 1744",
+  "cores": 12,
+  "threads": 16,
+  "baseClock": 2.5,
+  "boostClock": 4.5,
+  "cacheL3": 18,
+  "tdp": 45,
+  "processNode": 10,
+  "releaseYear": 2022,
+  "releaseDate": "2022-03-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Iris Xe 80EU",
+  "memoryTypes": [
+   "DDR4",
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 367,
+   "multi": 2199,
+   "productivity": 2427,
+   "gaming": 402
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-68",
+  "slug": "intel-core-i7-11800h",
+  "name": "Intel Core i7-11800H",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "mobile",
+  "architecture": "Tiger Lake-H",
+  "socket": "BGA 1469",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 2.3,
+  "boostClock": 4.6,
+  "cacheL3": 24,
+  "tdp": 45,
+  "processNode": 10,
+  "releaseYear": 2021,
+  "releaseDate": "2021-02-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "UHD 750",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 311,
+   "multi": 1605,
+   "productivity": 1819,
+   "gaming": 348
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-69",
+  "slug": "intel-core-i5-11400h",
+  "name": "Intel Core i5-11400H",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "mobile",
+  "architecture": "Tiger Lake-H",
+  "socket": "BGA 1469",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 2.7,
+  "boostClock": 4.5,
+  "cacheL3": 12,
+  "tdp": 45,
+  "processNode": 10,
+  "releaseYear": 2021,
+  "releaseDate": "2021-01-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "UHD 750",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 304,
+   "multi": 1176,
+   "productivity": 1416,
+   "gaming": 330
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-70",
+  "slug": "intel-core-i7-10750h",
+  "name": "Intel Core i7-10750H",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "mobile",
+  "architecture": "Comet Lake-H",
+  "socket": "BGA 1440",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 2.6,
+  "boostClock": 5,
+  "cacheL3": 12,
+  "tdp": 45,
+  "processNode": 14,
+  "releaseYear": 2020,
+  "releaseDate": "2020-11-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 303,
+   "multi": 1172,
+   "productivity": 1412,
+   "gaming": 329
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-71",
+  "slug": "intel-core-i7-9750h",
+  "name": "Intel Core i7-9750H",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "mobile",
+  "architecture": "Coffee Lake-H",
+  "socket": "BGA 1440",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 2.6,
+  "boostClock": 4.5,
+  "cacheL3": 12,
+  "tdp": 45,
+  "processNode": 14,
+  "releaseYear": 2018,
+  "releaseDate": "2018-10-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 241,
+   "multi": 933,
+   "productivity": 1123,
+   "gaming": 264
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-72",
+  "slug": "intel-core-i5-8300h",
+  "name": "Intel Core i5-8300H",
+  "brand": "Intel",
+  "family": "Core i5",
+  "category": "mobile",
+  "architecture": "Coffee Lake-H",
+  "socket": "BGA 1440",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 2.3,
+  "boostClock": 4,
+  "cacheL3": 8,
+  "tdp": 45,
+  "processNode": 14,
+  "releaseYear": 2018,
+  "releaseDate": "2018-09-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 214,
+   "multi": 552,
+   "productivity": 743,
+   "gaming": 232
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-73",
+  "slug": "intel-core-i7-8750h",
+  "name": "Intel Core i7-8750H",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "mobile",
+  "architecture": "Coffee Lake-H",
+  "socket": "BGA 1440",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 2.2,
+  "boostClock": 4.1,
+  "cacheL3": 12,
+  "tdp": 45,
+  "processNode": 14,
+  "releaseYear": 2018,
+  "releaseDate": "2018-08-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 220,
+   "multi": 851,
+   "productivity": 1025,
+   "gaming": 242
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-74",
+  "slug": "intel-pentium-4-3-06-ghz",
+  "name": "Intel Pentium 4 3.06 GHz",
+  "brand": "Intel",
+  "family": "Pentium 4",
+  "category": "legacy",
+  "architecture": "Northwood",
+  "socket": "Socket 478",
+  "cores": 1,
+  "threads": 2,
+  "baseClock": 3.06,
+  "boostClock": 3.06,
+  "cacheL3": 0.512,
+  "tdp": 82,
+  "processNode": 130,
+  "releaseYear": 2002,
+  "releaseDate": "2002-07-15",
+  "launchPrice": 990,
+  "price": 15,
+  "iGPU": null,
+  "memoryTypes": [
+   "SDRAM",
+   "RDRAM"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 178,
+   "multi": 69,
+   "productivity": 259,
+   "gaming": 187
+  },
+  "pros": [
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2002-01",
+    "p": 1029
+   },
+   {
+    "m": "2004-02",
+    "p": 841
+   },
+   {
+    "m": "2007-09",
+    "p": 729
+   },
+   {
+    "m": "2009-01",
+    "p": 617
+   },
+   {
+    "m": "2012-11",
+    "p": 540
+   },
+   {
+    "m": "2014-10",
+    "p": 443
+   },
+   {
+    "m": "2016-11",
+    "p": 337
+   },
+   {
+    "m": "2019-02",
+    "p": 250
+   },
+   {
+    "m": "2021-05",
+    "p": 168
+   },
+   {
+    "m": "2024-11",
+    "p": 94
+   },
+   {
+    "m": "2026-09",
+    "p": 15
+   }
+  ]
+ },
+ {
+  "id": "cpu-75",
+  "slug": "intel-core-2-duo-e6600",
+  "name": "Intel Core 2 Duo E6600",
+  "brand": "Intel",
+  "family": "Core 2 Duo",
+  "category": "legacy",
+  "architecture": "Conroe",
+  "socket": "LGA 775",
+  "cores": 2,
+  "threads": 2,
+  "baseClock": 2.4,
+  "boostClock": 2.4,
+  "cacheL3": 4,
+  "tdp": 65,
+  "processNode": 65,
+  "releaseYear": 2006,
+  "releaseDate": "2006-06-15",
+  "launchPrice": 316,
+  "price": 20,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR2"
+  ],
+  "overclockable": true,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 28,
+   "multi": 17,
+   "productivity": 46,
+   "gaming": 33
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU",
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2006-08",
+    "p": 322
+   },
+   {
+    "m": "2008-04",
+    "p": 266
+   },
+   {
+    "m": "2010-06",
+    "p": 235
+   },
+   {
+    "m": "2012-10",
+    "p": 195
+   },
+   {
+    "m": "2014-03",
+    "p": 178
+   },
+   {
+    "m": "2016-05",
+    "p": 144
+   },
+   {
+    "m": "2018-02",
+    "p": 116
+   },
+   {
+    "m": "2020-04",
+    "p": 91
+   },
+   {
+    "m": "2022-10",
+    "p": 70
+   },
+   {
+    "m": "2024-03",
+    "p": 45
+   },
+   {
+    "m": "2026-08",
+    "p": 20
+   }
+  ]
+ },
+ {
+  "id": "cpu-76",
+  "slug": "intel-core-2-quad-q9650",
+  "name": "Intel Core 2 Quad Q9650",
+  "brand": "Intel",
+  "family": "Core 2 Quad",
+  "category": "legacy",
+  "architecture": "Yorkfield",
+  "socket": "LGA 775",
+  "cores": 4,
+  "threads": 4,
+  "baseClock": 3,
+  "boostClock": 3,
+  "cacheL3": 12,
+  "tdp": 95,
+  "processNode": 45,
+  "releaseYear": 2008,
+  "releaseDate": "2008-05-15",
+  "launchPrice": 316,
+  "price": 25,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR2"
+  ],
+  "overclockable": true,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 45,
+   "multi": 56,
+   "productivity": 101,
+   "gaming": 58
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU",
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2008-11",
+    "p": 323
+   },
+   {
+    "m": "2010-08",
+    "p": 267
+   },
+   {
+    "m": "2012-01",
+    "p": 233
+   },
+   {
+    "m": "2013-02",
+    "p": 212
+   },
+   {
+    "m": "2015-03",
+    "p": 176
+   },
+   {
+    "m": "2017-03",
+    "p": 143
+   },
+   {
+    "m": "2019-01",
+    "p": 122
+   },
+   {
+    "m": "2021-02",
+    "p": 100
+   },
+   {
+    "m": "2022-04",
+    "p": 72
+   },
+   {
+    "m": "2024-03",
+    "p": 49
+   },
+   {
+    "m": "2026-02",
+    "p": 25
+   }
+  ]
+ },
+ {
+  "id": "cpu-77",
+  "slug": "intel-core-i7-920",
+  "name": "Intel Core i7-920",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "legacy",
+  "architecture": "Nehalem",
+  "socket": "LGA 1366",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 2.66,
+  "boostClock": 2.66,
+  "cacheL3": 8,
+  "tdp": 130,
+  "processNode": 45,
+  "releaseYear": 2008,
+  "releaseDate": "2008-04-15",
+  "launchPrice": 294,
+  "price": 30,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 68,
+   "multi": 105,
+   "productivity": 171,
+   "gaming": 79
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2008-02",
+    "p": 287
+   },
+   {
+    "m": "2010-06",
+    "p": 258
+   },
+   {
+    "m": "2012-01",
+    "p": 218
+   },
+   {
+    "m": "2013-08",
+    "p": 189
+   },
+   {
+    "m": "2015-11",
+    "p": 165
+   },
+   {
+    "m": "2017-07",
+    "p": 141
+   },
+   {
+    "m": "2019-05",
+    "p": 117
+   },
+   {
+    "m": "2021-12",
+    "p": 96
+   },
+   {
+    "m": "2022-07",
+    "p": 74
+   },
+   {
+    "m": "2024-02",
+    "p": 52
+   },
+   {
+    "m": "2026-07",
+    "p": 30
+   }
+  ]
+ },
+ {
+  "id": "cpu-78",
+  "slug": "intel-core-i7-2600k",
+  "name": "Intel Core i7-2600K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "legacy",
+  "architecture": "Sandy Bridge",
+  "socket": "LGA 1155",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.4,
+  "boostClock": 3.8,
+  "cacheL3": 8,
+  "tdp": 95,
+  "processNode": 32,
+  "releaseYear": 2011,
+  "releaseDate": "2011-03-15",
+  "launchPrice": 317,
+  "price": 85,
+  "iGPU": "HD 3000",
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 124,
+   "multi": 192,
+   "productivity": 313,
+   "gaming": 137
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)"
+  ],
+  "priceHistory": [
+   {
+    "m": "2011-02",
+    "p": 324
+   },
+   {
+    "m": "2012-09",
+    "p": 273
+   },
+   {
+    "m": "2014-11",
+    "p": 260
+   },
+   {
+    "m": "2015-08",
+    "p": 226
+   },
+   {
+    "m": "2017-01",
+    "p": 211
+   },
+   {
+    "m": "2018-07",
+    "p": 179
+   },
+   {
+    "m": "2020-03",
+    "p": 168
+   },
+   {
+    "m": "2021-12",
+    "p": 143
+   },
+   {
+    "m": "2023-03",
+    "p": 122
+   },
+   {
+    "m": "2025-08",
+    "p": 106
+   },
+   {
+    "m": "2026-10",
+    "p": 85
+   }
+  ]
+ },
+ {
+  "id": "cpu-79",
+  "slug": "intel-core-i7-4770k",
+  "name": "Intel Core i7-4770K",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "legacy",
+  "architecture": "Haswell",
+  "socket": "LGA 1150",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.5,
+  "boostClock": 3.9,
+  "cacheL3": 8,
+  "tdp": 84,
+  "processNode": 22,
+  "releaseYear": 2013,
+  "releaseDate": "2013-02-15",
+  "launchPrice": 339,
+  "price": 110,
+  "iGPU": "HD 4600",
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 164,
+   "multi": 254,
+   "productivity": 414,
+   "gaming": 179
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)"
+  ],
+  "priceHistory": [
+   {
+    "m": "2013-08",
+    "p": 332
+   },
+   {
+    "m": "2014-07",
+    "p": 298
+   },
+   {
+    "m": "2016-09",
+    "p": 279
+   },
+   {
+    "m": "2017-10",
+    "p": 246
+   },
+   {
+    "m": "2018-11",
+    "p": 221
+   },
+   {
+    "m": "2019-12",
+    "p": 213
+   },
+   {
+    "m": "2021-03",
+    "p": 184
+   },
+   {
+    "m": "2022-03",
+    "p": 162
+   },
+   {
+    "m": "2023-12",
+    "p": 151
+   },
+   {
+    "m": "2025-07",
+    "p": 130
+   },
+   {
+    "m": "2026-12",
+    "p": 110
+   }
+  ]
+ },
+ {
+  "id": "cpu-80",
+  "slug": "intel-core-i7-6700",
+  "name": "Intel Core i7-6700",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "legacy",
+  "architecture": "Skylake",
+  "socket": "LGA 1151",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.4,
+  "boostClock": 4,
+  "cacheL3": 8,
+  "tdp": 65,
+  "processNode": 14,
+  "releaseYear": 2015,
+  "releaseDate": "2015-01-15",
+  "launchPrice": 303,
+  "price": 100,
+  "iGPU": "HD 530",
+  "memoryTypes": [
+   "DDR4",
+   "DDR3L"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 210,
+   "multi": 325,
+   "productivity": 530,
+   "gaming": 228
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)"
+  ],
+  "priceHistory": [
+   {
+    "m": "2015-03",
+    "p": 296
+   },
+   {
+    "m": "2016-04",
+    "p": 281
+   },
+   {
+    "m": "2017-04",
+    "p": 257
+   },
+   {
+    "m": "2018-02",
+    "p": 233
+   },
+   {
+    "m": "2019-11",
+    "p": 198
+   },
+   {
+    "m": "2020-10",
+    "p": 182
+   },
+   {
+    "m": "2022-06",
+    "p": 168
+   },
+   {
+    "m": "2023-05",
+    "p": 149
+   },
+   {
+    "m": "2024-08",
+    "p": 137
+   },
+   {
+    "m": "2025-10",
+    "p": 116
+   },
+   {
+    "m": "2026-11",
+    "p": 100
+   }
+  ]
+ },
+ {
+  "id": "cpu-81",
+  "slug": "intel-core-i7-8700",
+  "name": "Intel Core i7-8700",
+  "brand": "Intel",
+  "family": "Core i7",
+  "category": "legacy",
+  "architecture": "Coffee Lake",
+  "socket": "LGA 1151",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.2,
+  "boostClock": 4.6,
+  "cacheL3": 12,
+  "tdp": 65,
+  "processNode": 14,
+  "releaseYear": 2018,
+  "releaseDate": "2018-11-15",
+  "launchPrice": 303,
+  "price": 150,
+  "iGPU": "UHD 630",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 289,
+   "multi": 671,
+   "productivity": 935,
+   "gaming": 314
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)"
+  ],
+  "priceHistory": [
+   {
+    "m": "2018-04",
+    "p": 306
+   },
+   {
+    "m": "2019-09",
+    "p": 283
+   },
+   {
+    "m": "2020-08",
+    "p": 264
+   },
+   {
+    "m": "2020-06",
+    "p": 240
+   },
+   {
+    "m": "2021-08",
+    "p": 226
+   },
+   {
+    "m": "2022-05",
+    "p": 217
+   },
+   {
+    "m": "2023-04",
+    "p": 204
+   },
+   {
+    "m": "2024-07",
+    "p": 188
+   },
+   {
+    "m": "2024-03",
+    "p": 179
+   },
+   {
+    "m": "2025-11",
+    "p": 164
+   },
+   {
+    "m": "2026-12",
+    "p": 150
+   }
+  ]
+ },
+ {
+  "id": "cpu-82",
+  "slug": "amd-ryzen-9-9950x",
+  "name": "AMD Ryzen 9 9950X",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 5",
+  "socket": "AM5",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 4.3,
+  "boostClock": 5.7,
+  "cacheL3": 64,
+  "tdp": 170,
+  "processNode": 4,
+  "releaseYear": 2024,
+  "releaseDate": "2024-10-15",
+  "launchPrice": 649,
+  "price": 600,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 611,
+   "multi": 5359,
+   "productivity": 5602,
+   "gaming": 699
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Class-leading single-core speed",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Premium pricing",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-11",
+    "p": 644
+   },
+   {
+    "m": "2024-01",
+    "p": 652
+   },
+   {
+    "m": "2024-12",
+    "p": 635
+   },
+   {
+    "m": "2025-10",
+    "p": 629
+   },
+   {
+    "m": "2025-02",
+    "p": 634
+   },
+   {
+    "m": "2025-12",
+    "p": 643
+   },
+   {
+    "m": "2025-11",
+    "p": 610
+   },
+   {
+    "m": "2025-03",
+    "p": 628
+   },
+   {
+    "m": "2026-12",
+    "p": 595
+   },
+   {
+    "m": "2026-04",
+    "p": 626
+   },
+   {
+    "m": "2026-08",
+    "p": 600
+   }
+  ]
+ },
+ {
+  "id": "cpu-83",
+  "slug": "amd-ryzen-9-9900x",
+  "name": "AMD Ryzen 9 9900X",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 5",
+  "socket": "AM5",
+  "cores": 12,
+  "threads": 24,
+  "baseClock": 4.4,
+  "boostClock": 5.6,
+  "cacheL3": 64,
+  "tdp": 120,
+  "processNode": 4,
+  "releaseYear": 2024,
+  "releaseDate": "2024-09-15",
+  "launchPrice": 499,
+  "price": 430,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 600,
+   "multi": 4179,
+   "productivity": 4505,
+   "gaming": 688
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Class-leading single-core speed",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-08",
+    "p": 490
+   },
+   {
+    "m": "2024-12",
+    "p": 501
+   },
+   {
+    "m": "2024-10",
+    "p": 464
+   },
+   {
+    "m": "2025-12",
+    "p": 480
+   },
+   {
+    "m": "2025-01",
+    "p": 473
+   },
+   {
+    "m": "2025-08",
+    "p": 474
+   },
+   {
+    "m": "2025-11",
+    "p": 453
+   },
+   {
+    "m": "2025-07",
+    "p": 465
+   },
+   {
+    "m": "2026-08",
+    "p": 449
+   },
+   {
+    "m": "2026-06",
+    "p": 420
+   },
+   {
+    "m": "2026-02",
+    "p": 430
+   }
+  ]
+ },
+ {
+  "id": "cpu-84",
+  "slug": "amd-ryzen-7-9700x",
+  "name": "AMD Ryzen 7 9700X",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen 5",
+  "socket": "AM5",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.8,
+  "boostClock": 5.5,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 4,
+  "releaseYear": 2024,
+  "releaseDate": "2024-08-15",
+  "launchPrice": 359,
+  "price": 310,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 589,
+   "multi": 3039,
+   "productivity": 3444,
+   "gaming": 647
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Class-leading single-core speed",
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-08",
+    "p": 348
+   },
+   {
+    "m": "2024-10",
+    "p": 362
+   },
+   {
+    "m": "2024-03",
+    "p": 353
+   },
+   {
+    "m": "2025-02",
+    "p": 339
+   },
+   {
+    "m": "2025-02",
+    "p": 345
+   },
+   {
+    "m": "2025-11",
+    "p": 339
+   },
+   {
+    "m": "2025-10",
+    "p": 328
+   },
+   {
+    "m": "2025-01",
+    "p": 333
+   },
+   {
+    "m": "2026-03",
+    "p": 308
+   },
+   {
+    "m": "2026-10",
+    "p": 313
+   },
+   {
+    "m": "2026-09",
+    "p": 310
+   }
+  ]
+ },
+ {
+  "id": "cpu-85",
+  "slug": "amd-ryzen-5-9600x",
+  "name": "AMD Ryzen 5 9600X",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen 5",
+  "socket": "AM5",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.9,
+  "boostClock": 5.4,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 4,
+  "releaseYear": 2024,
+  "releaseDate": "2024-07-15",
+  "launchPrice": 279,
+  "price": 225,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 579,
+   "multi": 2240,
+   "productivity": 2698,
+   "gaming": 637
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Class-leading single-core speed",
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2024-12",
+    "p": 285
+   },
+   {
+    "m": "2024-02",
+    "p": 280
+   },
+   {
+    "m": "2024-02",
+    "p": 268
+   },
+   {
+    "m": "2025-05",
+    "p": 265
+   },
+   {
+    "m": "2025-07",
+    "p": 245
+   },
+   {
+    "m": "2025-02",
+    "p": 255
+   },
+   {
+    "m": "2025-06",
+    "p": 242
+   },
+   {
+    "m": "2025-04",
+    "p": 231
+   },
+   {
+    "m": "2026-12",
+    "p": 228
+   },
+   {
+    "m": "2026-07",
+    "p": 234
+   },
+   {
+    "m": "2026-05",
+    "p": 225
+   }
+  ]
+ },
+ {
+  "id": "cpu-86",
+  "slug": "amd-ryzen-9-7950x3d",
+  "name": "AMD Ryzen 9 7950X3D",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 4 3D V-Cache",
+  "socket": "AM5",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 4.2,
+  "boostClock": 5.4,
+  "cacheL3": 128,
+  "tdp": 120,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-06-15",
+  "launchPrice": 699,
+  "price": 580,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 503,
+   "multi": 4412,
+   "productivity": 4612,
+   "gaming": 683
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-05",
+    "p": 687
+   },
+   {
+    "m": "2023-04",
+    "p": 670
+   },
+   {
+    "m": "2024-07",
+    "p": 645
+   },
+   {
+    "m": "2024-01",
+    "p": 637
+   },
+   {
+    "m": "2024-09",
+    "p": 664
+   },
+   {
+    "m": "2024-07",
+    "p": 646
+   },
+   {
+    "m": "2025-02",
+    "p": 635
+   },
+   {
+    "m": "2025-02",
+    "p": 590
+   },
+   {
+    "m": "2025-08",
+    "p": 590
+   },
+   {
+    "m": "2026-04",
+    "p": 613
+   },
+   {
+    "m": "2026-08",
+    "p": 580
+   }
+  ]
+ },
+ {
+  "id": "cpu-87",
+  "slug": "amd-ryzen-9-7950x",
+  "name": "AMD Ryzen 9 7950X",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "AM5",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 4.5,
+  "boostClock": 5.7,
+  "cacheL3": 64,
+  "tdp": 105,
+  "processNode": 5,
+  "releaseYear": 2022,
+  "releaseDate": "2022-05-15",
+  "launchPrice": 699,
+  "price": 490,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 518,
+   "multi": 4543,
+   "productivity": 4749,
+   "gaming": 602
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Premium pricing",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-10",
+    "p": 711
+   },
+   {
+    "m": "2022-09",
+    "p": 673
+   },
+   {
+    "m": "2023-12",
+    "p": 664
+   },
+   {
+    "m": "2023-09",
+    "p": 601
+   },
+   {
+    "m": "2024-12",
+    "p": 607
+   },
+   {
+    "m": "2024-03",
+    "p": 589
+   },
+   {
+    "m": "2024-06",
+    "p": 561
+   },
+   {
+    "m": "2025-02",
+    "p": 558
+   },
+   {
+    "m": "2025-09",
+    "p": 532
+   },
+   {
+    "m": "2026-11",
+    "p": 496
+   },
+   {
+    "m": "2026-10",
+    "p": 490
+   }
+  ]
+ },
+ {
+  "id": "cpu-88",
+  "slug": "amd-ryzen-9-7900x3d",
+  "name": "AMD Ryzen 9 7900X3D",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 4 3D V-Cache",
+  "socket": "AM5",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 4.4,
+  "boostClock": 5.6,
+  "cacheL3": 128,
+  "tdp": 120,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-04-15",
+  "launchPrice": 449,
+  "price": 400,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 522,
+   "multi": 2693,
+   "productivity": 3052,
+   "gaming": 703
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-08",
+    "p": 432
+   },
+   {
+    "m": "2023-12",
+    "p": 430
+   },
+   {
+    "m": "2024-10",
+    "p": 418
+   },
+   {
+    "m": "2024-10",
+    "p": 418
+   },
+   {
+    "m": "2024-03",
+    "p": 409
+   },
+   {
+    "m": "2024-06",
+    "p": 428
+   },
+   {
+    "m": "2025-10",
+    "p": 427
+   },
+   {
+    "m": "2025-04",
+    "p": 426
+   },
+   {
+    "m": "2025-10",
+    "p": 414
+   },
+   {
+    "m": "2026-04",
+    "p": 411
+   },
+   {
+    "m": "2026-07",
+    "p": 400
+   }
+  ]
+ },
+ {
+  "id": "cpu-89",
+  "slug": "amd-ryzen-9-7900x",
+  "name": "AMD Ryzen 9 7900X",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "AM5",
+  "cores": 12,
+  "threads": 24,
+  "baseClock": 4.7,
+  "boostClock": 5.6,
+  "cacheL3": 64,
+  "tdp": 105,
+  "processNode": 5,
+  "releaseYear": 2022,
+  "releaseDate": "2022-03-15",
+  "launchPrice": 549,
+  "price": 380,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 509,
+   "multi": 3545,
+   "productivity": 3821,
+   "gaming": 592
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-05",
+    "p": 552
+   },
+   {
+    "m": "2022-07",
+    "p": 515
+   },
+   {
+    "m": "2023-11",
+    "p": 490
+   },
+   {
+    "m": "2023-04",
+    "p": 489
+   },
+   {
+    "m": "2024-01",
+    "p": 457
+   },
+   {
+    "m": "2024-06",
+    "p": 440
+   },
+   {
+    "m": "2024-12",
+    "p": 426
+   },
+   {
+    "m": "2025-08",
+    "p": 436
+   },
+   {
+    "m": "2025-08",
+    "p": 411
+   },
+   {
+    "m": "2026-05",
+    "p": 394
+   },
+   {
+    "m": "2026-01",
+    "p": 380
+   }
+  ]
+ },
+ {
+  "id": "cpu-90",
+  "slug": "amd-ryzen-7-7800x3d",
+  "name": "AMD Ryzen 7 7800X3D",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen 4 3D V-Cache",
+  "socket": "AM5",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 4.2,
+  "boostClock": 5,
+  "cacheL3": 96,
+  "tdp": 120,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-02-15",
+  "launchPrice": 449,
+  "price": 360,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 466,
+   "multi": 2404,
+   "productivity": 2724,
+   "gaming": 616
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-10",
+    "p": 442
+   },
+   {
+    "m": "2023-09",
+    "p": 430
+   },
+   {
+    "m": "2024-07",
+    "p": 423
+   },
+   {
+    "m": "2024-11",
+    "p": 399
+   },
+   {
+    "m": "2024-03",
+    "p": 405
+   },
+   {
+    "m": "2024-08",
+    "p": 412
+   },
+   {
+    "m": "2025-02",
+    "p": 392
+   },
+   {
+    "m": "2025-12",
+    "p": 385
+   },
+   {
+    "m": "2025-04",
+    "p": 380
+   },
+   {
+    "m": "2026-07",
+    "p": 367
+   },
+   {
+    "m": "2026-10",
+    "p": 360
+   }
+  ]
+ },
+ {
+  "id": "cpu-91",
+  "slug": "amd-ryzen-7-7700x",
+  "name": "AMD Ryzen 7 7700X",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "AM5",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 4.5,
+  "boostClock": 5.4,
+  "cacheL3": 32,
+  "tdp": 105,
+  "processNode": 5,
+  "releaseYear": 2022,
+  "releaseDate": "2022-01-15",
+  "launchPrice": 399,
+  "price": 290,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 491,
+   "multi": 2533,
+   "productivity": 2870,
+   "gaming": 544
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-04",
+    "p": 398
+   },
+   {
+    "m": "2022-06",
+    "p": 388
+   },
+   {
+    "m": "2023-08",
+    "p": 375
+   },
+   {
+    "m": "2023-05",
+    "p": 358
+   },
+   {
+    "m": "2024-05",
+    "p": 354
+   },
+   {
+    "m": "2024-11",
+    "p": 330
+   },
+   {
+    "m": "2024-11",
+    "p": 325
+   },
+   {
+    "m": "2025-05",
+    "p": 323
+   },
+   {
+    "m": "2025-04",
+    "p": 299
+   },
+   {
+    "m": "2026-09",
+    "p": 308
+   },
+   {
+    "m": "2026-05",
+    "p": 290
+   }
+  ]
+ },
+ {
+  "id": "cpu-92",
+  "slug": "amd-ryzen-7-7700",
+  "name": "AMD Ryzen 7 7700",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "AM5",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.8,
+  "boostClock": 5.3,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-11-15",
+  "launchPrice": 359,
+  "price": 280,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 482,
+   "multi": 2487,
+   "productivity": 2818,
+   "gaming": 535
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-05",
+    "p": 356
+   },
+   {
+    "m": "2023-08",
+    "p": 335
+   },
+   {
+    "m": "2024-12",
+    "p": 327
+   },
+   {
+    "m": "2024-02",
+    "p": 340
+   },
+   {
+    "m": "2024-01",
+    "p": 318
+   },
+   {
+    "m": "2024-07",
+    "p": 323
+   },
+   {
+    "m": "2025-05",
+    "p": 314
+   },
+   {
+    "m": "2025-02",
+    "p": 304
+   },
+   {
+    "m": "2025-09",
+    "p": 288
+   },
+   {
+    "m": "2026-01",
+    "p": 278
+   },
+   {
+    "m": "2026-03",
+    "p": 280
+   }
+  ]
+ },
+ {
+  "id": "cpu-93",
+  "slug": "amd-ryzen-5-7600x",
+  "name": "AMD Ryzen 5 7600X",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "AM5",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 4.7,
+  "boostClock": 5.3,
+  "cacheL3": 32,
+  "tdp": 105,
+  "processNode": 5,
+  "releaseYear": 2022,
+  "releaseDate": "2022-10-15",
+  "launchPrice": 299,
+  "price": 210,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 482,
+   "multi": 1865,
+   "productivity": 2246,
+   "gaming": 535
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-01",
+    "p": 292
+   },
+   {
+    "m": "2022-03",
+    "p": 280
+   },
+   {
+    "m": "2023-07",
+    "p": 279
+   },
+   {
+    "m": "2023-12",
+    "p": 262
+   },
+   {
+    "m": "2024-12",
+    "p": 259
+   },
+   {
+    "m": "2024-01",
+    "p": 257
+   },
+   {
+    "m": "2024-12",
+    "p": 235
+   },
+   {
+    "m": "2025-08",
+    "p": 233
+   },
+   {
+    "m": "2025-09",
+    "p": 226
+   },
+   {
+    "m": "2026-03",
+    "p": 221
+   },
+   {
+    "m": "2026-11",
+    "p": 210
+   }
+  ]
+ },
+ {
+  "id": "cpu-94",
+  "slug": "amd-ryzen-5-7600",
+  "name": "AMD Ryzen 5 7600",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "AM5",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.8,
+  "boostClock": 5.1,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-09-15",
+  "launchPrice": 259,
+  "price": 195,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 463,
+   "multi": 1792,
+   "productivity": 2158,
+   "gaming": 515
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-10",
+    "p": 260
+   },
+   {
+    "m": "2023-01",
+    "p": 258
+   },
+   {
+    "m": "2024-04",
+    "p": 250
+   },
+   {
+    "m": "2024-01",
+    "p": 241
+   },
+   {
+    "m": "2024-11",
+    "p": 231
+   },
+   {
+    "m": "2024-03",
+    "p": 219
+   },
+   {
+    "m": "2025-10",
+    "p": 221
+   },
+   {
+    "m": "2025-10",
+    "p": 219
+   },
+   {
+    "m": "2025-01",
+    "p": 209
+   },
+   {
+    "m": "2026-05",
+    "p": 198
+   },
+   {
+    "m": "2026-10",
+    "p": 195
+   }
+  ]
+ },
+ {
+  "id": "cpu-95",
+  "slug": "amd-ryzen-5-7500f",
+  "name": "AMD Ryzen 5 7500F",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "AM5",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.7,
+  "boostClock": 5,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-08-15",
+  "launchPrice": 199,
+  "price": 165,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 454,
+   "multi": 1757,
+   "productivity": 2116,
+   "gaming": 506
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-09",
+    "p": 193
+   },
+   {
+    "m": "2023-05",
+    "p": 199
+   },
+   {
+    "m": "2024-10",
+    "p": 196
+   },
+   {
+    "m": "2024-12",
+    "p": 188
+   },
+   {
+    "m": "2024-04",
+    "p": 180
+   },
+   {
+    "m": "2024-11",
+    "p": 184
+   },
+   {
+    "m": "2025-10",
+    "p": 175
+   },
+   {
+    "m": "2025-10",
+    "p": 178
+   },
+   {
+    "m": "2025-06",
+    "p": 172
+   },
+   {
+    "m": "2026-07",
+    "p": 168
+   },
+   {
+    "m": "2026-02",
+    "p": 165
+   }
+  ]
+ },
+ {
+  "id": "cpu-96",
+  "slug": "amd-ryzen-9-5950x",
+  "name": "AMD Ryzen 9 5950X",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 3.4,
+  "boostClock": 4.9,
+  "cacheL3": 64,
+  "tdp": 105,
+  "processNode": 7,
+  "releaseYear": 2020,
+  "releaseDate": "2020-07-15",
+  "launchPrice": 799,
+  "price": 480,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 388,
+   "multi": 3403,
+   "productivity": 3558,
+   "gaming": 465
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU",
+   "Premium pricing",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-09",
+    "p": 811
+   },
+   {
+    "m": "2021-07",
+    "p": 721
+   },
+   {
+    "m": "2021-12",
+    "p": 726
+   },
+   {
+    "m": "2022-08",
+    "p": 701
+   },
+   {
+    "m": "2022-05",
+    "p": 634
+   },
+   {
+    "m": "2023-10",
+    "p": 599
+   },
+   {
+    "m": "2024-10",
+    "p": 572
+   },
+   {
+    "m": "2024-07",
+    "p": 542
+   },
+   {
+    "m": "2025-07",
+    "p": 531
+   },
+   {
+    "m": "2025-01",
+    "p": 499
+   },
+   {
+    "m": "2026-10",
+    "p": 480
+   }
+  ]
+ },
+ {
+  "id": "cpu-97",
+  "slug": "amd-ryzen-9-5900x",
+  "name": "AMD Ryzen 9 5900X",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "cores": 12,
+  "threads": 24,
+  "baseClock": 3.7,
+  "boostClock": 4.8,
+  "cacheL3": 64,
+  "tdp": 105,
+  "processNode": 7,
+  "releaseYear": 2020,
+  "releaseDate": "2020-06-15",
+  "launchPrice": 549,
+  "price": 360,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 380,
+   "multi": 2647,
+   "productivity": 2853,
+   "gaming": 457
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-06",
+    "p": 558
+   },
+   {
+    "m": "2021-10",
+    "p": 514
+   },
+   {
+    "m": "2021-01",
+    "p": 495
+   },
+   {
+    "m": "2022-07",
+    "p": 464
+   },
+   {
+    "m": "2022-12",
+    "p": 447
+   },
+   {
+    "m": "2023-10",
+    "p": 456
+   },
+   {
+    "m": "2024-12",
+    "p": 433
+   },
+   {
+    "m": "2024-09",
+    "p": 407
+   },
+   {
+    "m": "2025-02",
+    "p": 382
+   },
+   {
+    "m": "2025-10",
+    "p": 376
+   },
+   {
+    "m": "2026-06",
+    "p": 360
+   }
+  ]
+ },
+ {
+  "id": "cpu-98",
+  "slug": "amd-ryzen-7-5800x3d",
+  "name": "AMD Ryzen 7 5800X3D",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen 3 3D V-Cache",
+  "socket": "AM4",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.4,
+  "boostClock": 4.5,
+  "cacheL3": 96,
+  "tdp": 105,
+  "processNode": 7,
+  "releaseYear": 2022,
+  "releaseDate": "2022-05-15",
+  "launchPrice": 449,
+  "price": 300,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 372,
+   "multi": 1919,
+   "productivity": 2175,
+   "gaming": 517
+  },
+  "pros": [
+   "Huge L3 cache helps gaming",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-04",
+    "p": 438
+   },
+   {
+    "m": "2022-09",
+    "p": 420
+   },
+   {
+    "m": "2023-09",
+    "p": 396
+   },
+   {
+    "m": "2023-12",
+    "p": 391
+   },
+   {
+    "m": "2024-01",
+    "p": 367
+   },
+   {
+    "m": "2024-02",
+    "p": 370
+   },
+   {
+    "m": "2024-09",
+    "p": 354
+   },
+   {
+    "m": "2025-09",
+    "p": 347
+   },
+   {
+    "m": "2025-09",
+    "p": 314
+   },
+   {
+    "m": "2026-03",
+    "p": 322
+   },
+   {
+    "m": "2026-04",
+    "p": 300
+   }
+  ]
+ },
+ {
+  "id": "cpu-99",
+  "slug": "amd-ryzen-7-5800x",
+  "name": "AMD Ryzen 7 5800X",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.8,
+  "boostClock": 4.7,
+  "cacheL3": 32,
+  "tdp": 105,
+  "processNode": 7,
+  "releaseYear": 2020,
+  "releaseDate": "2020-04-15",
+  "launchPrice": 449,
+  "price": 220,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 372,
+   "multi": 1919,
+   "productivity": 2175,
+   "gaming": 419
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-08",
+    "p": 452
+   },
+   {
+    "m": "2021-07",
+    "p": 422
+   },
+   {
+    "m": "2021-10",
+    "p": 382
+   },
+   {
+    "m": "2022-06",
+    "p": 363
+   },
+   {
+    "m": "2022-05",
+    "p": 325
+   },
+   {
+    "m": "2023-08",
+    "p": 329
+   },
+   {
+    "m": "2024-07",
+    "p": 307
+   },
+   {
+    "m": "2024-01",
+    "p": 267
+   },
+   {
+    "m": "2025-06",
+    "p": 265
+   },
+   {
+    "m": "2025-11",
+    "p": 245
+   },
+   {
+    "m": "2026-04",
+    "p": 220
+   }
+  ]
+ },
+ {
+  "id": "cpu-100",
+  "slug": "amd-ryzen-5-5600x",
+  "name": "AMD Ryzen 5 5600X",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.7,
+  "boostClock": 4.6,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 7,
+  "releaseYear": 2020,
+  "releaseDate": "2020-03-15",
+  "launchPrice": 299,
+  "price": 150,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 364,
+   "multi": 1408,
+   "productivity": 1696,
+   "gaming": 411
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-02",
+    "p": 289
+   },
+   {
+    "m": "2021-04",
+    "p": 282
+   },
+   {
+    "m": "2021-06",
+    "p": 253
+   },
+   {
+    "m": "2022-10",
+    "p": 234
+   },
+   {
+    "m": "2022-07",
+    "p": 226
+   },
+   {
+    "m": "2023-05",
+    "p": 206
+   },
+   {
+    "m": "2024-01",
+    "p": 198
+   },
+   {
+    "m": "2024-05",
+    "p": 183
+   },
+   {
+    "m": "2025-05",
+    "p": 170
+   },
+   {
+    "m": "2025-12",
+    "p": 159
+   },
+   {
+    "m": "2026-06",
+    "p": 150
+   }
+  ]
+ },
+ {
+  "id": "cpu-101",
+  "slug": "amd-ryzen-5-5600",
+  "name": "AMD Ryzen 5 5600",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.5,
+  "boostClock": 4.4,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 7,
+  "releaseYear": 2022,
+  "releaseDate": "2022-02-15",
+  "launchPrice": 199,
+  "price": 135,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 348,
+   "multi": 1347,
+   "productivity": 1622,
+   "gaming": 394
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-09",
+    "p": 192
+   },
+   {
+    "m": "2022-03",
+    "p": 190
+   },
+   {
+    "m": "2023-07",
+    "p": 183
+   },
+   {
+    "m": "2023-01",
+    "p": 174
+   },
+   {
+    "m": "2024-10",
+    "p": 166
+   },
+   {
+    "m": "2024-11",
+    "p": 168
+   },
+   {
+    "m": "2024-10",
+    "p": 151
+   },
+   {
+    "m": "2025-06",
+    "p": 146
+   },
+   {
+    "m": "2025-04",
+    "p": 140
+   },
+   {
+    "m": "2026-06",
+    "p": 137
+   },
+   {
+    "m": "2026-10",
+    "p": 135
+   }
+  ]
+ },
+ {
+  "id": "cpu-102",
+  "slug": "amd-ryzen-5-5500",
+  "name": "AMD Ryzen 5 5500",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.6,
+  "boostClock": 4.2,
+  "cacheL3": 16,
+  "tdp": 65,
+  "processNode": 7,
+  "releaseYear": 2022,
+  "releaseDate": "2022-01-15",
+  "launchPrice": 159,
+  "price": 115,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 333,
+   "multi": 1289,
+   "productivity": 1552,
+   "gaming": 364
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-10",
+    "p": 155
+   },
+   {
+    "m": "2022-10",
+    "p": 151
+   },
+   {
+    "m": "2023-02",
+    "p": 151
+   },
+   {
+    "m": "2023-06",
+    "p": 137
+   },
+   {
+    "m": "2024-05",
+    "p": 139
+   },
+   {
+    "m": "2024-09",
+    "p": 132
+   },
+   {
+    "m": "2024-02",
+    "p": 130
+   },
+   {
+    "m": "2025-03",
+    "p": 126
+   },
+   {
+    "m": "2025-12",
+    "p": 118
+   },
+   {
+    "m": "2026-12",
+    "p": 119
+   },
+   {
+    "m": "2026-01",
+    "p": 115
+   }
+  ]
+ },
+ {
+  "id": "cpu-103",
+  "slug": "amd-ryzen-3-4100",
+  "name": "AMD Ryzen 3 4100",
+  "brand": "AMD",
+  "family": "Ryzen 3",
+  "category": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 3.8,
+  "boostClock": 4,
+  "cacheL3": 16,
+  "tdp": 65,
+  "processNode": 7,
+  "releaseYear": 2021,
+  "releaseDate": "2021-11-15",
+  "launchPrice": 99,
+  "price": 80,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 317,
+   "multi": 818,
+   "productivity": 1101,
+   "gaming": 347
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-08",
+    "p": 96
+   },
+   {
+    "m": "2021-02",
+    "p": 96
+   },
+   {
+    "m": "2022-10",
+    "p": 94
+   },
+   {
+    "m": "2022-05",
+    "p": 91
+   },
+   {
+    "m": "2023-05",
+    "p": 89
+   },
+   {
+    "m": "2023-11",
+    "p": 87
+   },
+   {
+    "m": "2024-07",
+    "p": 89
+   },
+   {
+    "m": "2024-04",
+    "p": 83
+   },
+   {
+    "m": "2025-02",
+    "p": 84
+   },
+   {
+    "m": "2026-03",
+    "p": 82
+   },
+   {
+    "m": "2026-03",
+    "p": 80
+   }
+  ]
+ },
+ {
+  "id": "cpu-104",
+  "slug": "amd-ryzen-9-3950x",
+  "name": "AMD Ryzen 9 3950X",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 2",
+  "socket": "AM4",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 3.5,
+  "boostClock": 4.7,
+  "cacheL3": 64,
+  "tdp": 105,
+  "processNode": 7,
+  "releaseYear": 2019,
+  "releaseDate": "2019-10-15",
+  "launchPrice": 749,
+  "price": 420,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 301,
+   "multi": 2640,
+   "productivity": 2760,
+   "gaming": 374
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-08",
+    "p": 720
+   },
+   {
+    "m": "2020-03",
+    "p": 686
+   },
+   {
+    "m": "2020-11",
+    "p": 683
+   },
+   {
+    "m": "2021-11",
+    "p": 601
+   },
+   {
+    "m": "2022-10",
+    "p": 576
+   },
+   {
+    "m": "2022-08",
+    "p": 546
+   },
+   {
+    "m": "2023-12",
+    "p": 513
+   },
+   {
+    "m": "2024-04",
+    "p": 514
+   },
+   {
+    "m": "2025-03",
+    "p": 471
+   },
+   {
+    "m": "2025-06",
+    "p": 445
+   },
+   {
+    "m": "2026-11",
+    "p": 420
+   }
+  ]
+ },
+ {
+  "id": "cpu-105",
+  "slug": "amd-ryzen-9-3900x",
+  "name": "AMD Ryzen 9 3900X",
+  "brand": "AMD",
+  "family": "Ryzen 9",
+  "category": "desktop",
+  "architecture": "Zen 2",
+  "socket": "AM4",
+  "cores": 12,
+  "threads": 24,
+  "baseClock": 3.8,
+  "boostClock": 4.6,
+  "cacheL3": 64,
+  "tdp": 105,
+  "processNode": 7,
+  "releaseYear": 2019,
+  "releaseDate": "2019-09-15",
+  "launchPrice": 499,
+  "price": 300,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 295,
+   "multi": 2055,
+   "productivity": 2215,
+   "gaming": 367
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-04",
+    "p": 493
+   },
+   {
+    "m": "2020-01",
+    "p": 486
+   },
+   {
+    "m": "2020-10",
+    "p": 434
+   },
+   {
+    "m": "2021-11",
+    "p": 436
+   },
+   {
+    "m": "2022-01",
+    "p": 408
+   },
+   {
+    "m": "2022-10",
+    "p": 381
+   },
+   {
+    "m": "2023-03",
+    "p": 365
+   },
+   {
+    "m": "2024-11",
+    "p": 345
+   },
+   {
+    "m": "2025-11",
+    "p": 330
+   },
+   {
+    "m": "2025-12",
+    "p": 311
+   },
+   {
+    "m": "2026-04",
+    "p": 300
+   }
+  ]
+ },
+ {
+  "id": "cpu-106",
+  "slug": "amd-ryzen-7-3700x",
+  "name": "AMD Ryzen 7 3700X",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen 2",
+  "socket": "AM4",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.6,
+  "boostClock": 4.4,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 7,
+  "releaseYear": 2019,
+  "releaseDate": "2019-08-15",
+  "launchPrice": 329,
+  "price": 190,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 282,
+   "multi": 1455,
+   "productivity": 1649,
+   "gaming": 325
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-04",
+    "p": 318
+   },
+   {
+    "m": "2020-12",
+    "p": 313
+   },
+   {
+    "m": "2020-06",
+    "p": 280
+   },
+   {
+    "m": "2021-08",
+    "p": 271
+   },
+   {
+    "m": "2022-07",
+    "p": 264
+   },
+   {
+    "m": "2022-04",
+    "p": 256
+   },
+   {
+    "m": "2023-07",
+    "p": 245
+   },
+   {
+    "m": "2024-07",
+    "p": 222
+   },
+   {
+    "m": "2025-03",
+    "p": 210
+   },
+   {
+    "m": "2025-01",
+    "p": 200
+   },
+   {
+    "m": "2026-07",
+    "p": 190
+   }
+  ]
+ },
+ {
+  "id": "cpu-107",
+  "slug": "amd-ryzen-5-3600",
+  "name": "AMD Ryzen 5 3600",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen 2",
+  "socket": "AM4",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.6,
+  "boostClock": 4.2,
+  "cacheL3": 32,
+  "tdp": 65,
+  "processNode": 7,
+  "releaseYear": 2019,
+  "releaseDate": "2019-07-15",
+  "launchPrice": 199,
+  "price": 120,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 269,
+   "multi": 1041,
+   "productivity": 1254,
+   "gaming": 311
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-08",
+    "p": 205
+   },
+   {
+    "m": "2020-04",
+    "p": 184
+   },
+   {
+    "m": "2020-07",
+    "p": 180
+   },
+   {
+    "m": "2021-08",
+    "p": 170
+   },
+   {
+    "m": "2022-03",
+    "p": 166
+   },
+   {
+    "m": "2022-10",
+    "p": 150
+   },
+   {
+    "m": "2023-08",
+    "p": 148
+   },
+   {
+    "m": "2024-04",
+    "p": 139
+   },
+   {
+    "m": "2025-10",
+    "p": 134
+   },
+   {
+    "m": "2025-08",
+    "p": 127
+   },
+   {
+    "m": "2026-05",
+    "p": 120
+   }
+  ]
+ },
+ {
+  "id": "cpu-108",
+  "slug": "amd-ryzen-5-2600",
+  "name": "AMD Ryzen 5 2600",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen+",
+  "socket": "AM4",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.4,
+  "boostClock": 3.9,
+  "cacheL3": 16,
+  "tdp": 65,
+  "processNode": 12,
+  "releaseYear": 2018,
+  "releaseDate": "2018-06-15",
+  "launchPrice": 199,
+  "price": 95,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 200,
+   "multi": 774,
+   "productivity": 932,
+   "gaming": 224
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2018-04",
+    "p": 207
+   },
+   {
+    "m": "2019-10",
+    "p": 188
+   },
+   {
+    "m": "2020-07",
+    "p": 166
+   },
+   {
+    "m": "2020-03",
+    "p": 158
+   },
+   {
+    "m": "2021-05",
+    "p": 148
+   },
+   {
+    "m": "2022-04",
+    "p": 141
+   },
+   {
+    "m": "2023-07",
+    "p": 130
+   },
+   {
+    "m": "2024-09",
+    "p": 118
+   },
+   {
+    "m": "2024-03",
+    "p": 116
+   },
+   {
+    "m": "2025-06",
+    "p": 103
+   },
+   {
+    "m": "2026-04",
+    "p": 95
+   }
+  ]
+ },
+ {
+  "id": "cpu-109",
+  "slug": "amd-ryzen-7-2700x",
+  "name": "AMD Ryzen 7 2700X",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen+",
+  "socket": "AM4",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.7,
+  "boostClock": 4.3,
+  "cacheL3": 16,
+  "tdp": 105,
+  "processNode": 12,
+  "releaseYear": 2018,
+  "releaseDate": "2018-05-15",
+  "launchPrice": 329,
+  "price": 150,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 220,
+   "multi": 1135,
+   "productivity": 1286,
+   "gaming": 245
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2018-04",
+    "p": 316
+   },
+   {
+    "m": "2019-12",
+    "p": 296
+   },
+   {
+    "m": "2020-08",
+    "p": 276
+   },
+   {
+    "m": "2020-01",
+    "p": 264
+   },
+   {
+    "m": "2021-08",
+    "p": 240
+   },
+   {
+    "m": "2022-11",
+    "p": 233
+   },
+   {
+    "m": "2023-04",
+    "p": 204
+   },
+   {
+    "m": "2024-10",
+    "p": 201
+   },
+   {
+    "m": "2024-11",
+    "p": 181
+   },
+   {
+    "m": "2025-02",
+    "p": 159
+   },
+   {
+    "m": "2026-07",
+    "p": 150
+   }
+  ]
+ },
+ {
+  "id": "cpu-110",
+  "slug": "amd-ryzen-7-1800x",
+  "name": "AMD Ryzen 7 1800X",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "desktop",
+  "architecture": "Zen",
+  "socket": "AM4",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.6,
+  "boostClock": 4,
+  "cacheL3": 16,
+  "tdp": 95,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-04-15",
+  "launchPrice": 499,
+  "price": 160,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 186,
+   "multi": 960,
+   "productivity": 1088,
+   "gaming": 210
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-04",
+    "p": 485
+   },
+   {
+    "m": "2018-07",
+    "p": 454
+   },
+   {
+    "m": "2019-03",
+    "p": 421
+   },
+   {
+    "m": "2020-08",
+    "p": 362
+   },
+   {
+    "m": "2021-05",
+    "p": 336
+   },
+   {
+    "m": "2021-08",
+    "p": 306
+   },
+   {
+    "m": "2022-02",
+    "p": 267
+   },
+   {
+    "m": "2023-01",
+    "p": 239
+   },
+   {
+    "m": "2024-08",
+    "p": 207
+   },
+   {
+    "m": "2025-04",
+    "p": 188
+   },
+   {
+    "m": "2026-09",
+    "p": 160
+   }
+  ]
+ },
+ {
+  "id": "cpu-111",
+  "slug": "amd-ryzen-5-1600",
+  "name": "AMD Ryzen 5 1600",
+  "brand": "AMD",
+  "family": "Ryzen 5",
+  "category": "desktop",
+  "architecture": "Zen",
+  "socket": "AM4",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.2,
+  "boostClock": 3.6,
+  "cacheL3": 16,
+  "tdp": 65,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-03-15",
+  "launchPrice": 219,
+  "price": 85,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 168,
+   "multi": 650,
+   "productivity": 783,
+   "gaming": 191
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-01",
+    "p": 215
+   },
+   {
+    "m": "2018-07",
+    "p": 204
+   },
+   {
+    "m": "2019-07",
+    "p": 185
+   },
+   {
+    "m": "2020-09",
+    "p": 171
+   },
+   {
+    "m": "2021-11",
+    "p": 158
+   },
+   {
+    "m": "2021-07",
+    "p": 140
+   },
+   {
+    "m": "2022-01",
+    "p": 130
+   },
+   {
+    "m": "2023-03",
+    "p": 118
+   },
+   {
+    "m": "2024-12",
+    "p": 106
+   },
+   {
+    "m": "2025-02",
+    "p": 98
+   },
+   {
+    "m": "2026-12",
+    "p": 85
+   }
+  ]
+ },
+ {
+  "id": "cpu-112",
+  "slug": "amd-athlon-3000g",
+  "name": "AMD Athlon 3000G",
+  "brand": "AMD",
+  "family": "Athlon",
+  "category": "desktop",
+  "architecture": "Zen",
+  "socket": "AM4",
+  "cores": 2,
+  "threads": 4,
+  "baseClock": 3.5,
+  "boostClock": 3.5,
+  "cacheL3": 4,
+  "tdp": 35,
+  "processNode": 14,
+  "releaseYear": 2020,
+  "releaseDate": "2020-02-15",
+  "launchPrice": 60,
+  "price": 55,
+  "iGPU": "Vega 3",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 163,
+   "multi": 210,
+   "productivity": 373,
+   "gaming": 175
+  },
+  "pros": [
+   "Efficient — runs cool on stock cooling",
+   "Integrated graphics for display/debug",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "None significant at this price"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-07",
+    "p": 59
+   },
+   {
+    "m": "2021-10",
+    "p": 58
+   },
+   {
+    "m": "2021-06",
+    "p": 58
+   },
+   {
+    "m": "2022-08",
+    "p": 59
+   },
+   {
+    "m": "2022-11",
+    "p": 59
+   },
+   {
+    "m": "2023-07",
+    "p": 57
+   },
+   {
+    "m": "2024-11",
+    "p": 58
+   },
+   {
+    "m": "2024-05",
+    "p": 56
+   },
+   {
+    "m": "2025-02",
+    "p": 58
+   },
+   {
+    "m": "2025-10",
+    "p": 58
+   },
+   {
+    "m": "2026-01",
+    "p": 55
+   }
+  ]
+ },
+ {
+  "id": "cpu-113",
+  "slug": "amd-threadripper-pro-7995wx",
+  "name": "AMD Threadripper PRO 7995WX",
+  "brand": "AMD",
+  "family": "Threadripper PRO",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "sWRX90",
+  "cores": 96,
+  "threads": 192,
+  "baseClock": 2.5,
+  "boostClock": 5.1,
+  "cacheL3": 384,
+  "tdp": 350,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-01-15",
+  "launchPrice": 9990,
+  "price": 8500,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 463,
+   "multi": 20782,
+   "productivity": 19629,
+   "gaming": 601
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Requires discrete GPU",
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-04",
+    "p": 9958
+   },
+   {
+    "m": "2023-06",
+    "p": 9435
+   },
+   {
+    "m": "2024-06",
+    "p": 9537
+   },
+   {
+    "m": "2024-04",
+    "p": 9671
+   },
+   {
+    "m": "2024-06",
+    "p": 9002
+   },
+   {
+    "m": "2024-10",
+    "p": 8799
+   },
+   {
+    "m": "2025-06",
+    "p": 9337
+   },
+   {
+    "m": "2025-04",
+    "p": 9164
+   },
+   {
+    "m": "2025-06",
+    "p": 8594
+   },
+   {
+    "m": "2026-06",
+    "p": 8337
+   },
+   {
+    "m": "2026-07",
+    "p": 8500
+   }
+  ]
+ },
+ {
+  "id": "cpu-114",
+  "slug": "amd-threadripper-pro-7965wx",
+  "name": "AMD Threadripper PRO 7965WX",
+  "brand": "AMD",
+  "family": "Threadripper PRO",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "sWRX90",
+  "cores": 24,
+  "threads": 48,
+  "baseClock": 4.2,
+  "boostClock": 5.5,
+  "cacheL3": 128,
+  "tdp": 350,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-11-15",
+  "launchPrice": 3690,
+  "price": 2900,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 500,
+   "multi": 6191,
+   "productivity": 6246,
+   "gaming": 640
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Requires discrete GPU",
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-09",
+    "p": 3592
+   },
+   {
+    "m": "2023-11",
+    "p": 3543
+   },
+   {
+    "m": "2024-03",
+    "p": 3457
+   },
+   {
+    "m": "2024-05",
+    "p": 3435
+   },
+   {
+    "m": "2024-02",
+    "p": 3238
+   },
+   {
+    "m": "2024-12",
+    "p": 3115
+   },
+   {
+    "m": "2025-08",
+    "p": 3202
+   },
+   {
+    "m": "2025-06",
+    "p": 3192
+   },
+   {
+    "m": "2025-03",
+    "p": 2941
+   },
+   {
+    "m": "2026-03",
+    "p": 2895
+   },
+   {
+    "m": "2026-01",
+    "p": 2900
+   }
+  ]
+ },
+ {
+  "id": "cpu-115",
+  "slug": "amd-threadripper-7980x",
+  "name": "AMD Threadripper 7980X",
+  "brand": "AMD",
+  "family": "Threadripper",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "sTR5",
+  "cores": 64,
+  "threads": 128,
+  "baseClock": 3.2,
+  "boostClock": 5.4,
+  "cacheL3": 256,
+  "tdp": 350,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-10-15",
+  "launchPrice": 4990,
+  "price": 4300,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 491,
+   "multi": 14946,
+   "productivity": 14290,
+   "gaming": 631
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Requires discrete GPU",
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-05",
+    "p": 5071
+   },
+   {
+    "m": "2023-10",
+    "p": 4727
+   },
+   {
+    "m": "2024-05",
+    "p": 4839
+   },
+   {
+    "m": "2024-03",
+    "p": 4705
+   },
+   {
+    "m": "2024-03",
+    "p": 4609
+   },
+   {
+    "m": "2024-08",
+    "p": 4593
+   },
+   {
+    "m": "2025-05",
+    "p": 4451
+   },
+   {
+    "m": "2025-10",
+    "p": 4429
+   },
+   {
+    "m": "2025-06",
+    "p": 4323
+   },
+   {
+    "m": "2026-09",
+    "p": 4432
+   },
+   {
+    "m": "2026-12",
+    "p": 4300
+   }
+  ]
+ },
+ {
+  "id": "cpu-116",
+  "slug": "amd-threadripper-7970x",
+  "name": "AMD Threadripper 7970X",
+  "brand": "AMD",
+  "family": "Threadripper",
+  "category": "desktop",
+  "architecture": "Zen 4",
+  "socket": "sTR5",
+  "cores": 32,
+  "threads": 64,
+  "baseClock": 4,
+  "boostClock": 5.6,
+  "cacheL3": 128,
+  "tdp": 350,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-09-15",
+  "launchPrice": 3490,
+  "price": 2950,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 509,
+   "multi": 8141,
+   "productivity": 8050,
+   "gaming": 650
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Requires discrete GPU",
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2023-04",
+    "p": 3549
+   },
+   {
+    "m": "2023-11",
+    "p": 3337
+   },
+   {
+    "m": "2024-02",
+    "p": 3377
+   },
+   {
+    "m": "2024-10",
+    "p": 3337
+   },
+   {
+    "m": "2024-09",
+    "p": 3253
+   },
+   {
+    "m": "2024-02",
+    "p": 3055
+   },
+   {
+    "m": "2025-09",
+    "p": 3221
+   },
+   {
+    "m": "2025-03",
+    "p": 3087
+   },
+   {
+    "m": "2025-06",
+    "p": 2953
+   },
+   {
+    "m": "2026-03",
+    "p": 3011
+   },
+   {
+    "m": "2026-04",
+    "p": 2950
+   }
+  ]
+ },
+ {
+  "id": "cpu-117",
+  "slug": "amd-threadripper-3990x",
+  "name": "AMD Threadripper 3990X",
+  "brand": "AMD",
+  "family": "Threadripper",
+  "category": "desktop",
+  "architecture": "Zen 2",
+  "socket": "sTRX4",
+  "cores": 64,
+  "threads": 128,
+  "baseClock": 2.9,
+  "boostClock": 4.3,
+  "cacheL3": 256,
+  "tdp": 280,
+  "processNode": 7,
+  "releaseYear": 2020,
+  "releaseDate": "2020-08-15",
+  "launchPrice": 3990,
+  "price": 2600,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 275,
+   "multi": 8371,
+   "productivity": 8004,
+   "gaming": 404
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Requires discrete GPU",
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-09",
+    "p": 3907
+   },
+   {
+    "m": "2021-03",
+    "p": 3682
+   },
+   {
+    "m": "2021-07",
+    "p": 3679
+   },
+   {
+    "m": "2022-01",
+    "p": 3379
+   },
+   {
+    "m": "2022-07",
+    "p": 3441
+   },
+   {
+    "m": "2023-12",
+    "p": 3179
+   },
+   {
+    "m": "2024-09",
+    "p": 3169
+   },
+   {
+    "m": "2024-03",
+    "p": 2947
+   },
+   {
+    "m": "2025-10",
+    "p": 2739
+   },
+   {
+    "m": "2025-08",
+    "p": 2605
+   },
+   {
+    "m": "2026-08",
+    "p": 2600
+   }
+  ]
+ },
+ {
+  "id": "cpu-118",
+  "slug": "amd-threadripper-3970x",
+  "name": "AMD Threadripper 3970X",
+  "brand": "AMD",
+  "family": "Threadripper",
+  "category": "desktop",
+  "architecture": "Zen 2",
+  "socket": "sTRX4",
+  "cores": 32,
+  "threads": 64,
+  "baseClock": 3.7,
+  "boostClock": 4.5,
+  "cacheL3": 128,
+  "tdp": 280,
+  "processNode": 7,
+  "releaseYear": 2019,
+  "releaseDate": "2019-07-15",
+  "launchPrice": 1999,
+  "price": 1100,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 288,
+   "multi": 4606,
+   "productivity": 4554,
+   "gaming": 418
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Requires discrete GPU",
+   "Premium pricing"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-01",
+    "p": 1993
+   },
+   {
+    "m": "2020-09",
+    "p": 1925
+   },
+   {
+    "m": "2020-02",
+    "p": 1804
+   },
+   {
+    "m": "2021-03",
+    "p": 1669
+   },
+   {
+    "m": "2022-09",
+    "p": 1606
+   },
+   {
+    "m": "2022-10",
+    "p": 1486
+   },
+   {
+    "m": "2023-11",
+    "p": 1381
+   },
+   {
+    "m": "2024-09",
+    "p": 1334
+   },
+   {
+    "m": "2025-07",
+    "p": 1268
+   },
+   {
+    "m": "2025-04",
+    "p": 1217
+   },
+   {
+    "m": "2026-02",
+    "p": 1100
+   }
+  ]
+ },
+ {
+  "id": "cpu-119",
+  "slug": "amd-threadripper-1950x",
+  "name": "AMD Threadripper 1950X",
+  "brand": "AMD",
+  "family": "Threadripper",
+  "category": "desktop",
+  "architecture": "Zen",
+  "socket": "TR4",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 3.4,
+  "boostClock": 4,
+  "cacheL3": 32,
+  "tdp": 180,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-06-15",
+  "launchPrice": 999,
+  "price": 400,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 186,
+   "multi": 1631,
+   "productivity": 1705,
+   "gaming": 224
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-06",
+    "p": 999
+   },
+   {
+    "m": "2018-03",
+    "p": 938
+   },
+   {
+    "m": "2019-04",
+    "p": 864
+   },
+   {
+    "m": "2020-03",
+    "p": 773
+   },
+   {
+    "m": "2021-08",
+    "p": 721
+   },
+   {
+    "m": "2021-01",
+    "p": 647
+   },
+   {
+    "m": "2022-06",
+    "p": 604
+   },
+   {
+    "m": "2023-03",
+    "p": 564
+   },
+   {
+    "m": "2024-02",
+    "p": 492
+   },
+   {
+    "m": "2025-07",
+    "p": 448
+   },
+   {
+    "m": "2026-10",
+    "p": 400
+   }
+  ]
+ },
+ {
+  "id": "cpu-120",
+  "slug": "amd-epyc-9j85",
+  "name": "AMD EPYC 9J85",
+  "brand": "AMD",
+  "family": "EPYC Genoa",
+  "category": "server",
+  "architecture": "Zen 4",
+  "socket": "SP5",
+  "cores": 128,
+  "threads": 256,
+  "baseClock": 2.6,
+  "boostClock": 3.7,
+  "cacheL3": 256,
+  "tdp": 500,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-05-15",
+  "launchPrice": null,
+  "price": 12000,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 336,
+   "multi": 19935,
+   "productivity": 18710,
+   "gaming": 468
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming"
+  ],
+  "cons": [
+   "High power draw under load"
+  ]
+ },
+ {
+  "id": "cpu-121",
+  "slug": "amd-epyc-9754",
+  "name": "AMD EPYC 9754",
+  "brand": "AMD",
+  "family": "EPYC Genoa",
+  "category": "server",
+  "architecture": "Zen 4",
+  "socket": "SP5",
+  "cores": 128,
+  "threads": 256,
+  "baseClock": 2.25,
+  "boostClock": 3.1,
+  "cacheL3": 256,
+  "tdp": 500,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-04-15",
+  "launchPrice": null,
+  "price": 9500,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 282,
+   "multi": 16731,
+   "productivity": 15703,
+   "gaming": 411
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-122",
+  "slug": "amd-epyc-9654",
+  "name": "AMD EPYC 9654",
+  "brand": "AMD",
+  "family": "EPYC Genoa",
+  "category": "server",
+  "architecture": "Zen 4",
+  "socket": "SP5",
+  "cores": 96,
+  "threads": 192,
+  "baseClock": 2.4,
+  "boostClock": 3.7,
+  "cacheL3": 384,
+  "tdp": 360,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-03-15",
+  "launchPrice": null,
+  "price": 8200,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 336,
+   "multi": 15081,
+   "productivity": 14244,
+   "gaming": 468
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-123",
+  "slug": "amd-epyc-9554",
+  "name": "AMD EPYC 9554",
+  "brand": "AMD",
+  "family": "EPYC Genoa",
+  "category": "server",
+  "architecture": "Zen 4",
+  "socket": "SP5",
+  "cores": 64,
+  "threads": 128,
+  "baseClock": 3.1,
+  "boostClock": 3.75,
+  "cacheL3": 256,
+  "tdp": 360,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-02-15",
+  "launchPrice": null,
+  "price": 5100,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 341,
+   "multi": 10380,
+   "productivity": 9925,
+   "gaming": 473
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-124",
+  "slug": "amd-epyc-9354",
+  "name": "AMD EPYC 9354",
+  "brand": "AMD",
+  "family": "EPYC Genoa",
+  "category": "server",
+  "architecture": "Zen 4",
+  "socket": "SP5",
+  "cores": 32,
+  "threads": 64,
+  "baseClock": 3.25,
+  "boostClock": 3.8,
+  "cacheL3": 256,
+  "tdp": 320,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-01-15",
+  "launchPrice": null,
+  "price": 3400,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 345,
+   "multi": 5518,
+   "productivity": 5456,
+   "gaming": 477
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-125",
+  "slug": "amd-epyc-9124",
+  "name": "AMD EPYC 9124",
+  "brand": "AMD",
+  "family": "EPYC Genoa",
+  "category": "server",
+  "architecture": "Zen 4",
+  "socket": "SP5",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 3,
+  "boostClock": 3.7,
+  "cacheL3": 128,
+  "tdp": 200,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-11-15",
+  "launchPrice": null,
+  "price": 1500,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR5 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 336,
+   "multi": 2947,
+   "productivity": 3081,
+   "gaming": 468
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming"
+  ],
+  "cons": [
+   "High power draw under load"
+  ]
+ },
+ {
+  "id": "cpu-126",
+  "slug": "amd-epyc-7763",
+  "name": "AMD EPYC 7763",
+  "brand": "AMD",
+  "family": "EPYC Milan",
+  "category": "server",
+  "architecture": "Zen 3",
+  "socket": "SP3",
+  "cores": 64,
+  "threads": 128,
+  "baseClock": 2.45,
+  "boostClock": 3.5,
+  "cacheL3": 256,
+  "tdp": 280,
+  "processNode": 7,
+  "releaseYear": 2021,
+  "releaseDate": "2021-10-15",
+  "launchPrice": 6780,
+  "price": 2800,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 277,
+   "multi": 8432,
+   "productivity": 8062,
+   "gaming": 406
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-06",
+    "p": 6758
+   },
+   {
+    "m": "2021-08",
+    "p": 6135
+   },
+   {
+    "m": "2022-02",
+    "p": 5707
+   },
+   {
+    "m": "2022-07",
+    "p": 5388
+   },
+   {
+    "m": "2023-10",
+    "p": 4937
+   },
+   {
+    "m": "2023-10",
+    "p": 4569
+   },
+   {
+    "m": "2024-01",
+    "p": 4067
+   },
+   {
+    "m": "2024-12",
+    "p": 3913
+   },
+   {
+    "m": "2025-04",
+    "p": 3441
+   },
+   {
+    "m": "2026-05",
+    "p": 3019
+   },
+   {
+    "m": "2026-11",
+    "p": 2800
+   }
+  ]
+ },
+ {
+  "id": "cpu-127",
+  "slug": "amd-epyc-7543",
+  "name": "AMD EPYC 7543",
+  "brand": "AMD",
+  "family": "EPYC Milan",
+  "category": "server",
+  "architecture": "Zen 3",
+  "socket": "SP3",
+  "cores": 32,
+  "threads": 64,
+  "baseClock": 2.8,
+  "boostClock": 3.7,
+  "cacheL3": 256,
+  "tdp": 225,
+  "processNode": 7,
+  "releaseYear": 2021,
+  "releaseDate": "2021-09-15",
+  "launchPrice": 3400,
+  "price": 1300,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 293,
+   "multi": 4686,
+   "productivity": 4633,
+   "gaming": 423
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-11",
+    "p": 3450
+   },
+   {
+    "m": "2021-06",
+    "p": 3050
+   },
+   {
+    "m": "2022-01",
+    "p": 2786
+   },
+   {
+    "m": "2022-06",
+    "p": 2519
+   },
+   {
+    "m": "2023-11",
+    "p": 2401
+   },
+   {
+    "m": "2023-02",
+    "p": 2269
+   },
+   {
+    "m": "2024-07",
+    "p": 1940
+   },
+   {
+    "m": "2024-07",
+    "p": 1874
+   },
+   {
+    "m": "2025-07",
+    "p": 1615
+   },
+   {
+    "m": "2026-03",
+    "p": 1429
+   },
+   {
+    "m": "2026-10",
+    "p": 1300
+   }
+  ]
+ },
+ {
+  "id": "cpu-128",
+  "slug": "amd-epyc-7313",
+  "name": "AMD EPYC 7313",
+  "brand": "AMD",
+  "family": "EPYC Milan",
+  "category": "server",
+  "architecture": "Zen 3",
+  "socket": "SP3",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 3,
+  "boostClock": 3.7,
+  "cacheL3": 128,
+  "tdp": 155,
+  "processNode": 7,
+  "releaseYear": 2021,
+  "releaseDate": "2021-08-15",
+  "launchPrice": 1006,
+  "price": 520,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 293,
+   "multi": 2570,
+   "productivity": 2687,
+   "gaming": 423
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2021-02",
+    "p": 985
+   },
+   {
+    "m": "2021-03",
+    "p": 965
+   },
+   {
+    "m": "2022-04",
+    "p": 839
+   },
+   {
+    "m": "2022-02",
+    "p": 804
+   },
+   {
+    "m": "2023-12",
+    "p": 756
+   },
+   {
+    "m": "2023-05",
+    "p": 707
+   },
+   {
+    "m": "2024-01",
+    "p": 669
+   },
+   {
+    "m": "2024-04",
+    "p": 645
+   },
+   {
+    "m": "2025-08",
+    "p": 599
+   },
+   {
+    "m": "2026-05",
+    "p": 571
+   },
+   {
+    "m": "2026-06",
+    "p": 520
+   }
+  ]
+ },
+ {
+  "id": "cpu-129",
+  "slug": "amd-epyc-7742",
+  "name": "AMD EPYC 7742",
+  "brand": "AMD",
+  "family": "EPYC Rome",
+  "category": "server",
+  "architecture": "Zen 2",
+  "socket": "SP3",
+  "cores": 64,
+  "threads": 128,
+  "baseClock": 2.25,
+  "boostClock": 3.4,
+  "cacheL3": 256,
+  "tdp": 225,
+  "processNode": 7,
+  "releaseYear": 2019,
+  "releaseDate": "2019-07-15",
+  "launchPrice": 6950,
+  "price": 1400,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 218,
+   "multi": 6636,
+   "productivity": 6345,
+   "gaming": 344
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-07",
+    "p": 7199
+   },
+   {
+    "m": "2020-09",
+    "p": 6253
+   },
+   {
+    "m": "2020-11",
+    "p": 5557
+   },
+   {
+    "m": "2021-08",
+    "p": 4817
+   },
+   {
+    "m": "2022-05",
+    "p": 4210
+   },
+   {
+    "m": "2022-09",
+    "p": 3706
+   },
+   {
+    "m": "2023-04",
+    "p": 3368
+   },
+   {
+    "m": "2024-02",
+    "p": 2760
+   },
+   {
+    "m": "2025-10",
+    "p": 2361
+   },
+   {
+    "m": "2025-03",
+    "p": 1837
+   },
+   {
+    "m": "2026-03",
+    "p": 1400
+   }
+  ]
+ },
+ {
+  "id": "cpu-130",
+  "slug": "amd-epyc-7452",
+  "name": "AMD EPYC 7452",
+  "brand": "AMD",
+  "family": "EPYC Rome",
+  "category": "server",
+  "architecture": "Zen 2",
+  "socket": "SP3",
+  "cores": 32,
+  "threads": 64,
+  "baseClock": 2.35,
+  "boostClock": 3.35,
+  "cacheL3": 128,
+  "tdp": 155,
+  "processNode": 7,
+  "releaseYear": 2019,
+  "releaseDate": "2019-06-15",
+  "launchPrice": 2451,
+  "price": 600,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 215,
+   "multi": 3439,
+   "productivity": 3400,
+   "gaming": 341
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2019-01",
+    "p": 2492
+   },
+   {
+    "m": "2020-07",
+    "p": 2111
+   },
+   {
+    "m": "2020-03",
+    "p": 2000
+   },
+   {
+    "m": "2021-09",
+    "p": 1729
+   },
+   {
+    "m": "2022-10",
+    "p": 1525
+   },
+   {
+    "m": "2022-02",
+    "p": 1360
+   },
+   {
+    "m": "2023-10",
+    "p": 1203
+   },
+   {
+    "m": "2024-01",
+    "p": 1024
+   },
+   {
+    "m": "2025-09",
+    "p": 871
+   },
+   {
+    "m": "2025-02",
+    "p": 723
+   },
+   {
+    "m": "2026-04",
+    "p": 600
+   }
+  ]
+ },
+ {
+  "id": "cpu-131",
+  "slug": "amd-ryzen-threadripper-pro-5995wx",
+  "name": "AMD Ryzen Threadripper PRO 5995WX",
+  "brand": "AMD",
+  "family": "Threadripper PRO",
+  "category": "server",
+  "architecture": "Zen 3",
+  "socket": "sWRX8",
+  "cores": 64,
+  "threads": 128,
+  "baseClock": 2.7,
+  "boostClock": 4.5,
+  "cacheL3": 256,
+  "tdp": 280,
+  "processNode": 7,
+  "releaseYear": 2022,
+  "releaseDate": "2022-05-15",
+  "launchPrice": 6499,
+  "price": 5200,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 356,
+   "multi": 10836,
+   "productivity": 10361,
+   "gaming": 489
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Huge L3 cache helps gaming",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load"
+  ],
+  "priceHistory": [
+   {
+    "m": "2022-04",
+    "p": 6344
+   },
+   {
+    "m": "2022-08",
+    "p": 6105
+   },
+   {
+    "m": "2023-07",
+    "p": 6133
+   },
+   {
+    "m": "2023-11",
+    "p": 5897
+   },
+   {
+    "m": "2024-10",
+    "p": 5956
+   },
+   {
+    "m": "2024-06",
+    "p": 5653
+   },
+   {
+    "m": "2024-03",
+    "p": 5643
+   },
+   {
+    "m": "2025-09",
+    "p": 5598
+   },
+   {
+    "m": "2025-09",
+    "p": 5626
+   },
+   {
+    "m": "2026-12",
+    "p": 5293
+   },
+   {
+    "m": "2026-06",
+    "p": 5200
+   }
+  ]
+ },
+ {
+  "id": "cpu-132",
+  "slug": "amd-ryzen-threadripper-pro-3955wx",
+  "name": "AMD Ryzen Threadripper PRO 3955WX",
+  "brand": "AMD",
+  "family": "Threadripper PRO",
+  "category": "server",
+  "architecture": "Zen 2",
+  "socket": "sWRX8",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 3.9,
+  "boostClock": 4.35,
+  "cacheL3": 64,
+  "tdp": 200,
+  "processNode": 7,
+  "releaseYear": 2020,
+  "releaseDate": "2020-04-15",
+  "launchPrice": 1099,
+  "price": 700,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4 ECC"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 279,
+   "multi": 2447,
+   "productivity": 2558,
+   "gaming": 351
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "Stock cooler inadequate for boost clocks"
+  ],
+  "priceHistory": [
+   {
+    "m": "2020-11",
+    "p": 1129
+   },
+   {
+    "m": "2021-09",
+    "p": 1033
+   },
+   {
+    "m": "2021-06",
+    "p": 1019
+   },
+   {
+    "m": "2022-03",
+    "p": 917
+   },
+   {
+    "m": "2022-05",
+    "p": 911
+   },
+   {
+    "m": "2023-01",
+    "p": 900
+   },
+   {
+    "m": "2024-04",
+    "p": 817
+   },
+   {
+    "m": "2024-11",
+    "p": 799
+   },
+   {
+    "m": "2025-09",
+    "p": 765
+   },
+   {
+    "m": "2025-04",
+    "p": 751
+   },
+   {
+    "m": "2026-01",
+    "p": 700
+   }
+  ]
+ },
+ {
+  "id": "cpu-133",
+  "slug": "amd-ryzen-9-8945hs",
+  "name": "AMD Ryzen 9 8945HS",
+  "brand": "AMD",
+  "family": "Ryzen 8000",
+  "category": "mobile",
+  "architecture": "Zen 4 (Hawk Point)",
+  "socket": "FP8",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 4,
+  "boostClock": 5.2,
+  "cacheL3": 16,
+  "tdp": 45,
+  "processNode": 4,
+  "releaseYear": 2024,
+  "releaseDate": "2024-03-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon 780M",
+  "memoryTypes": [
+   "DDR5",
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 460,
+   "multi": 2373,
+   "productivity": 2689,
+   "gaming": 497
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-134",
+  "slug": "amd-ryzen-7-8845hs",
+  "name": "AMD Ryzen 7 8845HS",
+  "brand": "AMD",
+  "family": "Ryzen 8000",
+  "category": "mobile",
+  "architecture": "Zen 4 (Hawk Point)",
+  "socket": "FP8",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.8,
+  "boostClock": 5.1,
+  "cacheL3": 16,
+  "tdp": 45,
+  "processNode": 4,
+  "releaseYear": 2024,
+  "releaseDate": "2024-02-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon 780M",
+  "memoryTypes": [
+   "DDR5",
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 451,
+   "multi": 2327,
+   "productivity": 2637,
+   "gaming": 488
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-135",
+  "slug": "amd-ryzen-9-7945hx",
+  "name": "AMD Ryzen 9 7945HX",
+  "brand": "AMD",
+  "family": "Ryzen 7000",
+  "category": "mobile",
+  "architecture": "Zen 4",
+  "socket": "FL1",
+  "cores": 16,
+  "threads": 32,
+  "baseClock": 2.5,
+  "boostClock": 5.4,
+  "cacheL3": 64,
+  "tdp": 55,
+  "processNode": 5,
+  "releaseYear": 2023,
+  "releaseDate": "2023-01-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "RDNA2 2CU",
+  "memoryTypes": [
+   "DDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 491,
+   "multi": 4306,
+   "productivity": 4502,
+   "gaming": 573
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-136",
+  "slug": "amd-ryzen-7-7735hs",
+  "name": "AMD Ryzen 7 7735HS",
+  "brand": "AMD",
+  "family": "Ryzen 7000",
+  "category": "mobile",
+  "architecture": "Zen 3+ (Rembrandt-R)",
+  "socket": "FP7",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.2,
+  "boostClock": 4.8,
+  "cacheL3": 16,
+  "tdp": 35,
+  "processNode": 6,
+  "releaseYear": 2023,
+  "releaseDate": "2023-11-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon 680M",
+  "memoryTypes": [
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 358,
+   "multi": 1847,
+   "productivity": 2093,
+   "gaming": 390
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-137",
+  "slug": "amd-ryzen-7-7840hs",
+  "name": "AMD Ryzen 7 7840HS",
+  "brand": "AMD",
+  "family": "Ryzen 7000",
+  "category": "mobile",
+  "architecture": "Zen 4 (Phoenix)",
+  "socket": "FP8",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.8,
+  "boostClock": 5.1,
+  "cacheL3": 16,
+  "tdp": 35,
+  "processNode": 4,
+  "releaseYear": 2023,
+  "releaseDate": "2023-10-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon 780M",
+  "memoryTypes": [
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 451,
+   "multi": 2327,
+   "productivity": 2637,
+   "gaming": 488
+  },
+  "pros": [
+   "Monster multithreaded throughput",
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-138",
+  "slug": "amd-ryzen-5-7535hs",
+  "name": "AMD Ryzen 5 7535HS",
+  "brand": "AMD",
+  "family": "Ryzen 7000",
+  "category": "mobile",
+  "architecture": "Zen 3+ (Barcelo-R)",
+  "socket": "FP7",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.3,
+  "boostClock": 4.55,
+  "cacheL3": 16,
+  "tdp": 35,
+  "processNode": 6,
+  "releaseYear": 2023,
+  "releaseDate": "2023-09-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon 660M",
+  "memoryTypes": [
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 318,
+   "multi": 1230,
+   "productivity": 1481,
+   "gaming": 348
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-139",
+  "slug": "amd-ryzen-9-6900hs",
+  "name": "AMD Ryzen 9 6900HS",
+  "brand": "AMD",
+  "family": "Ryzen 6000",
+  "category": "mobile",
+  "architecture": "Zen 3+ (Rembrandt)",
+  "socket": "FP7",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.2,
+  "boostClock": 4.9,
+  "cacheL3": 16,
+  "tdp": 35,
+  "processNode": 6,
+  "releaseYear": 2022,
+  "releaseDate": "2022-08-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon 680M",
+  "memoryTypes": [
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 365,
+   "multi": 1883,
+   "productivity": 2134,
+   "gaming": 398
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-140",
+  "slug": "amd-ryzen-7-6800h",
+  "name": "AMD Ryzen 7 6800H",
+  "brand": "AMD",
+  "family": "Ryzen 6000",
+  "category": "mobile",
+  "architecture": "Zen 3+ (Rembrandt)",
+  "socket": "FP7",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.2,
+  "boostClock": 4.7,
+  "cacheL3": 16,
+  "tdp": 45,
+  "processNode": 6,
+  "releaseYear": 2022,
+  "releaseDate": "2022-07-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon 680M",
+  "memoryTypes": [
+   "DDR5",
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 350,
+   "multi": 1806,
+   "productivity": 2047,
+   "gaming": 382
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-141",
+  "slug": "amd-ryzen-9-5900hx",
+  "name": "AMD Ryzen 9 5900HX",
+  "brand": "AMD",
+  "family": "Ryzen 5000",
+  "category": "mobile",
+  "architecture": "Zen 3 (Vermeer)",
+  "socket": "FP6",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.3,
+  "boostClock": 4.6,
+  "cacheL3": 16,
+  "tdp": 45,
+  "processNode": 7,
+  "releaseYear": 2021,
+  "releaseDate": "2021-06-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Vega 8",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 354,
+   "multi": 1826,
+   "productivity": 2069,
+   "gaming": 386
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-142",
+  "slug": "amd-ryzen-7-5800h",
+  "name": "AMD Ryzen 7 5800H",
+  "brand": "AMD",
+  "family": "Ryzen 5000",
+  "category": "mobile",
+  "architecture": "Zen 3 (Cezanne)",
+  "socket": "FP6",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.2,
+  "boostClock": 4.4,
+  "cacheL3": 16,
+  "tdp": 45,
+  "processNode": 7,
+  "releaseYear": 2021,
+  "releaseDate": "2021-05-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon RX Vega 8",
+  "memoryTypes": [
+   "DDR4",
+   "LPDDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 323,
+   "multi": 1666,
+   "productivity": 1888,
+   "gaming": 354
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-143",
+  "slug": "amd-ryzen-5-5600h",
+  "name": "AMD Ryzen 5 5600H",
+  "brand": "AMD",
+  "family": "Ryzen 5000",
+  "category": "mobile",
+  "architecture": "Zen 3 (Cezanne)",
+  "socket": "FP6",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 3.3,
+  "boostClock": 4.2,
+  "cacheL3": 16,
+  "tdp": 45,
+  "processNode": 7,
+  "releaseYear": 2021,
+  "releaseDate": "2021-04-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon RX Vega 7",
+  "memoryTypes": [
+   "DDR4",
+   "LPDDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 308,
+   "multi": 1192,
+   "productivity": 1435,
+   "gaming": 338
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-144",
+  "slug": "amd-ryzen-7-4800h",
+  "name": "AMD Ryzen 7 4800H",
+  "brand": "AMD",
+  "family": "Ryzen 4000",
+  "category": "mobile",
+  "architecture": "Zen 2 (Renoir)",
+  "socket": "FP6",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 2.9,
+  "boostClock": 4.2,
+  "cacheL3": 8,
+  "tdp": 45,
+  "processNode": 7,
+  "releaseYear": 2020,
+  "releaseDate": "2020-03-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon RX Vega 7",
+  "memoryTypes": [
+   "DDR4",
+   "LPDDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 254,
+   "multi": 1310,
+   "productivity": 1485,
+   "gaming": 274
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-145",
+  "slug": "amd-ryzen-5-4500u",
+  "name": "AMD Ryzen 5 4500U",
+  "brand": "AMD",
+  "family": "Ryzen 4000",
+  "category": "mobile",
+  "architecture": "Zen 2 (Renoir)",
+  "socket": "FP6",
+  "cores": 6,
+  "threads": 12,
+  "baseClock": 2.3,
+  "boostClock": 4,
+  "cacheL3": 8,
+  "tdp": 15,
+  "processNode": 7,
+  "releaseYear": 2020,
+  "releaseDate": "2020-02-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon RX Vega 6",
+  "memoryTypes": [
+   "DDR4",
+   "LPDDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 242,
+   "multi": 936,
+   "productivity": 1127,
+   "gaming": 261
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-146",
+  "slug": "amd-ryzen-7-3750h",
+  "name": "AMD Ryzen 7 3750H",
+  "brand": "AMD",
+  "family": "Ryzen 3000",
+  "category": "mobile",
+  "architecture": "Zen+ (Picasso)",
+  "socket": "FP6",
+  "cores": 4,
+  "threads": 8,
+  "baseClock": 2.7,
+  "boostClock": 4,
+  "cacheL3": 4,
+  "tdp": 35,
+  "processNode": 12,
+  "releaseYear": 2019,
+  "releaseDate": "2019-01-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon RX Vega 10",
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 196,
+   "multi": 506,
+   "productivity": 681,
+   "gaming": 209
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "Stock cooler inadequate for boost clocks"
+  ]
+ },
+ {
+  "id": "cpu-147",
+  "slug": "amd-ryzen-9-6900hx",
+  "name": "AMD Ryzen 9 6900HX",
+  "brand": "AMD",
+  "family": "Ryzen 6000",
+  "category": "mobile",
+  "architecture": "Zen 3+ (Rembrandt)",
+  "socket": "FP7",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3.3,
+  "boostClock": 4.9,
+  "cacheL3": 16,
+  "tdp": 45,
+  "processNode": 6,
+  "releaseYear": 2022,
+  "releaseDate": "2022-11-15",
+  "launchPrice": null,
+  "price": null,
+  "iGPU": "Radeon 680M",
+  "memoryTypes": [
+   "LPDDR5"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 365,
+   "multi": 1883,
+   "productivity": 2134,
+   "gaming": 398
+  },
+  "pros": [
+   "Integrated graphics for display/debug"
+  ],
+  "cons": [
+   "None significant at this price"
+  ]
+ },
+ {
+  "id": "cpu-148",
+  "slug": "amd-fx-9590",
+  "name": "AMD FX-9590",
+  "brand": "AMD",
+  "family": "FX",
+  "category": "legacy",
+  "architecture": "Piledriver (Vishera)",
+  "socket": "AM3+",
+  "cores": 8,
+  "threads": 8,
+  "baseClock": 4.7,
+  "boostClock": 5,
+  "cacheL3": 8,
+  "tdp": 220,
+  "processNode": 32,
+  "releaseYear": 2013,
+  "releaseDate": "2013-10-15",
+  "launchPrice": 299,
+  "price": 90,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 151,
+   "multi": 374,
+   "productivity": 510,
+   "gaming": 166
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "High power draw under load",
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2013-07",
+    "p": 299
+   },
+   {
+    "m": "2014-08",
+    "p": 271
+   },
+   {
+    "m": "2016-04",
+    "p": 233
+   },
+   {
+    "m": "2017-09",
+    "p": 215
+   },
+   {
+    "m": "2018-01",
+    "p": 198
+   },
+   {
+    "m": "2019-09",
+    "p": 173
+   },
+   {
+    "m": "2021-08",
+    "p": 156
+   },
+   {
+    "m": "2022-06",
+    "p": 141
+   },
+   {
+    "m": "2023-03",
+    "p": 128
+   },
+   {
+    "m": "2025-09",
+    "p": 109
+   },
+   {
+    "m": "2026-03",
+    "p": 90
+   }
+  ]
+ },
+ {
+  "id": "cpu-149",
+  "slug": "amd-fx-8350",
+  "name": "AMD FX-8350",
+  "brand": "AMD",
+  "family": "FX",
+  "category": "legacy",
+  "architecture": "Vishera",
+  "socket": "AM3+",
+  "cores": 8,
+  "threads": 8,
+  "baseClock": 4,
+  "boostClock": 4.2,
+  "cacheL3": 8,
+  "tdp": 125,
+  "processNode": 32,
+  "releaseYear": 2012,
+  "releaseDate": "2012-09-15",
+  "launchPrice": 195,
+  "price": 60,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 127,
+   "multi": 314,
+   "productivity": 429,
+   "gaming": 141
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU",
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2012-07",
+    "p": 191
+   },
+   {
+    "m": "2013-01",
+    "p": 174
+   },
+   {
+    "m": "2015-12",
+    "p": 155
+   },
+   {
+    "m": "2016-05",
+    "p": 148
+   },
+   {
+    "m": "2018-09",
+    "p": 131
+   },
+   {
+    "m": "2019-11",
+    "p": 115
+   },
+   {
+    "m": "2020-03",
+    "p": 109
+   },
+   {
+    "m": "2022-08",
+    "p": 92
+   },
+   {
+    "m": "2023-05",
+    "p": 80
+   },
+   {
+    "m": "2025-11",
+    "p": 72
+   },
+   {
+    "m": "2026-08",
+    "p": 60
+   }
+  ]
+ },
+ {
+  "id": "cpu-150",
+  "slug": "amd-phenom-ii-x4-965",
+  "name": "AMD Phenom II X4 965",
+  "brand": "AMD",
+  "family": "Phenom II",
+  "category": "legacy",
+  "architecture": "Deneb",
+  "socket": "AM3",
+  "cores": 4,
+  "threads": 4,
+  "baseClock": 3.4,
+  "boostClock": 3.4,
+  "cacheL3": 6,
+  "tdp": 125,
+  "processNode": 45,
+  "releaseYear": 2009,
+  "releaseDate": "2009-08-15",
+  "launchPrice": 245,
+  "price": 40,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR2",
+   "DDR3"
+  ],
+  "overclockable": true,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 79,
+   "multi": 98,
+   "productivity": 177,
+   "gaming": 88
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU",
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2009-07",
+    "p": 247
+   },
+   {
+    "m": "2011-11",
+    "p": 220
+   },
+   {
+    "m": "2012-07",
+    "p": 183
+   },
+   {
+    "m": "2014-06",
+    "p": 168
+   },
+   {
+    "m": "2016-02",
+    "p": 151
+   },
+   {
+    "m": "2017-07",
+    "p": 127
+   },
+   {
+    "m": "2019-07",
+    "p": 109
+   },
+   {
+    "m": "2021-01",
+    "p": 89
+   },
+   {
+    "m": "2023-11",
+    "p": 73
+   },
+   {
+    "m": "2024-11",
+    "p": 58
+   },
+   {
+    "m": "2026-10",
+    "p": 40
+   }
+  ]
+ },
+ {
+  "id": "cpu-151",
+  "slug": "amd-athlon-64-x2-6000plus",
+  "name": "AMD Athlon 64 X2 6000+",
+  "brand": "AMD",
+  "family": "Athlon 64 X2",
+  "category": "legacy",
+  "architecture": "Brisbane",
+  "socket": "AM2",
+  "cores": 2,
+  "threads": 2,
+  "baseClock": 3,
+  "boostClock": 3,
+  "cacheL3": 2,
+  "tdp": 89,
+  "processNode": 65,
+  "releaseYear": 2007,
+  "releaseDate": "2007-07-15",
+  "launchPrice": 221,
+  "price": 25,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR2"
+  ],
+  "overclockable": true,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 56,
+   "multi": 35,
+   "productivity": 94,
+   "gaming": 61
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU",
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2007-06",
+    "p": 224
+   },
+   {
+    "m": "2009-08",
+    "p": 188
+   },
+   {
+    "m": "2011-10",
+    "p": 167
+   },
+   {
+    "m": "2013-09",
+    "p": 147
+   },
+   {
+    "m": "2015-11",
+    "p": 125
+   },
+   {
+    "m": "2016-01",
+    "p": 105
+   },
+   {
+    "m": "2018-04",
+    "p": 93
+   },
+   {
+    "m": "2020-01",
+    "p": 75
+   },
+   {
+    "m": "2022-09",
+    "p": 57
+   },
+   {
+    "m": "2024-06",
+    "p": 40
+   },
+   {
+    "m": "2026-08",
+    "p": 25
+   }
+  ]
+ },
+ {
+  "id": "cpu-152",
+  "slug": "amd-athlon-64-3200plus",
+  "name": "AMD Athlon 64 3200+",
+  "brand": "AMD",
+  "family": "Athlon 64",
+  "category": "legacy",
+  "architecture": "Newcastle",
+  "socket": "Socket 754",
+  "cores": 1,
+  "threads": 1,
+  "baseClock": 2,
+  "boostClock": 2,
+  "cacheL3": 1,
+  "tdp": 89,
+  "processNode": 130,
+  "releaseYear": 2004,
+  "releaseDate": "2004-06-15",
+  "launchPrice": 417,
+  "price": 20,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 28,
+   "multi": 8,
+   "productivity": 38,
+   "gaming": 30
+  },
+  "pros": [
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU",
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2004-01",
+    "p": 407
+   },
+   {
+    "m": "2006-11",
+    "p": 362
+   },
+   {
+    "m": "2008-01",
+    "p": 307
+   },
+   {
+    "m": "2011-08",
+    "p": 255
+   },
+   {
+    "m": "2013-03",
+    "p": 230
+   },
+   {
+    "m": "2015-11",
+    "p": 182
+   },
+   {
+    "m": "2017-05",
+    "p": 153
+   },
+   {
+    "m": "2019-08",
+    "p": 122
+   },
+   {
+    "m": "2022-12",
+    "p": 83
+   },
+   {
+    "m": "2024-09",
+    "p": 53
+   },
+   {
+    "m": "2026-08",
+    "p": 20
+   }
+  ]
+ },
+ {
+  "id": "cpu-153",
+  "slug": "amd-opteron-246",
+  "name": "AMD Opteron 246",
+  "brand": "AMD",
+  "family": "Opteron",
+  "category": "legacy",
+  "architecture": "Sledgehammer",
+  "socket": "Socket 940",
+  "cores": 1,
+  "threads": 1,
+  "baseClock": 2.1,
+  "boostClock": 2.1,
+  "cacheL3": 1,
+  "tdp": 95,
+  "processNode": 130,
+  "releaseYear": 2003,
+  "releaseDate": "2003-05-15",
+  "launchPrice": 851,
+  "price": 15,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR ECC"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 24,
+   "multi": 7,
+   "productivity": 33,
+   "gaming": 26
+  },
+  "pros": [
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU",
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2003-05",
+    "p": 842
+   },
+   {
+    "m": "2005-01",
+    "p": 702
+   },
+   {
+    "m": "2008-01",
+    "p": 627
+   },
+   {
+    "m": "2010-10",
+    "p": 537
+   },
+   {
+    "m": "2012-02",
+    "p": 445
+   },
+   {
+    "m": "2014-04",
+    "p": 358
+   },
+   {
+    "m": "2017-01",
+    "p": 284
+   },
+   {
+    "m": "2019-01",
+    "p": 227
+   },
+   {
+    "m": "2021-09",
+    "p": 147
+   },
+   {
+    "m": "2024-04",
+    "p": 85
+   },
+   {
+    "m": "2026-02",
+    "p": 15
+   }
+  ]
+ },
+ {
+  "id": "cpu-154",
+  "slug": "amd-ryzen-7-1700",
+  "name": "AMD Ryzen 7 1700",
+  "brand": "AMD",
+  "family": "Ryzen 7",
+  "category": "legacy",
+  "architecture": "Zen",
+  "socket": "AM4",
+  "cores": 8,
+  "threads": 16,
+  "baseClock": 3,
+  "boostClock": 3.7,
+  "cacheL3": 16,
+  "tdp": 65,
+  "processNode": 14,
+  "releaseYear": 2017,
+  "releaseDate": "2017-04-15",
+  "launchPrice": 329,
+  "price": 110,
+  "iGPU": null,
+  "memoryTypes": [
+   "DDR4"
+  ],
+  "overclockable": true,
+  "unlocked": true,
+  "benchmarks": {
+   "single": 172,
+   "multi": 532,
+   "productivity": 679,
+   "gaming": 195
+  },
+  "pros": [
+   "Heavily discounted from launch",
+   "Unlocked for overclocking"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "Requires discrete GPU"
+  ],
+  "priceHistory": [
+   {
+    "m": "2017-06",
+    "p": 323
+   },
+   {
+    "m": "2018-04",
+    "p": 292
+   },
+   {
+    "m": "2019-08",
+    "p": 259
+   },
+   {
+    "m": "2020-08",
+    "p": 244
+   },
+   {
+    "m": "2021-12",
+    "p": 220
+   },
+   {
+    "m": "2021-10",
+    "p": 207
+   },
+   {
+    "m": "2022-10",
+    "p": 185
+   },
+   {
+    "m": "2023-08",
+    "p": 168
+   },
+   {
+    "m": "2024-10",
+    "p": 146
+   },
+   {
+    "m": "2025-10",
+    "p": 126
+   },
+   {
+    "m": "2026-01",
+    "p": 110
+   }
+  ]
+ },
+ {
+  "id": "cpu-155",
+  "slug": "amd-a10-9700",
+  "name": "AMD A10-9700",
+  "brand": "AMD",
+  "family": "A-Series",
+  "category": "legacy",
+  "architecture": "Excavator (Bristol Ridge)",
+  "socket": "AM4",
+  "cores": 4,
+  "threads": 4,
+  "baseClock": 3.5,
+  "boostClock": 3.8,
+  "cacheL3": 2,
+  "tdp": 65,
+  "processNode": 28,
+  "releaseYear": 2016,
+  "releaseDate": "2016-03-15",
+  "launchPrice": 147,
+  "price": 50,
+  "iGPU": "Radeon R7",
+  "memoryTypes": [
+   "DDR3",
+   "DDR4"
+  ],
+  "overclockable": false,
+  "unlocked": false,
+  "benchmarks": {
+   "single": 106,
+   "multi": 131,
+   "productivity": 237,
+   "gaming": 113
+  },
+  "pros": [
+   "Integrated graphics for display/debug",
+   "Heavily discounted from launch"
+  ],
+  "cons": [
+   "No modern ISA extensions (AVX2/AVX-512)",
+   "No SMT — limited multitasking"
+  ],
+  "priceHistory": [
+   {
+    "m": "2016-02",
+    "p": 150
+   },
+   {
+    "m": "2017-01",
+    "p": 130
+   },
+   {
+    "m": "2018-02",
+    "p": 125
+   },
+   {
+    "m": "2019-12",
+    "p": 114
+   },
+   {
+    "m": "2020-08",
+    "p": 104
+   },
+   {
+    "m": "2021-09",
+    "p": 94
+   },
+   {
+    "m": "2022-05",
+    "p": 81
+   },
+   {
+    "m": "2023-07",
+    "p": 76
+   },
+   {
+    "m": "2024-11",
+    "p": 68
+   },
+   {
+    "m": "2025-02",
+    "p": 59
+   },
+   {
+    "m": "2026-01",
+    "p": 50
+   }
+  ]
+ }
+]
